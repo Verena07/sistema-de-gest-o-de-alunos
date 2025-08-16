@@ -1,0 +1,11045 @@
+[
+  {
+    "id": 1,
+    "nome": "Sydel",
+    "sobrenome": "Woolston",
+    "nota1": 6.1,
+    "nota2": 1.9,
+    "nota3": 9.7,
+    "nota4": 9,
+    "faltas": 7
+  },
+  {
+    "id": 2,
+    "nome": "Manuel",
+    "sobrenome": "Escalante",
+    "nota1": 2.3,
+    "nota2": 5.1,
+    "nota3": 6.4,
+    "nota4": 5.9,
+    "faltas": 0
+  },
+  {
+    "id": 3,
+    "nome": "Alyda",
+    "sobrenome": "Whyberd",
+    "nota1": 8.6,
+    "nota2": null,
+    "nota3": 4.8,
+    "nota4": 5.6,
+    "faltas": 6
+  },
+  {
+    "id": 4,
+    "nome": "Roger",
+    "sobrenome": "Nesbitt",
+    "nota1": 6.1,
+    "nota2": 2.9,
+    "nota3": 9.5,
+    "nota4": 2.4,
+    "faltas": 13
+  },
+  {
+    "id": 5,
+    "nome": "Erina",
+    "sobrenome": "Anselm",
+    "nota1": 8,
+    "nota2": 2.7,
+    "nota3": 8.1,
+    "nota4": 4.2,
+    "faltas": 16
+  },
+  {
+    "id": 6,
+    "nome": "Sandy",
+    "sobrenome": "Ferens",
+    "nota1": 6.9,
+    "nota2": 3.7,
+    "nota3": 6.1,
+    "nota4": 4,
+    "faltas": 6
+  },
+  {
+    "id": 7,
+    "nome": "Patrizio",
+    "sobrenome": "Deverille",
+    "nota1": 3.6,
+    "nota2": 8.1,
+    "nota3": null,
+    "nota4": 5.9,
+    "faltas": 6
+  },
+  {
+    "id": 8,
+    "nome": "Michell",
+    "sobrenome": "Stokey",
+    "nota1": 1.5,
+    "nota2": 3.4,
+    "nota3": 3.2,
+    "nota4": 4,
+    "faltas": 3
+  },
+  {
+    "id": 9,
+    "nome": "Chere",
+    "sobrenome": "Kleynermans",
+    "nota1": 2.8,
+    "nota2": 1.3,
+    "nota3": 5.5,
+    "nota4": 8.3,
+    "faltas": 12
+  },
+  {
+    "id": 10,
+    "nome": "Josepha",
+    "sobrenome": "China",
+    "nota1": 5.1,
+    "nota2": 5.4,
+    "nota3": 4.4,
+    "nota4": 3.7,
+    "faltas": 5
+  },
+  {
+    "id": 11,
+    "nome": "Alex",
+    "sobrenome": "Parminter",
+    "nota1": 5.6,
+    "nota2": 2.5,
+    "nota3": 1.6,
+    "nota4": 7.4,
+    "faltas": 16
+  },
+  {
+    "id": 12,
+    "nome": "Suzy",
+    "sobrenome": "MacGorrie",
+    "nota1": 3.8,
+    "nota2": 1.8,
+    "nota3": 6.4,
+    "nota4": 7.8,
+    "faltas": 18
+  },
+  {
+    "id": 13,
+    "nome": "Sherill",
+    "sobrenome": "Nissle",
+    "nota1": 5.7,
+    "nota2": 9.9,
+    "nota3": null,
+    "nota4": 1.8,
+    "faltas": 12
+  },
+  {
+    "id": 14,
+    "nome": "Hedvig",
+    "sobrenome": "Dryden",
+    "nota1": 5.4,
+    "nota2": 3.5,
+    "nota3": 2.3,
+    "nota4": 8.2,
+    "faltas": 7
+  },
+  {
+    "id": 15,
+    "nome": "Bobbi",
+    "sobrenome": "Clarke",
+    "nota1": 6.3,
+    "nota2": 9.4,
+    "nota3": 9,
+    "nota4": 3,
+    "faltas": 8
+  },
+  {
+    "id": 16,
+    "nome": "Ermanno",
+    "sobrenome": "Buddington",
+    "nota1": 4.8,
+    "nota2": 2,
+    "nota3": 1,
+    "nota4": 1.2,
+    "faltas": 0
+  },
+  {
+    "id": 17,
+    "nome": "Dean",
+    "sobrenome": "Pellew",
+    "nota1": 6,
+    "nota2": 7.7,
+    "nota3": 5.3,
+    "nota4": 9.5,
+    "faltas": 9
+  },
+  {
+    "id": 18,
+    "nome": "Stavros",
+    "sobrenome": "Arminger",
+    "nota1": 4.1,
+    "nota2": 2.6,
+    "nota3": null,
+    "nota4": 6.1,
+    "faltas": 20
+  },
+  {
+    "id": 19,
+    "nome": "Bennie",
+    "sobrenome": "Sturch",
+    "nota1": 9.4,
+    "nota2": null,
+    "nota3": 2.8,
+    "nota4": 8,
+    "faltas": 11
+  },
+  {
+    "id": 20,
+    "nome": "Ryley",
+    "sobrenome": "Roskams",
+    "nota1": 3.1,
+    "nota2": 3.5,
+    "nota3": 6,
+    "nota4": 2.5,
+    "faltas": 20
+  },
+  {
+    "id": 21,
+    "nome": "Napoleon",
+    "sobrenome": "Scurlock",
+    "nota1": 3.5,
+    "nota2": 8.2,
+    "nota3": 9.3,
+    "nota4": null,
+    "faltas": 15
+  },
+  {
+    "id": 22,
+    "nome": "Agustin",
+    "sobrenome": "St. Clair",
+    "nota1": 3.7,
+    "nota2": 5.8,
+    "nota3": 8.6,
+    "nota4": 3.3,
+    "faltas": 6
+  },
+  {
+    "id": 23,
+    "nome": "Kelsy",
+    "sobrenome": "Tolotti",
+    "nota1": 1.6,
+    "nota2": 7.4,
+    "nota3": 9.2,
+    "nota4": 6.9,
+    "faltas": 18
+  },
+  {
+    "id": 24,
+    "nome": "Farly",
+    "sobrenome": "Robberecht",
+    "nota1": 3.8,
+    "nota2": 6.5,
+    "nota3": 5.5,
+    "nota4": 7.1,
+    "faltas": 17
+  },
+  {
+    "id": 25,
+    "nome": "Natka",
+    "sobrenome": "Dabney",
+    "nota1": 9.2,
+    "nota2": 1.1,
+    "nota3": 3.3,
+    "nota4": 2.1,
+    "faltas": 13
+  },
+  {
+    "id": 26,
+    "nome": "Sky",
+    "sobrenome": "Whitfield",
+    "nota1": 7.3,
+    "nota2": 6.3,
+    "nota3": 5.9,
+    "nota4": 1.1,
+    "faltas": 18
+  },
+  {
+    "id": 27,
+    "nome": "Sarah",
+    "sobrenome": "McQuade",
+    "nota1": 1.7,
+    "nota2": 7.1,
+    "nota3": null,
+    "nota4": 4.9,
+    "faltas": 16
+  },
+  {
+    "id": 28,
+    "nome": "Priscilla",
+    "sobrenome": "Swadlinge",
+    "nota1": 3.5,
+    "nota2": 8.7,
+    "nota3": 7.8,
+    "nota4": 3.8,
+    "faltas": 9
+  },
+  {
+    "id": 29,
+    "nome": "Harmony",
+    "sobrenome": "Dubble",
+    "nota1": 8.7,
+    "nota2": 6.3,
+    "nota3": 2.2,
+    "nota4": 5.9,
+    "faltas": 10
+  },
+  {
+    "id": 30,
+    "nome": "Antonia",
+    "sobrenome": "O' Lone",
+    "nota1": 9.8,
+    "nota2": 5,
+    "nota3": 4.9,
+    "nota4": 9.2,
+    "faltas": 1
+  },
+  {
+    "id": 31,
+    "nome": "Wright",
+    "sobrenome": "Pietersma",
+    "nota1": 7.5,
+    "nota2": 6.1,
+    "nota3": null,
+    "nota4": 7.3,
+    "faltas": 0
+  },
+  {
+    "id": 32,
+    "nome": "Wilona",
+    "sobrenome": "Purrington",
+    "nota1": 9.6,
+    "nota2": 8.6,
+    "nota3": 2.7,
+    "nota4": 7.1,
+    "faltas": 4
+  },
+  {
+    "id": 33,
+    "nome": "Salomi",
+    "sobrenome": "Ciciari",
+    "nota1": 5.3,
+    "nota2": null,
+    "nota3": 1.2,
+    "nota4": 4.5,
+    "faltas": 12
+  },
+  {
+    "id": 34,
+    "nome": "Berti",
+    "sobrenome": "Bonafant",
+    "nota1": 10,
+    "nota2": 9.1,
+    "nota3": 6.6,
+    "nota4": 7,
+    "faltas": 8
+  },
+  {
+    "id": 35,
+    "nome": "Randa",
+    "sobrenome": "Sloat",
+    "nota1": 1,
+    "nota2": 1.6,
+    "nota3": 4.3,
+    "nota4": 7.6,
+    "faltas": 3
+  },
+  {
+    "id": 36,
+    "nome": "Sondra",
+    "sobrenome": "Stanlick",
+    "nota1": 4,
+    "nota2": 7.2,
+    "nota3": 6.5,
+    "nota4": 2.4,
+    "faltas": 10
+  },
+  {
+    "id": 37,
+    "nome": "Rosalind",
+    "sobrenome": "Bartolomivis",
+    "nota1": 4,
+    "nota2": 1.2,
+    "nota3": 5.8,
+    "nota4": 7.2,
+    "faltas": 4
+  },
+  {
+    "id": 38,
+    "nome": "Emlyn",
+    "sobrenome": "Stansby",
+    "nota1": 5.2,
+    "nota2": 6.1,
+    "nota3": 6.1,
+    "nota4": 5,
+    "faltas": 12
+  },
+  {
+    "id": 39,
+    "nome": "Inger",
+    "sobrenome": "Guinane",
+    "nota1": 8.3,
+    "nota2": 7,
+    "nota3": 9.1,
+    "nota4": 1.9,
+    "faltas": 13
+  },
+  {
+    "id": 40,
+    "nome": "Cosetta",
+    "sobrenome": "Blurton",
+    "nota1": 1.4,
+    "nota2": null,
+    "nota3": 5.6,
+    "nota4": 3.7,
+    "faltas": 0
+  },
+  {
+    "id": 41,
+    "nome": "Elinor",
+    "sobrenome": "Brusle",
+    "nota1": 3.9,
+    "nota2": 1.7,
+    "nota3": 1.9,
+    "nota4": 5.1,
+    "faltas": 9
+  },
+  {
+    "id": 42,
+    "nome": "Jarrad",
+    "sobrenome": "Pelling",
+    "nota1": 8.1,
+    "nota2": 2.1,
+    "nota3": null,
+    "nota4": 6.7,
+    "faltas": 9
+  },
+  {
+    "id": 43,
+    "nome": "Verla",
+    "sobrenome": "Polleye",
+    "nota1": 2.7,
+    "nota2": 7.2,
+    "nota3": 8.4,
+    "nota4": 3.8,
+    "faltas": 15
+  },
+  {
+    "id": 44,
+    "nome": "Yard",
+    "sobrenome": "Mariaud",
+    "nota1": 4.8,
+    "nota2": null,
+    "nota3": 7.9,
+    "nota4": 5.5,
+    "faltas": 20
+  },
+  {
+    "id": 45,
+    "nome": "Winona",
+    "sobrenome": "Wolfarth",
+    "nota1": 2.5,
+    "nota2": 9,
+    "nota3": 2.2,
+    "nota4": 3.6,
+    "faltas": 5
+  },
+  {
+    "id": 46,
+    "nome": "Yoko",
+    "sobrenome": "Bulley",
+    "nota1": 8.1,
+    "nota2": 9.4,
+    "nota3": null,
+    "nota4": 9.6,
+    "faltas": 20
+  },
+  {
+    "id": 47,
+    "nome": "Chicky",
+    "sobrenome": "Dovidaitis",
+    "nota1": 2.9,
+    "nota2": 9.9,
+    "nota3": 4.2,
+    "nota4": 9.5,
+    "faltas": 16
+  },
+  {
+    "id": 48,
+    "nome": "Livy",
+    "sobrenome": "Izakov",
+    "nota1": 8.1,
+    "nota2": 2.2,
+    "nota3": 8.4,
+    "nota4": 3.8,
+    "faltas": 20
+  },
+  {
+    "id": 49,
+    "nome": "Waneta",
+    "sobrenome": "Menico",
+    "nota1": 8,
+    "nota2": 5.7,
+    "nota3": 5.5,
+    "nota4": 8.5,
+    "faltas": 0
+  },
+  {
+    "id": 50,
+    "nome": "Perrine",
+    "sobrenome": "Yedy",
+    "nota1": 4.6,
+    "nota2": null,
+    "nota3": 5.3,
+    "nota4": 3.5,
+    "faltas": 5
+  },
+  {
+    "id": 51,
+    "nome": "Carlo",
+    "sobrenome": "Macauley",
+    "nota1": 6.4,
+    "nota2": 1.4,
+    "nota3": 3.5,
+    "nota4": 9.2,
+    "faltas": 13
+  },
+  {
+    "id": 52,
+    "nome": "Lutero",
+    "sobrenome": "Gatus",
+    "nota1": 7.7,
+    "nota2": 4.3,
+    "nota3": 5.8,
+    "nota4": 5.8,
+    "faltas": 6
+  },
+  {
+    "id": 53,
+    "nome": "Anselm",
+    "sobrenome": "Bearcroft",
+    "nota1": 9.5,
+    "nota2": 9.5,
+    "nota3": 6.3,
+    "nota4": 8.6,
+    "faltas": 19
+  },
+  {
+    "id": 54,
+    "nome": "Stearne",
+    "sobrenome": "Cusack",
+    "nota1": 1.9,
+    "nota2": 8.5,
+    "nota3": 5.2,
+    "nota4": 2,
+    "faltas": 16
+  },
+  {
+    "id": 55,
+    "nome": "Trevar",
+    "sobrenome": "Hannigane",
+    "nota1": 6.8,
+    "nota2": 1.2,
+    "nota3": 4.6,
+    "nota4": 7.7,
+    "faltas": 13
+  },
+  {
+    "id": 56,
+    "nome": "Germain",
+    "sobrenome": "Rhelton",
+    "nota1": 5.5,
+    "nota2": 2.1,
+    "nota3": 3.7,
+    "nota4": 6.4,
+    "faltas": 6
+  },
+  {
+    "id": 57,
+    "nome": "Bernadina",
+    "sobrenome": "Flode",
+    "nota1": 3,
+    "nota2": 6.5,
+    "nota3": 7.3,
+    "nota4": 7.9,
+    "faltas": 10
+  },
+  {
+    "id": 58,
+    "nome": "Olav",
+    "sobrenome": "Pickle",
+    "nota1": 1,
+    "nota2": 2.7,
+    "nota3": 3.9,
+    "nota4": 5.9,
+    "faltas": 10
+  },
+  {
+    "id": 59,
+    "nome": "Zollie",
+    "sobrenome": "Diloway",
+    "nota1": 6.6,
+    "nota2": 8.8,
+    "nota3": 4.8,
+    "nota4": 9,
+    "faltas": 2
+  },
+  {
+    "id": 60,
+    "nome": "Krispin",
+    "sobrenome": "Allingham",
+    "nota1": 8.3,
+    "nota2": 1.4,
+    "nota3": 1.6,
+    "nota4": 8,
+    "faltas": 10
+  },
+  {
+    "id": 61,
+    "nome": "Zollie",
+    "sobrenome": "Ledson",
+    "nota1": 7.4,
+    "nota2": 5.9,
+    "nota3": 7.1,
+    "nota4": 6.9,
+    "faltas": 8
+  },
+  {
+    "id": 62,
+    "nome": "Maritsa",
+    "sobrenome": "Trelease",
+    "nota1": 5.1,
+    "nota2": 4,
+    "nota3": 6.4,
+    "nota4": 8.5,
+    "faltas": 14
+  },
+  {
+    "id": 63,
+    "nome": "Merola",
+    "sobrenome": "Paternoster",
+    "nota1": 8.9,
+    "nota2": 4.1,
+    "nota3": 2.8,
+    "nota4": 8.1,
+    "faltas": 0
+  },
+  {
+    "id": 64,
+    "nome": "Klemens",
+    "sobrenome": "Renoden",
+    "nota1": 2.6,
+    "nota2": 1.6,
+    "nota3": 1.6,
+    "nota4": 4,
+    "faltas": 2
+  },
+  {
+    "id": 65,
+    "nome": "Barbara",
+    "sobrenome": "Nicholl",
+    "nota1": 1,
+    "nota2": 1.7,
+    "nota3": null,
+    "nota4": 9,
+    "faltas": 17
+  },
+  {
+    "id": 66,
+    "nome": "Mindy",
+    "sobrenome": "Vedekhov",
+    "nota1": 9.9,
+    "nota2": 8.4,
+    "nota3": 6.9,
+    "nota4": 4.2,
+    "faltas": 0
+  },
+  {
+    "id": 67,
+    "nome": "Arel",
+    "sobrenome": "Bredbury",
+    "nota1": 6.8,
+    "nota2": 4.6,
+    "nota3": 9.9,
+    "nota4": 3,
+    "faltas": 12
+  },
+  {
+    "id": 68,
+    "nome": "Ogden",
+    "sobrenome": "Valett",
+    "nota1": 2.9,
+    "nota2": 5.1,
+    "nota3": 2.2,
+    "nota4": 7.1,
+    "faltas": 11
+  },
+  {
+    "id": 69,
+    "nome": "Doe",
+    "sobrenome": "McArd",
+    "nota1": 4.7,
+    "nota2": 3.1,
+    "nota3": 5.8,
+    "nota4": 2.9,
+    "faltas": 6
+  },
+  {
+    "id": 70,
+    "nome": "Roshelle",
+    "sobrenome": "Dufaire",
+    "nota1": 2.7,
+    "nota2": 9.2,
+    "nota3": 1.4,
+    "nota4": 7.1,
+    "faltas": 10
+  },
+  {
+    "id": 71,
+    "nome": "Raffarty",
+    "sobrenome": "Hamby",
+    "nota1": 3.8,
+    "nota2": 5,
+    "nota3": 3.6,
+    "nota4": 3.3,
+    "faltas": 6
+  },
+  {
+    "id": 72,
+    "nome": "Sileas",
+    "sobrenome": "Fenna",
+    "nota1": 3.7,
+    "nota2": 5.5,
+    "nota3": 7,
+    "nota4": 6.4,
+    "faltas": 11
+  },
+  {
+    "id": 73,
+    "nome": "Anet",
+    "sobrenome": "Cranshaw",
+    "nota1": 1.6,
+    "nota2": 6.4,
+    "nota3": 1.8,
+    "nota4": 4.4,
+    "faltas": 11
+  },
+  {
+    "id": 74,
+    "nome": "Rollin",
+    "sobrenome": "Sayre",
+    "nota1": 7.2,
+    "nota2": 3.3,
+    "nota3": 4,
+    "nota4": 7.5,
+    "faltas": 1
+  },
+  {
+    "id": 75,
+    "nome": "Mead",
+    "sobrenome": "Klimus",
+    "nota1": 2.2,
+    "nota2": 8.9,
+    "nota3": 9.4,
+    "nota4": 6.2,
+    "faltas": 3
+  },
+  {
+    "id": 76,
+    "nome": "Dorice",
+    "sobrenome": "Orfeur",
+    "nota1": 2.5,
+    "nota2": 2.9,
+    "nota3": 5.8,
+    "nota4": 8.3,
+    "faltas": 16
+  },
+  {
+    "id": 77,
+    "nome": "Walton",
+    "sobrenome": "Osan",
+    "nota1": 8.1,
+    "nota2": 4.2,
+    "nota3": null,
+    "nota4": 3,
+    "faltas": 11
+  },
+  {
+    "id": 78,
+    "nome": "Allsun",
+    "sobrenome": "Yanshinov",
+    "nota1": 2.9,
+    "nota2": 2.4,
+    "nota3": 9.2,
+    "nota4": 9.7,
+    "faltas": 17
+  },
+  {
+    "id": 79,
+    "nome": "Michaeline",
+    "sobrenome": "Degli Abbati",
+    "nota1": 7.3,
+    "nota2": 3.2,
+    "nota3": 6.6,
+    "nota4": 9.2,
+    "faltas": 3
+  },
+  {
+    "id": 80,
+    "nome": "Fanchon",
+    "sobrenome": "Reichelt",
+    "nota1": 8.4,
+    "nota2": 9.8,
+    "nota3": 3.1,
+    "nota4": 1.4,
+    "faltas": 11
+  },
+  {
+    "id": 81,
+    "nome": "Leland",
+    "sobrenome": "Triebner",
+    "nota1": 4.8,
+    "nota2": 9.8,
+    "nota3": 2.1,
+    "nota4": 4.6,
+    "faltas": 10
+  },
+  {
+    "id": 82,
+    "nome": "Jannel",
+    "sobrenome": "Buckie",
+    "nota1": 6.2,
+    "nota2": 2,
+    "nota3": 9,
+    "nota4": 5.6,
+    "faltas": 7
+  },
+  {
+    "id": 83,
+    "nome": "Emlynn",
+    "sobrenome": "Bland",
+    "nota1": 8.3,
+    "nota2": 5.5,
+    "nota3": 7.2,
+    "nota4": 8.9,
+    "faltas": 7
+  },
+  {
+    "id": 84,
+    "nome": "Rochette",
+    "sobrenome": "Derbyshire",
+    "nota1": 3.5,
+    "nota2": 1.7,
+    "nota3": 8.3,
+    "nota4": 7.5,
+    "faltas": 11
+  },
+  {
+    "id": 85,
+    "nome": "Dale",
+    "sobrenome": "Lawdham",
+    "nota1": 1.8,
+    "nota2": 8.4,
+    "nota3": 2.6,
+    "nota4": 7.7,
+    "faltas": 9
+  },
+  {
+    "id": 86,
+    "nome": "Emelia",
+    "sobrenome": "Van Der Walt",
+    "nota1": 8.1,
+    "nota2": 7.4,
+    "nota3": 8.9,
+    "nota4": 2.9,
+    "faltas": 11
+  },
+  {
+    "id": 87,
+    "nome": "Orelie",
+    "sobrenome": "Spawforth",
+    "nota1": 4.6,
+    "nota2": 6,
+    "nota3": 2.4,
+    "nota4": 9.7,
+    "faltas": 19
+  },
+  {
+    "id": 88,
+    "nome": "Justen",
+    "sobrenome": "Ragsdale",
+    "nota1": 6.1,
+    "nota2": 2.9,
+    "nota3": 8.4,
+    "nota4": 7.1,
+    "faltas": 20
+  },
+  {
+    "id": 89,
+    "nome": "Rosalie",
+    "sobrenome": "Grand",
+    "nota1": 8.5,
+    "nota2": 3.4,
+    "nota3": 6.3,
+    "nota4": 9.4,
+    "faltas": 5
+  },
+  {
+    "id": 90,
+    "nome": "Wendye",
+    "sobrenome": "Linstead",
+    "nota1": 6,
+    "nota2": 1.1,
+    "nota3": 7,
+    "nota4": 6.4,
+    "faltas": 2
+  },
+  {
+    "id": 91,
+    "nome": "Shawn",
+    "sobrenome": "Gravy",
+    "nota1": 3.6,
+    "nota2": 6.6,
+    "nota3": 2.2,
+    "nota4": 7.3,
+    "faltas": 2
+  },
+  {
+    "id": 92,
+    "nome": "Deonne",
+    "sobrenome": "Bointon",
+    "nota1": 3.7,
+    "nota2": 9.9,
+    "nota3": 4.4,
+    "nota4": 5.3,
+    "faltas": 11
+  },
+  {
+    "id": 93,
+    "nome": "Frannie",
+    "sobrenome": "Scalera",
+    "nota1": 4.9,
+    "nota2": 8.1,
+    "nota3": 5.4,
+    "nota4": 8.5,
+    "faltas": 4
+  },
+  {
+    "id": 94,
+    "nome": "Zeke",
+    "sobrenome": "Sones",
+    "nota1": 6.9,
+    "nota2": 3,
+    "nota3": 1.5,
+    "nota4": 1.9,
+    "faltas": 1
+  },
+  {
+    "id": 95,
+    "nome": "Buck",
+    "sobrenome": "Clemont",
+    "nota1": 1.5,
+    "nota2": 4.4,
+    "nota3": 2.9,
+    "nota4": null,
+    "faltas": 5
+  },
+  {
+    "id": 96,
+    "nome": "Stefania",
+    "sobrenome": "Hinkley",
+    "nota1": 5.3,
+    "nota2": 2.8,
+    "nota3": null,
+    "nota4": 6,
+    "faltas": 19
+  },
+  {
+    "id": 97,
+    "nome": "Land",
+    "sobrenome": "Lomath",
+    "nota1": 5.8,
+    "nota2": 2.4,
+    "nota3": 6.6,
+    "nota4": 8.9,
+    "faltas": 13
+  },
+  {
+    "id": 98,
+    "nome": "Ebba",
+    "sobrenome": "Colter",
+    "nota1": 7.4,
+    "nota2": 9.3,
+    "nota3": 4.2,
+    "nota4": 6.1,
+    "faltas": 4
+  },
+  {
+    "id": 99,
+    "nome": "Linus",
+    "sobrenome": "Ribbens",
+    "nota1": 7.3,
+    "nota2": 4.4,
+    "nota3": 8.5,
+    "nota4": 1.5,
+    "faltas": 12
+  },
+  {
+    "id": 100,
+    "nome": "Dorothy",
+    "sobrenome": "Martusewicz",
+    "nota1": 7.1,
+    "nota2": 9,
+    "nota3": 4.3,
+    "nota4": 8.9,
+    "faltas": 19
+  },
+
+
+  {
+    "id": 101,
+    "nome": "Willard",
+    "sobrenome": "Connerly",
+    "nota1": 9.9,
+    "nota2": 3,
+    "nota3": 8,
+    "nota4": 2.6,
+    "faltas": 20
+  },
+  {
+    "id": 102,
+    "nome": "Babara",
+    "sobrenome": "Petroulis",
+    "nota1": 2.4,
+    "nota2": 5,
+    "nota3": 5.2,
+    "nota4": 1.7,
+    "faltas": 12
+  },
+  {
+    "id": 103,
+    "nome": "Hughie",
+    "sobrenome": "Coxhell",
+    "nota1": 5.4,
+    "nota2": 7.7,
+    "nota3": null,
+    "nota4": 3.7,
+    "faltas": 2
+  },
+  {
+    "id": 104,
+    "nome": "Benoit",
+    "sobrenome": "Dales",
+    "nota1": 2.4,
+    "nota2": 7.6,
+    "nota3": 1.9,
+    "nota4": 5.4,
+    "faltas": 1
+  },
+  {
+    "id": 105,
+    "nome": "Tressa",
+    "sobrenome": "Crinkley",
+    "nota1": 5.5,
+    "nota2": 1.6,
+    "nota3": null,
+    "nota4": 5.3,
+    "faltas": 3
+  },
+  {
+    "id": 106,
+    "nome": "Ricky",
+    "sobrenome": "Di Carli",
+    "nota1": 7.7,
+    "nota2": 1.7,
+    "nota3": 2.9,
+    "nota4": 9.9,
+    "faltas": 9
+  },
+  {
+    "id": 107,
+    "nome": "Ganny",
+    "sobrenome": "Klaassens",
+    "nota1": 1.6,
+    "nota2": 5.9,
+    "nota3": 8.8,
+    "nota4": 1.8,
+    "faltas": 20
+  },
+  {
+    "id": 108,
+    "nome": "Kellyann",
+    "sobrenome": "Barrand",
+    "nota1": 6,
+    "nota2": 5.9,
+    "nota3": 4.2,
+    "nota4": 2.3,
+    "faltas": 16
+  },
+  {
+    "id": 109,
+    "nome": "Caresa",
+    "sobrenome": "Allcott",
+    "nota1": 2,
+    "nota2": 4.4,
+    "nota3": 8.6,
+    "nota4": 6.9,
+    "faltas": 15
+  },
+  {
+    "id": 110,
+    "nome": "Dari",
+    "sobrenome": "Brimilcombe",
+    "nota1": 6.6,
+    "nota2": 2.5,
+    "nota3": 4.9,
+    "nota4": 2.3,
+    "faltas": 16
+  },
+  {
+    "id": 111,
+    "nome": "Christabel",
+    "sobrenome": "Mix",
+    "nota1": 3.5,
+    "nota2": 6.4,
+    "nota3": 8.2,
+    "nota4": 1.4,
+    "faltas": 19
+  },
+  {
+    "id": 112,
+    "nome": "Hersh",
+    "sobrenome": "Pearcey",
+    "nota1": 7.1,
+    "nota2": 1.6,
+    "nota3": 8.2,
+    "nota4": 9,
+    "faltas": 12
+  },
+  {
+    "id": 113,
+    "nome": "Rinaldo",
+    "sobrenome": "Dugood",
+    "nota1": 9.3,
+    "nota2": 3.3,
+    "nota3": 7.2,
+    "nota4": 9.6,
+    "faltas": 17
+  },
+  {
+    "id": 114,
+    "nome": "Shanan",
+    "sobrenome": "Chalke",
+    "nota1": 3.8,
+    "nota2": 9.1,
+    "nota3": 8.1,
+    "nota4": null,
+    "faltas": 11
+  },
+  {
+    "id": 115,
+    "nome": "Birgit",
+    "sobrenome": "Mallebone",
+    "nota1": 1.9,
+    "nota2": 8.3,
+    "nota3": 1.3,
+    "nota4": null,
+    "faltas": 8
+  },
+  {
+    "id": 116,
+    "nome": "Gasper",
+    "sobrenome": "Ashcroft",
+    "nota1": 6.1,
+    "nota2": 6.5,
+    "nota3": 7.9,
+    "nota4": 6.7,
+    "faltas": 11
+  },
+  {
+    "id": 117,
+    "nome": "Abdul",
+    "sobrenome": "Fearenside",
+    "nota1": 7.7,
+    "nota2": 9.5,
+    "nota3": 7.9,
+    "nota4": 2.2,
+    "faltas": 16
+  },
+  {
+    "id": 118,
+    "nome": "Martie",
+    "sobrenome": "Fidoe",
+    "nota1": 9.9,
+    "nota2": 7.6,
+    "nota3": 5.8,
+    "nota4": 1.7,
+    "faltas": 6
+  },
+  {
+    "id": 119,
+    "nome": "Nevile",
+    "sobrenome": "Hackin",
+    "nota1": 3.9,
+    "nota2": 4.7,
+    "nota3": 3.1,
+    "nota4": null,
+    "faltas": 5
+  },
+  {
+    "id": 120,
+    "nome": "Marice",
+    "sobrenome": "Eldin",
+    "nota1": 8.7,
+    "nota2": 6.4,
+    "nota3": 7.8,
+    "nota4": 8.5,
+    "faltas": 16
+  },
+  {
+    "id": 121,
+    "nome": "Lenora",
+    "sobrenome": "Borrie",
+    "nota1": 9,
+    "nota2": 2.5,
+    "nota3": 8.9,
+    "nota4": 7.6,
+    "faltas": 12
+  },
+  {
+    "id": 122,
+    "nome": "Fran",
+    "sobrenome": "Outerbridge",
+    "nota1": 1.3,
+    "nota2": 7.1,
+    "nota3": 9.1,
+    "nota4": 6.9,
+    "faltas": 3
+  },
+  {
+    "id": 123,
+    "nome": "Cheston",
+    "sobrenome": "Guise",
+    "nota1": 4.1,
+    "nota2": 1.2,
+    "nota3": 6.5,
+    "nota4": 9.1,
+    "faltas": 16
+  },
+  {
+    "id": 124,
+    "nome": "Dasie",
+    "sobrenome": "Fabbri",
+    "nota1": 4.8,
+    "nota2": 5.3,
+    "nota3": 9.7,
+    "nota4": 3.2,
+    "faltas": 10
+  },
+  {
+    "id": 125,
+    "nome": "Loretta",
+    "sobrenome": "Pyford",
+    "nota1": 8.8,
+    "nota2": 1.2,
+    "nota3": 10,
+    "nota4": 9.7,
+    "faltas": 0
+  },
+  {
+    "id": 126,
+    "nome": "Honoria",
+    "sobrenome": "Mulbry",
+    "nota1": 8.6,
+    "nota2": 4.1,
+    "nota3": 2,
+    "nota4": 3.4,
+    "faltas": 11
+  },
+  {
+    "id": 127,
+    "nome": "Bing",
+    "sobrenome": "Hostan",
+    "nota1": 6.1,
+    "nota2": 2.9,
+    "nota3": 6.1,
+    "nota4": 2.6,
+    "faltas": 3
+  },
+  {
+    "id": 128,
+    "nome": "Shelton",
+    "sobrenome": "Divell",
+    "nota1": 1.1,
+    "nota2": 7.9,
+    "nota3": 6.4,
+    "nota4": 2.3,
+    "faltas": 11
+  },
+  {
+    "id": 129,
+    "nome": "See",
+    "sobrenome": "Tames",
+    "nota1": 8.1,
+    "nota2": 7.9,
+    "nota3": null,
+    "nota4": 2.4,
+    "faltas": 2
+  },
+  {
+    "id": 130,
+    "nome": "Salem",
+    "sobrenome": "Iddiens",
+    "nota1": 5.7,
+    "nota2": 9.4,
+    "nota3": 5.7,
+    "nota4": 2,
+    "faltas": 17
+  },
+  {
+    "id": 131,
+    "nome": "Pippy",
+    "sobrenome": "Itzkov",
+    "nota1": 4.4,
+    "nota2": 6.1,
+    "nota3": 10,
+    "nota4": 7.3,
+    "faltas": 7
+  },
+  {
+    "id": 132,
+    "nome": "Brit",
+    "sobrenome": "Nower",
+    "nota1": 3.3,
+    "nota2": 5.4,
+    "nota3": 4.4,
+    "nota4": 8.4,
+    "faltas": 8
+  },
+  {
+    "id": 133,
+    "nome": "Wilton",
+    "sobrenome": "Sprasen",
+    "nota1": 8.5,
+    "nota2": 4.4,
+    "nota3": 7.4,
+    "nota4": 8.5,
+    "faltas": 16
+  },
+  {
+    "id": 134,
+    "nome": "Lilly",
+    "sobrenome": "Kiffe",
+    "nota1": 1.7,
+    "nota2": 9.6,
+    "nota3": null,
+    "nota4": 6.3,
+    "faltas": 2
+  },
+  {
+    "id": 135,
+    "nome": "Tammara",
+    "sobrenome": "Wickham",
+    "nota1": 8,
+    "nota2": 8,
+    "nota3": 9.8,
+    "nota4": 9.5,
+    "faltas": 7
+  },
+  {
+    "id": 136,
+    "nome": "Annabal",
+    "sobrenome": "Painten",
+    "nota1": 9.7,
+    "nota2": 2.9,
+    "nota3": 5.1,
+    "nota4": 1.9,
+    "faltas": 6
+  },
+  {
+    "id": 137,
+    "nome": "Rayna",
+    "sobrenome": "Gasker",
+    "nota1": 8.7,
+    "nota2": 3.7,
+    "nota3": 9.3,
+    "nota4": 7.5,
+    "faltas": 6
+  },
+  {
+    "id": 138,
+    "nome": "Annabell",
+    "sobrenome": "Went",
+    "nota1": 9.8,
+    "nota2": 2.9,
+    "nota3": 5,
+    "nota4": 9.7,
+    "faltas": 6
+  },
+  {
+    "id": 139,
+    "nome": "Sansone",
+    "sobrenome": "Rootes",
+    "nota1": 3.9,
+    "nota2": 6.6,
+    "nota3": 5.5,
+    "nota4": 8.2,
+    "faltas": 6
+  },
+  {
+    "id": 140,
+    "nome": "Gipsy",
+    "sobrenome": "Vigar",
+    "nota1": 6.1,
+    "nota2": 3.1,
+    "nota3": 8.2,
+    "nota4": 5.7,
+    "faltas": 2
+  },
+  {
+    "id": 141,
+    "nome": "Morton",
+    "sobrenome": "Deyes",
+    "nota1": 7.2,
+    "nota2": null,
+    "nota3": 6.4,
+    "nota4": 5.1,
+    "faltas": 1
+  },
+  {
+    "id": 142,
+    "nome": "Drud",
+    "sobrenome": "Hatt",
+    "nota1": 3.5,
+    "nota2": 4,
+    "nota3": 9.2,
+    "nota4": 6.6,
+    "faltas": 5
+  },
+  {
+    "id": 143,
+    "nome": "Bellina",
+    "sobrenome": "Sertin",
+    "nota1": 3.1,
+    "nota2": 5.1,
+    "nota3": null,
+    "nota4": 9.7,
+    "faltas": 0
+  },
+  {
+    "id": 144,
+    "nome": "Katina",
+    "sobrenome": "St Ledger",
+    "nota1": 9.4,
+    "nota2": 7.1,
+    "nota3": 1.4,
+    "nota4": 2.4,
+    "faltas": 1
+  },
+  {
+    "id": 145,
+    "nome": "Thurstan",
+    "sobrenome": "Thickett",
+    "nota1": 6.4,
+    "nota2": 9.8,
+    "nota3": 3.3,
+    "nota4": 9.5,
+    "faltas": 18
+  },
+  {
+    "id": 146,
+    "nome": "Brien",
+    "sobrenome": "Flaune",
+    "nota1": 9.5,
+    "nota2": 6.4,
+    "nota3": 7.7,
+    "nota4": 2.4,
+    "faltas": 12
+  },
+  {
+    "id": 147,
+    "nome": "Hanni",
+    "sobrenome": "Jzak",
+    "nota1": 1.9,
+    "nota2": 3.2,
+    "nota3": 9,
+    "nota4": 9,
+    "faltas": 20
+  },
+  {
+    "id": 148,
+    "nome": "Frederica",
+    "sobrenome": "Kinnen",
+    "nota1": 2.9,
+    "nota2": 8.7,
+    "nota3": 3.6,
+    "nota4": 6,
+    "faltas": 17
+  },
+  {
+    "id": 149,
+    "nome": "Laney",
+    "sobrenome": "Newlin",
+    "nota1": 1.6,
+    "nota2": 8.9,
+    "nota3": 8.1,
+    "nota4": 4.5,
+    "faltas": 11
+  },
+  {
+    "id": 150,
+    "nome": "Isador",
+    "sobrenome": "Hoy",
+    "nota1": 6.8,
+    "nota2": 5.9,
+    "nota3": 9.9,
+    "nota4": 1.1,
+    "faltas": 17
+  },
+  {
+    "id": 151,
+    "nome": "Fergus",
+    "sobrenome": "Hallowes",
+    "nota1": 2.6,
+    "nota2": 7.8,
+    "nota3": 4.9,
+    "nota4": 6.4,
+    "faltas": 12
+  },
+  {
+    "id": 152,
+    "nome": "Bron",
+    "sobrenome": "Arnley",
+    "nota1": 8.9,
+    "nota2": 6.6,
+    "nota3": null,
+    "nota4": 9.2,
+    "faltas": 2
+  },
+  {
+    "id": 153,
+    "nome": "Baldwin",
+    "sobrenome": "Dennes",
+    "nota1": 3.3,
+    "nota2": 9.4,
+    "nota3": 1.5,
+    "nota4": 3.1,
+    "faltas": 18
+  },
+  {
+    "id": 154,
+    "nome": "Danita",
+    "sobrenome": "Eastbury",
+    "nota1": 2.1,
+    "nota2": 1.2,
+    "nota3": 7.8,
+    "nota4": 2.3,
+    "faltas": 9
+  },
+  {
+    "id": 155,
+    "nome": "Clerissa",
+    "sobrenome": "Gadsden",
+    "nota1": 1.1,
+    "nota2": 3.4,
+    "nota3": 5.3,
+    "nota4": 1,
+    "faltas": 20
+  },
+  {
+    "id": 156,
+    "nome": "Janella",
+    "sobrenome": "Bullman",
+    "nota1": 5.5,
+    "nota2": 6.9,
+    "nota3": 6.5,
+    "nota4": 1.8,
+    "faltas": 19
+  },
+  {
+    "id": 157,
+    "nome": "Lane",
+    "sobrenome": "Jantel",
+    "nota1": 7.6,
+    "nota2": 1.7,
+    "nota3": 2.6,
+    "nota4": 9.6,
+    "faltas": 11
+  },
+  {
+    "id": 158,
+    "nome": "Glyn",
+    "sobrenome": "Bevens",
+    "nota1": 6.9,
+    "nota2": 2.7,
+    "nota3": null,
+    "nota4": 7.6,
+    "faltas": 9
+  },
+  {
+    "id": 159,
+    "nome": "Allister",
+    "sobrenome": "Schmuhl",
+    "nota1": 5.6,
+    "nota2": 3.6,
+    "nota3": 2.2,
+    "nota4": 8.3,
+    "faltas": 2
+  },
+  {
+    "id": 160,
+    "nome": "Ellswerth",
+    "sobrenome": "Aleswell",
+    "nota1": 7.9,
+    "nota2": 5.2,
+    "nota3": 7.9,
+    "nota4": 2.9,
+    "faltas": 10
+  },
+  {
+    "id": 161,
+    "nome": "Renault",
+    "sobrenome": "Linford",
+    "nota1": 9.3,
+    "nota2": 9.1,
+    "nota3": 9.5,
+    "nota4": 9.8,
+    "faltas": 4
+  },
+  {
+    "id": 162,
+    "nome": "Justina",
+    "sobrenome": "Marflitt",
+    "nota1": 9.7,
+    "nota2": 9,
+    "nota3": 6.7,
+    "nota4": 5.5,
+    "faltas": 15
+  },
+  {
+    "id": 163,
+    "nome": "Brigit",
+    "sobrenome": "Briereton",
+    "nota1": 5.4,
+    "nota2": 9.9,
+    "nota3": 4.6,
+    "nota4": 1.9,
+    "faltas": 7
+  },
+  {
+    "id": 164,
+    "nome": "Stephenie",
+    "sobrenome": "Abrahami",
+    "nota1": 1.9,
+    "nota2": 6.6,
+    "nota3": 3.3,
+    "nota4": 6.3,
+    "faltas": 20
+  },
+  {
+    "id": 165,
+    "nome": "Una",
+    "sobrenome": "Milbourn",
+    "nota1": 9.7,
+    "nota2": 6.7,
+    "nota3": 8.1,
+    "nota4": 1.9,
+    "faltas": 15
+  },
+  {
+    "id": 166,
+    "nome": "Spike",
+    "sobrenome": "Schild",
+    "nota1": 5.1,
+    "nota2": 2.3,
+    "nota3": 2.6,
+    "nota4": 6.8,
+    "faltas": 2
+  },
+  {
+    "id": 167,
+    "nome": "Sofie",
+    "sobrenome": "McGeffen",
+    "nota1": 2.9,
+    "nota2": 1.2,
+    "nota3": 4.2,
+    "nota4": 1.7,
+    "faltas": 13
+  },
+  {
+    "id": 168,
+    "nome": "Shandie",
+    "sobrenome": "Segrave",
+    "nota1": 8.7,
+    "nota2": 1.6,
+    "nota3": 5.9,
+    "nota4": 2.8,
+    "faltas": 16
+  },
+  {
+    "id": 169,
+    "nome": "Hercules",
+    "sobrenome": "Ascough",
+    "nota1": 2,
+    "nota2": 4.3,
+    "nota3": 2.1,
+    "nota4": 2.7,
+    "faltas": 18
+  },
+  {
+    "id": 170,
+    "nome": "Vernor",
+    "sobrenome": "Yegorchenkov",
+    "nota1": 1.4,
+    "nota2": 5.6,
+    "nota3": 7.9,
+    "nota4": 2.1,
+    "faltas": 5
+  },
+  {
+    "id": 171,
+    "nome": "Aldridge",
+    "sobrenome": "Dawkins",
+    "nota1": 1,
+    "nota2": 4.4,
+    "nota3": 3.4,
+    "nota4": 9.9,
+    "faltas": 7
+  },
+  {
+    "id": 172,
+    "nome": "Heinrik",
+    "sobrenome": "Kohtler",
+    "nota1": 4.1,
+    "nota2": 9.7,
+    "nota3": 5.1,
+    "nota4": 5,
+    "faltas": 3
+  },
+  {
+    "id": 173,
+    "nome": "Hogan",
+    "sobrenome": "Legendre",
+    "nota1": 7.5,
+    "nota2": 1.2,
+    "nota3": 3.1,
+    "nota4": 9.2,
+    "faltas": 9
+  },
+  {
+    "id": 174,
+    "nome": "Elwin",
+    "sobrenome": "Killock",
+    "nota1": 5.1,
+    "nota2": 6.1,
+    "nota3": 7.6,
+    "nota4": 2.4,
+    "faltas": 19
+  },
+  {
+    "id": 175,
+    "nome": "Rheba",
+    "sobrenome": "Spellsworth",
+    "nota1": 2.3,
+    "nota2": 9.8,
+    "nota3": 4.2,
+    "nota4": 3.4,
+    "faltas": 15
+  },
+  {
+    "id": 176,
+    "nome": "Tye",
+    "sobrenome": "Martynka",
+    "nota1": 9.1,
+    "nota2": 8.1,
+    "nota3": 4.2,
+    "nota4": 6.5,
+    "faltas": 10
+  },
+  {
+    "id": 177,
+    "nome": "Orville",
+    "sobrenome": "Denington",
+    "nota1": 1.8,
+    "nota2": 1.8,
+    "nota3": 5.7,
+    "nota4": 9,
+    "faltas": 19
+  },
+  {
+    "id": 178,
+    "nome": "Nellie",
+    "sobrenome": "Coxall",
+    "nota1": 8.6,
+    "nota2": 9.5,
+    "nota3": 9,
+    "nota4": 9.5,
+    "faltas": 15
+  },
+  {
+    "id": 179,
+    "nome": "Trace",
+    "sobrenome": "Flade",
+    "nota1": 9.6,
+    "nota2": 5.4,
+    "nota3": 1.3,
+    "nota4": 5.7,
+    "faltas": 7
+  },
+  {
+    "id": 180,
+    "nome": "Fayth",
+    "sobrenome": "Tyre",
+    "nota1": 8.9,
+    "nota2": 6.1,
+    "nota3": 5.3,
+    "nota4": 5,
+    "faltas": 13
+  },
+  {
+    "id": 181,
+    "nome": "Annabella",
+    "sobrenome": "Viggars",
+    "nota1": 2,
+    "nota2": 9.7,
+    "nota3": 2.5,
+    "nota4": 4.7,
+    "faltas": 6
+  },
+  {
+    "id": 182,
+    "nome": "Maximilianus",
+    "sobrenome": "Boarleyson",
+    "nota1": 7.5,
+    "nota2": 2.3,
+    "nota3": 3,
+    "nota4": 9.9,
+    "faltas": 10
+  },
+  {
+    "id": 183,
+    "nome": "Theadora",
+    "sobrenome": "Ailward",
+    "nota1": 8.7,
+    "nota2": 2.4,
+    "nota3": 4,
+    "nota4": 5.5,
+    "faltas": 6
+  },
+  {
+    "id": 184,
+    "nome": "Gary",
+    "sobrenome": "Hall",
+    "nota1": 7.7,
+    "nota2": 2.2,
+    "nota3": 2.8,
+    "nota4": 7.7,
+    "faltas": 2
+  },
+  {
+    "id": 185,
+    "nome": "Henrie",
+    "sobrenome": "Gomm",
+    "nota1": 9,
+    "nota2": 9.9,
+    "nota3": 5,
+    "nota4": 8.4,
+    "faltas": 18
+  },
+  {
+    "id": 186,
+    "nome": "Chrissie",
+    "sobrenome": "Doubleday",
+    "nota1": 9.2,
+    "nota2": 6.5,
+    "nota3": 5,
+    "nota4": 7.5,
+    "faltas": 2
+  },
+  {
+    "id": 187,
+    "nome": "Nikki",
+    "sobrenome": "Ollerenshaw",
+    "nota1": 8.3,
+    "nota2": 8.5,
+    "nota3": 8.4,
+    "nota4": 1.2,
+    "faltas": 9
+  },
+  {
+    "id": 188,
+    "nome": "Jorgan",
+    "sobrenome": "Hablot",
+    "nota1": 1.3,
+    "nota2": 3.1,
+    "nota3": 9.3,
+    "nota4": null,
+    "faltas": 9
+  },
+  {
+    "id": 189,
+    "nome": "Romy",
+    "sobrenome": "Adin",
+    "nota1": 7.3,
+    "nota2": 4.9,
+    "nota3": null,
+    "nota4": 6.1,
+    "faltas": 12
+  },
+  {
+    "id": 190,
+    "nome": "Aleen",
+    "sobrenome": "Bidmead",
+    "nota1": 5.4,
+    "nota2": 7,
+    "nota3": 5,
+    "nota4": 5.4,
+    "faltas": 2
+  },
+  {
+    "id": 191,
+    "nome": "Aldwin",
+    "sobrenome": "Shepperd",
+    "nota1": 6.2,
+    "nota2": 4.6,
+    "nota3": null,
+    "nota4": 4,
+    "faltas": 8
+  },
+  {
+    "id": 192,
+    "nome": "Lula",
+    "sobrenome": "Leonard",
+    "nota1": 1,
+    "nota2": 6.7,
+    "nota3": 1.9,
+    "nota4": 7.1,
+    "faltas": 11
+  },
+  {
+    "id": 193,
+    "nome": "Halette",
+    "sobrenome": "Kropp",
+    "nota1": 4.3,
+    "nota2": 7.8,
+    "nota3": 3.5,
+    "nota4": null,
+    "faltas": 11
+  },
+  {
+    "id": 194,
+    "nome": "Bar",
+    "sobrenome": "Morgans",
+    "nota1": 2.4,
+    "nota2": 3.9,
+    "nota3": 8,
+    "nota4": 5.8,
+    "faltas": 3
+  },
+  {
+    "id": 195,
+    "nome": "Faulkner",
+    "sobrenome": "Fonzone",
+    "nota1": 2.7,
+    "nota2": 1.9,
+    "nota3": null,
+    "nota4": null,
+    "faltas": 2
+  },
+  {
+    "id": 196,
+    "nome": "Imogene",
+    "sobrenome": "Rogerson",
+    "nota1": 5.7,
+    "nota2": 8.6,
+    "nota3": 3.2,
+    "nota4": 8.4,
+    "faltas": 6
+  },
+  {
+    "id": 197,
+    "nome": "Christina",
+    "sobrenome": "Geeraert",
+    "nota1": 3.6,
+    "nota2": 7.4,
+    "nota3": null,
+    "nota4": 7.8,
+    "faltas": 20
+  },
+  {
+    "id": 198,
+    "nome": "Zolly",
+    "sobrenome": "Padilla",
+    "nota1": 5.4,
+    "nota2": 7,
+    "nota3": 4.7,
+    "nota4": 6.5,
+    "faltas": 16
+  },
+  {
+    "id": 199,
+    "nome": "Gilda",
+    "sobrenome": "Ickovits",
+    "nota1": 6.2,
+    "nota2": 3.7,
+    "nota3": 4.7,
+    "nota4": 3.1,
+    "faltas": 3
+  },
+  {
+    "id": 200,
+    "nome": "Averil",
+    "sobrenome": "Talks",
+    "nota1": 4.8,
+    "nota2": 7.9,
+    "nota3": 8,
+    "nota4": 6.4,
+    "faltas": 0
+  },
+  {
+    "id": 201,
+    "nome": "Towny",
+    "sobrenome": "Kennealy",
+    "nota1": 8,
+    "nota2": 4.6,
+    "nota3": 7.1,
+    "nota4": 2.9,
+    "faltas": 9
+  },
+  {
+    "id": 202,
+    "nome": "Hertha",
+    "sobrenome": "Bernath",
+    "nota1": 7.7,
+    "nota2": 9.1,
+    "nota3": 1.1,
+    "nota4": 9.2,
+    "faltas": 16
+  },
+  {
+    "id": 203,
+    "nome": "Dillie",
+    "sobrenome": "Bruhnke",
+    "nota1": 8.2,
+    "nota2": 2.8,
+    "nota3": 4.8,
+    "nota4": 8.3,
+    "faltas": 15
+  },
+  {
+    "id": 204,
+    "nome": "Marietta",
+    "sobrenome": "Koubek",
+    "nota1": 4.3,
+    "nota2": 6,
+    "nota3": 3,
+    "nota4": 9,
+    "faltas": 3
+  },
+  {
+    "id": 205,
+    "nome": "Bertrando",
+    "sobrenome": "Orrice",
+    "nota1": 5.9,
+    "nota2": 3.1,
+    "nota3": 7.9,
+    "nota4": 3.4,
+    "faltas": 8
+  },
+  {
+    "id": 206,
+    "nome": "Alaine",
+    "sobrenome": "Castano",
+    "nota1": 7.9,
+    "nota2": 8.5,
+    "nota3": 9.7,
+    "nota4": 5.1,
+    "faltas": 12
+  },
+  {
+    "id": 207,
+    "nome": "Ely",
+    "sobrenome": "Crane",
+    "nota1": 6.4,
+    "nota2": 9.2,
+    "nota3": 4.5,
+    "nota4": 6.9,
+    "faltas": 5
+  },
+  {
+    "id": 208,
+    "nome": "Gerry",
+    "sobrenome": "de Almeida",
+    "nota1": 7.1,
+    "nota2": 4.5,
+    "nota3": 3.5,
+    "nota4": 6,
+    "faltas": 14
+  },
+  {
+    "id": 209,
+    "nome": "Merrie",
+    "sobrenome": "Geoghegan",
+    "nota1": 3.3,
+    "nota2": 9.1,
+    "nota3": 8.5,
+    "nota4": 5.4,
+    "faltas": 15
+  },
+  {
+    "id": 210,
+    "nome": "Christy",
+    "sobrenome": "Riglesford",
+    "nota1": 6.6,
+    "nota2": 7.8,
+    "nota3": 7.5,
+    "nota4": 8.9,
+    "faltas": 0
+  },
+  {
+    "id": 211,
+    "nome": "Haily",
+    "sobrenome": "Sail",
+    "nota1": 5.9,
+    "nota2": 6.7,
+    "nota3": 2.8,
+    "nota4": 9.1,
+    "faltas": 14
+  },
+  {
+    "id": 212,
+    "nome": "Tilly",
+    "sobrenome": "Dowyer",
+    "nota1": 1.4,
+    "nota2": 8.3,
+    "nota3": 7.9,
+    "nota4": 4.1,
+    "faltas": 15
+  },
+  {
+    "id": 213,
+    "nome": "Yardley",
+    "sobrenome": "Landal",
+    "nota1": 1.8,
+    "nota2": 5.8,
+    "nota3": 1.4,
+    "nota4": 4.9,
+    "faltas": 0
+  },
+  {
+    "id": 214,
+    "nome": "Brigham",
+    "sobrenome": "Scini",
+    "nota1": 8.4,
+    "nota2": 8.1,
+    "nota3": 8.1,
+    "nota4": 2,
+    "faltas": 16
+  },
+  {
+    "id": 215,
+    "nome": "Augustus",
+    "sobrenome": "Robeson",
+    "nota1": 4.9,
+    "nota2": 3.6,
+    "nota3": 2.5,
+    "nota4": 8.2,
+    "faltas": 0
+  },
+  {
+    "id": 216,
+    "nome": "Marie-ann",
+    "sobrenome": "Gartsyde",
+    "nota1": 8.3,
+    "nota2": 9,
+    "nota3": 9.1,
+    "nota4": 9.5,
+    "faltas": 15
+  },
+  {
+    "id": 217,
+    "nome": "Norman",
+    "sobrenome": "Salters",
+    "nota1": 4.5,
+    "nota2": 8,
+    "nota3": 6.2,
+    "nota4": 9.1,
+    "faltas": 4
+  },
+  {
+    "id": 218,
+    "nome": "Kelcie",
+    "sobrenome": "Mendoza",
+    "nota1": 2.1,
+    "nota2": 4,
+    "nota3": 1.9,
+    "nota4": 5.6,
+    "faltas": 11
+  },
+  {
+    "id": 219,
+    "nome": "Hedvig",
+    "sobrenome": "Escoffier",
+    "nota1": 7.4,
+    "nota2": 9.5,
+    "nota3": 9.8,
+    "nota4": 5.2,
+    "faltas": 16
+  },
+  {
+    "id": 220,
+    "nome": "Cinderella",
+    "sobrenome": "Lippiello",
+    "nota1": 2.2,
+    "nota2": 8.7,
+    "nota3": 9.8,
+    "nota4": 7.4,
+    "faltas": 1
+  },
+  {
+    "id": 221,
+    "nome": "Keelby",
+    "sobrenome": "Ianson",
+    "nota1": 9.3,
+    "nota2": 4.1,
+    "nota3": null,
+    "nota4": 4.6,
+    "faltas": 12
+  },
+  {
+    "id": 222,
+    "nome": "Claybourne",
+    "sobrenome": "Frankish",
+    "nota1": 4.2,
+    "nota2": 7,
+    "nota3": 7.8,
+    "nota4": 4,
+    "faltas": 4
+  },
+  {
+    "id": 223,
+    "nome": "Kala",
+    "sobrenome": "Foreman",
+    "nota1": 6.2,
+    "nota2": 6.5,
+    "nota3": 1.2,
+    "nota4": 9.5,
+    "faltas": 6
+  },
+  {
+    "id": 224,
+    "nome": "Fanni",
+    "sobrenome": "Frane",
+    "nota1": 4,
+    "nota2": 10,
+    "nota3": 6.7,
+    "nota4": 7.6,
+    "faltas": 4
+  },
+  {
+    "id": 225,
+    "nome": "Robena",
+    "sobrenome": "Grandin",
+    "nota1": 6.3,
+    "nota2": 9,
+    "nota3": 2.2,
+    "nota4": 1.6,
+    "faltas": 20
+  },
+  {
+    "id": 226,
+    "nome": "Ciro",
+    "sobrenome": "Missenden",
+    "nota1": 7.7,
+    "nota2": 2.6,
+    "nota3": 4.1,
+    "nota4": 3.3,
+    "faltas": 7
+  },
+  {
+    "id": 227,
+    "nome": "Alice",
+    "sobrenome": "Pietesch",
+    "nota1": 1.6,
+    "nota2": 4.1,
+    "nota3": 3.9,
+    "nota4": 9.4,
+    "faltas": 15
+  },
+  {
+    "id": 228,
+    "nome": "Stesha",
+    "sobrenome": "Iorns",
+    "nota1": 7.2,
+    "nota2": 6.9,
+    "nota3": 1.3,
+    "nota4": 1.4,
+    "faltas": 19
+  },
+  {
+    "id": 229,
+    "nome": "Cyndy",
+    "sobrenome": "Lints",
+    "nota1": 2.8,
+    "nota2": 8.6,
+    "nota3": 2.5,
+    "nota4": 9.6,
+    "faltas": 2
+  },
+  {
+    "id": 230,
+    "nome": "Berenice",
+    "sobrenome": "Hrus",
+    "nota1": 6.9,
+    "nota2": 3,
+    "nota3": 3.5,
+    "nota4": 5.7,
+    "faltas": 20
+  },
+  {
+    "id": 231,
+    "nome": "Wait",
+    "sobrenome": "Meynell",
+    "nota1": 4.6,
+    "nota2": 5,
+    "nota3": 4.8,
+    "nota4": 5.1,
+    "faltas": 8
+  },
+  {
+    "id": 232,
+    "nome": "Ula",
+    "sobrenome": "Allanson",
+    "nota1": 4,
+    "nota2": 7.7,
+    "nota3": 2.3,
+    "nota4": 6.5,
+    "faltas": 14
+  },
+  {
+    "id": 233,
+    "nome": "Elyssa",
+    "sobrenome": "Metzke",
+    "nota1": 4.7,
+    "nota2": 8,
+    "nota3": null,
+    "nota4": 4.7,
+    "faltas": 14
+  },
+  {
+    "id": 234,
+    "nome": "Matty",
+    "sobrenome": "Absalom",
+    "nota1": 9.6,
+    "nota2": 2.1,
+    "nota3": 9.3,
+    "nota4": 4.1,
+    "faltas": 18
+  },
+  {
+    "id": 235,
+    "nome": "Diana",
+    "sobrenome": "Gatus",
+    "nota1": 2.8,
+    "nota2": 8.5,
+    "nota3": 7.3,
+    "nota4": 7.5,
+    "faltas": 18
+  },
+  {
+    "id": 236,
+    "nome": "Fredia",
+    "sobrenome": "Keller",
+    "nota1": 7.2,
+    "nota2": 9.6,
+    "nota3": 9.6,
+    "nota4": 1.7,
+    "faltas": 20
+  },
+  {
+    "id": 237,
+    "nome": "Nora",
+    "sobrenome": "Haffard",
+    "nota1": 5.1,
+    "nota2": 7.5,
+    "nota3": 5.8,
+    "nota4": 4.6,
+    "faltas": 17
+  },
+  {
+    "id": 238,
+    "nome": "Tobye",
+    "sobrenome": "Saffin",
+    "nota1": 8,
+    "nota2": 7.8,
+    "nota3": 3.4,
+    "nota4": 9.9,
+    "faltas": 15
+  },
+  {
+    "id": 239,
+    "nome": "Wendie",
+    "sobrenome": "Hynde",
+    "nota1": 1.2,
+    "nota2": 9.8,
+    "nota3": 7.1,
+    "nota4": 1.5,
+    "faltas": 5
+  },
+  {
+    "id": 240,
+    "nome": "Greta",
+    "sobrenome": "Antonsson",
+    "nota1": 6.4,
+    "nota2": 5.8,
+    "nota3": null,
+    "nota4": 4.9,
+    "faltas": 2
+  },
+  {
+    "id": 241,
+    "nome": "Stacia",
+    "sobrenome": "Quinion",
+    "nota1": 1.1,
+    "nota2": 3.6,
+    "nota3": 7.6,
+    "nota4": 5.2,
+    "faltas": 10
+  },
+  {
+    "id": 242,
+    "nome": "Bartholomeo",
+    "sobrenome": "Rounsefull",
+    "nota1": 9.7,
+    "nota2": 6.2,
+    "nota3": 3.1,
+    "nota4": 6.4,
+    "faltas": 3
+  },
+  {
+    "id": 243,
+    "nome": "Malcolm",
+    "sobrenome": "Gobourn",
+    "nota1": 1.6,
+    "nota2": 7.6,
+    "nota3": 3.1,
+    "nota4": 3.3,
+    "faltas": 10
+  },
+  {
+    "id": 244,
+    "nome": "Fidelio",
+    "sobrenome": "Dudeney",
+    "nota1": 7.1,
+    "nota2": 4.6,
+    "nota3": 3,
+    "nota4": 2.2,
+    "faltas": 19
+  },
+  {
+    "id": 245,
+    "nome": "Giovanni",
+    "sobrenome": "Defrain",
+    "nota1": 6.5,
+    "nota2": 7.9,
+    "nota3": 7.1,
+    "nota4": 1.8,
+    "faltas": 12
+  },
+  {
+    "id": 246,
+    "nome": "Murial",
+    "sobrenome": "Gilogly",
+    "nota1": 9.9,
+    "nota2": 1.3,
+    "nota3": 6.5,
+    "nota4": null,
+    "faltas": 13
+  },
+  {
+    "id": 247,
+    "nome": "Conrad",
+    "sobrenome": "Ledward",
+    "nota1": 6,
+    "nota2": 9.1,
+    "nota3": 9.9,
+    "nota4": 2.2,
+    "faltas": 18
+  },
+  {
+    "id": 248,
+    "nome": "Berta",
+    "sobrenome": "Eleshenar",
+    "nota1": 6.5,
+    "nota2": 1.6,
+    "nota3": 4.3,
+    "nota4": 6,
+    "faltas": 11
+  },
+  {
+    "id": 249,
+    "nome": "Germaine",
+    "sobrenome": "Prevett",
+    "nota1": 1.8,
+    "nota2": 10,
+    "nota3": 2.2,
+    "nota4": 3.5,
+    "faltas": 1
+  },
+  {
+    "id": 250,
+    "nome": "Isacco",
+    "sobrenome": "Mickan",
+    "nota1": 5.3,
+    "nota2": 4.6,
+    "nota3": 2.4,
+    "nota4": 7.1,
+    "faltas": 13
+  },
+  {
+    "id": 251,
+    "nome": "Peria",
+    "sobrenome": "Dyhouse",
+    "nota1": 5.8,
+    "nota2": 8.6,
+    "nota3": 7.3,
+    "nota4": 1.5,
+    "faltas": 1
+  },
+  {
+    "id": 252,
+    "nome": "Angelle",
+    "sobrenome": "Brockest",
+    "nota1": 2.7,
+    "nota2": 1.1,
+    "nota3": 4.8,
+    "nota4": 5.8,
+    "faltas": 19
+  },
+  {
+    "id": 253,
+    "nome": "Norah",
+    "sobrenome": "McNirlan",
+    "nota1": 4.9,
+    "nota2": 9.6,
+    "nota3": 6.5,
+    "nota4": 5.1,
+    "faltas": 17
+  },
+  {
+    "id": 254,
+    "nome": "Anjela",
+    "sobrenome": "Yvens",
+    "nota1": 1.7,
+    "nota2": 5.9,
+    "nota3": 1.8,
+    "nota4": 1.1,
+    "faltas": 5
+  },
+  {
+    "id": 255,
+    "nome": "Frankie",
+    "sobrenome": "Gronow",
+    "nota1": 2.4,
+    "nota2": 3.2,
+    "nota3": 5.6,
+    "nota4": 4.2,
+    "faltas": 4
+  },
+  {
+    "id": 256,
+    "nome": "Lotty",
+    "sobrenome": "Loudwell",
+    "nota1": 4.4,
+    "nota2": null,
+    "nota3": 3.1,
+    "nota4": 5.4,
+    "faltas": 9
+  },
+  {
+    "id": 257,
+    "nome": "Oneida",
+    "sobrenome": "Montague",
+    "nota1": 3.6,
+    "nota2": 6.4,
+    "nota3": 2.7,
+    "nota4": 6.1,
+    "faltas": 3
+  },
+  {
+    "id": 258,
+    "nome": "Danyelle",
+    "sobrenome": "Sparling",
+    "nota1": 1.3,
+    "nota2": 9.8,
+    "nota3": 2.8,
+    "nota4": 3.1,
+    "faltas": 3
+  },
+  {
+    "id": 259,
+    "nome": "Aharon",
+    "sobrenome": "Wakeford",
+    "nota1": 7.9,
+    "nota2": 2.1,
+    "nota3": null,
+    "nota4": 6.3,
+    "faltas": 14
+  },
+  {
+    "id": 260,
+    "nome": "Cullie",
+    "sobrenome": "Fallow",
+    "nota1": 6.9,
+    "nota2": 8.2,
+    "nota3": 7.1,
+    "nota4": 1.2,
+    "faltas": 16
+  },
+  {
+    "id": 261,
+    "nome": "Layne",
+    "sobrenome": "Kinneir",
+    "nota1": 1.4,
+    "nota2": 4.3,
+    "nota3": 7.2,
+    "nota4": 4.5,
+    "faltas": 12
+  },
+  {
+    "id": 262,
+    "nome": "Donetta",
+    "sobrenome": "Leighton",
+    "nota1": 9.9,
+    "nota2": 4.8,
+    "nota3": 5.2,
+    "nota4": 2.6,
+    "faltas": 19
+  },
+  {
+    "id": 263,
+    "nome": "Silvester",
+    "sobrenome": "Haffner",
+    "nota1": 7.9,
+    "nota2": 6.8,
+    "nota3": 9.5,
+    "nota4": 8.9,
+    "faltas": 6
+  },
+  {
+    "id": 264,
+    "nome": "Shepherd",
+    "sobrenome": "Blackburne",
+    "nota1": 2.6,
+    "nota2": 2.5,
+    "nota3": 5.1,
+    "nota4": 5.1,
+    "faltas": 10
+  },
+  {
+    "id": 265,
+    "nome": "Edlin",
+    "sobrenome": "De Mico",
+    "nota1": 3.3,
+    "nota2": 7.1,
+    "nota3": 3.6,
+    "nota4": 5.7,
+    "faltas": 7
+  },
+  {
+    "id": 266,
+    "nome": "Farly",
+    "sobrenome": "Pedler",
+    "nota1": 6.5,
+    "nota2": 4.5,
+    "nota3": 9.9,
+    "nota4": 4.6,
+    "faltas": 10
+  },
+  {
+    "id": 267,
+    "nome": "Marshal",
+    "sobrenome": "Canet",
+    "nota1": 7.1,
+    "nota2": 3.9,
+    "nota3": 8.5,
+    "nota4": 3.9,
+    "faltas": 13
+  },
+  {
+    "id": 268,
+    "nome": "Artie",
+    "sobrenome": "Island",
+    "nota1": 9.4,
+    "nota2": 9.4,
+    "nota3": null,
+    "nota4": 7.1,
+    "faltas": 8
+  },
+  {
+    "id": 269,
+    "nome": "Farly",
+    "sobrenome": "Matveyev",
+    "nota1": 4.1,
+    "nota2": 2.6,
+    "nota3": 1.2,
+    "nota4": 7.7,
+    "faltas": 16
+  },
+  {
+    "id": 270,
+    "nome": "Broderick",
+    "sobrenome": "Daddow",
+    "nota1": 9.8,
+    "nota2": 1.4,
+    "nota3": null,
+    "nota4": 6.9,
+    "faltas": 6
+  },
+  {
+    "id": 271,
+    "nome": "Nicholas",
+    "sobrenome": "Adamovich",
+    "nota1": 6.4,
+    "nota2": 2.5,
+    "nota3": 9.8,
+    "nota4": 3.6,
+    "faltas": 16
+  },
+  {
+    "id": 272,
+    "nome": "Liana",
+    "sobrenome": "Racher",
+    "nota1": 2.7,
+    "nota2": 4.3,
+    "nota3": 2.5,
+    "nota4": 2.4,
+    "faltas": 3
+  },
+  {
+    "id": 273,
+    "nome": "Ilario",
+    "sobrenome": "Thyng",
+    "nota1": 1.4,
+    "nota2": 3.4,
+    "nota3": 2.2,
+    "nota4": 3,
+    "faltas": 13
+  },
+  {
+    "id": 274,
+    "nome": "Emilie",
+    "sobrenome": "Doyle",
+    "nota1": 4.5,
+    "nota2": 1.5,
+    "nota3": 5.9,
+    "nota4": 3.6,
+    "faltas": 18
+  },
+  {
+    "id": 275,
+    "nome": "Randie",
+    "sobrenome": "Camel",
+    "nota1": 8.4,
+    "nota2": 9.1,
+    "nota3": 2.7,
+    "nota4": null,
+    "faltas": 19
+  },
+  {
+    "id": 276,
+    "nome": "Malvin",
+    "sobrenome": "Oade",
+    "nota1": 7.6,
+    "nota2": 9.2,
+    "nota3": 6.9,
+    "nota4": 8.8,
+    "faltas": 7
+  },
+  {
+    "id": 277,
+    "nome": "Kane",
+    "sobrenome": "McKleod",
+    "nota1": 7.7,
+    "nota2": 3.5,
+    "nota3": 1.1,
+    "nota4": 3.4,
+    "faltas": 8
+  },
+  {
+    "id": 278,
+    "nome": "Joane",
+    "sobrenome": "Leighfield",
+    "nota1": 7.5,
+    "nota2": 7.5,
+    "nota3": 5.7,
+    "nota4": 5.9,
+    "faltas": 20
+  },
+  {
+    "id": 279,
+    "nome": "Kaleena",
+    "sobrenome": "Duhig",
+    "nota1": 3.3,
+    "nota2": 2.4,
+    "nota3": 4.7,
+    "nota4": 8.9,
+    "faltas": 2
+  },
+  {
+    "id": 280,
+    "nome": "Mignon",
+    "sobrenome": "Euston",
+    "nota1": 8,
+    "nota2": 3.5,
+    "nota3": 3.4,
+    "nota4": 4.3,
+    "faltas": 0
+  },
+  {
+    "id": 281,
+    "nome": "Torie",
+    "sobrenome": "Large",
+    "nota1": 6.6,
+    "nota2": 2.8,
+    "nota3": 9.1,
+    "nota4": 3.7,
+    "faltas": 6
+  },
+  {
+    "id": 282,
+    "nome": "Elfreda",
+    "sobrenome": "Enrdigo",
+    "nota1": 3.9,
+    "nota2": 1.2,
+    "nota3": 2.2,
+    "nota4": 2.4,
+    "faltas": 17
+  },
+  {
+    "id": 283,
+    "nome": "Ivan",
+    "sobrenome": "Bullivent",
+    "nota1": 2,
+    "nota2": 5.6,
+    "nota3": 8.6,
+    "nota4": 9.7,
+    "faltas": 5
+  },
+  {
+    "id": 284,
+    "nome": "Corina",
+    "sobrenome": "Trobridge",
+    "nota1": 3.9,
+    "nota2": 6.4,
+    "nota3": 1.2,
+    "nota4": 6.3,
+    "faltas": 13
+  },
+  {
+    "id": 285,
+    "nome": "Lorene",
+    "sobrenome": "Jullian",
+    "nota1": 4.2,
+    "nota2": 5.3,
+    "nota3": 6.6,
+    "nota4": 3,
+    "faltas": 8
+  },
+  {
+    "id": 286,
+    "nome": "Whitman",
+    "sobrenome": "Shooter",
+    "nota1": 3.9,
+    "nota2": 5.8,
+    "nota3": 7.2,
+    "nota4": 1.5,
+    "faltas": 17
+  },
+  {
+    "id": 287,
+    "nome": "Dario",
+    "sobrenome": "Kalisch",
+    "nota1": 5,
+    "nota2": null,
+    "nota3": 5.3,
+    "nota4": 6.7,
+    "faltas": 3
+  },
+  {
+    "id": 288,
+    "nome": "Almeria",
+    "sobrenome": "Seden",
+    "nota1": 5.6,
+    "nota2": 1.4,
+    "nota3": 3.4,
+    "nota4": 6.3,
+    "faltas": 19
+  },
+  {
+    "id": 289,
+    "nome": "Morris",
+    "sobrenome": "Backshall",
+    "nota1": 6,
+    "nota2": 9.7,
+    "nota3": 3.2,
+    "nota4": 3.2,
+    "faltas": 18
+  },
+  {
+    "id": 290,
+    "nome": "Esmaria",
+    "sobrenome": "Blackah",
+    "nota1": 8.2,
+    "nota2": 2.7,
+    "nota3": 3.3,
+    "nota4": null,
+    "faltas": 6
+  },
+  {
+    "id": 291,
+    "nome": "Thalia",
+    "sobrenome": "Gerriets",
+    "nota1": 1.8,
+    "nota2": 6.1,
+    "nota3": 3.2,
+    "nota4": 3.5,
+    "faltas": 16
+  },
+  {
+    "id": 292,
+    "nome": "Lonee",
+    "sobrenome": "O'Sherrin",
+    "nota1": 9.9,
+    "nota2": 1.1,
+    "nota3": 6.9,
+    "nota4": 8.5,
+    "faltas": 4
+  },
+  {
+    "id": 293,
+    "nome": "Cody",
+    "sobrenome": "Attwood",
+    "nota1": 6.7,
+    "nota2": 7.1,
+    "nota3": 1.7,
+    "nota4": 3.3,
+    "faltas": 12
+  },
+  {
+    "id": 294,
+    "nome": "Carleton",
+    "sobrenome": "Cookley",
+    "nota1": 7.6,
+    "nota2": 9.7,
+    "nota3": 1.9,
+    "nota4": 9.5,
+    "faltas": 20
+  },
+  {
+    "id": 295,
+    "nome": "Toby",
+    "sobrenome": "Bezant",
+    "nota1": 5.1,
+    "nota2": 6.3,
+    "nota3": 1.3,
+    "nota4": 8.3,
+    "faltas": 15
+  },
+  {
+    "id": 296,
+    "nome": "Hart",
+    "sobrenome": "Derisley",
+    "nota1": 7.6,
+    "nota2": 7.3,
+    "nota3": 8.5,
+    "nota4": 5.4,
+    "faltas": 1
+  },
+  {
+    "id": 297,
+    "nome": "Issie",
+    "sobrenome": "Handman",
+    "nota1": 4.4,
+    "nota2": 2,
+    "nota3": 3.5,
+    "nota4": 9.3,
+    "faltas": 0
+  },
+  {
+    "id": 298,
+    "nome": "Annabela",
+    "sobrenome": "Pineaux",
+    "nota1": 7.3,
+    "nota2": 3.9,
+    "nota3": 8.6,
+    "nota4": 9.1,
+    "faltas": 16
+  },
+  {
+    "id": 299,
+    "nome": "Alley",
+    "sobrenome": "Curtoys",
+    "nota1": 4.7,
+    "nota2": 8.7,
+    "nota3": 1.8,
+    "nota4": 8.9,
+    "faltas": 19
+  },
+  {
+    "id": 300,
+    "nome": "Clemence",
+    "sobrenome": "Moynihan",
+    "nota1": 8,
+    "nota2": 8.5,
+    "nota3": 6.2,
+    "nota4": 2.7,
+    "faltas": 17
+  },
+
+
+  {
+    "id": 301,
+    "nome": "Chickie",
+    "sobrenome": "Yakubov",
+    "nota1": 4.6,
+    "nota2": 5.3,
+    "nota3": null,
+    "nota4": 4.2,
+    "faltas": 17
+  },
+  {
+    "id": 302,
+    "nome": "Viv",
+    "sobrenome": "Fuxman",
+    "nota1": 5,
+    "nota2": 9.9,
+    "nota3": 3.8,
+    "nota4": 3.6,
+    "faltas": 3
+  },
+  {
+    "id": 303,
+    "nome": "Drew",
+    "sobrenome": "Chenery",
+    "nota1": 8.6,
+    "nota2": 4.4,
+    "nota3": 3.8,
+    "nota4": 3.6,
+    "faltas": 12
+  },
+  {
+    "id": 304,
+    "nome": "Karena",
+    "sobrenome": "Piotrowski",
+    "nota1": 2.6,
+    "nota2": 4.2,
+    "nota3": 2.4,
+    "nota4": 1.6,
+    "faltas": 0
+  },
+  {
+    "id": 305,
+    "nome": "Pauly",
+    "sobrenome": "Fiorentino",
+    "nota1": 1,
+    "nota2": 2.7,
+    "nota3": 7.1,
+    "nota4": 8.6,
+    "faltas": 2
+  },
+  {
+    "id": 306,
+    "nome": "Dulci",
+    "sobrenome": "Bamell",
+    "nota1": 1,
+    "nota2": 3.8,
+    "nota3": 9.8,
+    "nota4": 4.1,
+    "faltas": 19
+  },
+  {
+    "id": 307,
+    "nome": "Morgun",
+    "sobrenome": "Gravey",
+    "nota1": 8.2,
+    "nota2": 1.9,
+    "nota3": 2.1,
+    "nota4": 3.1,
+    "faltas": 14
+  },
+  {
+    "id": 308,
+    "nome": "Cyrille",
+    "sobrenome": "Squirrel",
+    "nota1": 7.6,
+    "nota2": 4,
+    "nota3": null,
+    "nota4": 4.2,
+    "faltas": 3
+  },
+  {
+    "id": 309,
+    "nome": "Justino",
+    "sobrenome": "Markwelley",
+    "nota1": 9.8,
+    "nota2": 6.2,
+    "nota3": 2.7,
+    "nota4": 4.2,
+    "faltas": 18
+  },
+  {
+    "id": 310,
+    "nome": "Umeko",
+    "sobrenome": "Kytley",
+    "nota1": 5.4,
+    "nota2": 4,
+    "nota3": 7.5,
+    "nota4": 4,
+    "faltas": 7
+  },
+  {
+    "id": 311,
+    "nome": "Astra",
+    "sobrenome": "Brokenbrow",
+    "nota1": 8.5,
+    "nota2": 1.4,
+    "nota3": 4.7,
+    "nota4": 4.3,
+    "faltas": 17
+  },
+  {
+    "id": 312,
+    "nome": "Misha",
+    "sobrenome": "Haistwell",
+    "nota1": 7.9,
+    "nota2": 6.7,
+    "nota3": 2.7,
+    "nota4": 6.6,
+    "faltas": 11
+  },
+  {
+    "id": 313,
+    "nome": "Eduardo",
+    "sobrenome": "Kapiloff",
+    "nota1": 9.4,
+    "nota2": 8.9,
+    "nota3": 3,
+    "nota4": 5.5,
+    "faltas": 8
+  },
+  {
+    "id": 314,
+    "nome": "Carolyn",
+    "sobrenome": "Genese",
+    "nota1": 5.1,
+    "nota2": 2.8,
+    "nota3": null,
+    "nota4": 2.8,
+    "faltas": 10
+  },
+  {
+    "id": 315,
+    "nome": "Alisa",
+    "sobrenome": "Crowder",
+    "nota1": 6.4,
+    "nota2": 4.6,
+    "nota3": 3.6,
+    "nota4": 2.4,
+    "faltas": 5
+  },
+  {
+    "id": 316,
+    "nome": "Inness",
+    "sobrenome": "Demann",
+    "nota1": 4.6,
+    "nota2": 8.3,
+    "nota3": null,
+    "nota4": 9,
+    "faltas": 1
+  },
+  {
+    "id": 317,
+    "nome": "Jose",
+    "sobrenome": "Bugg",
+    "nota1": 4.8,
+    "nota2": 1.3,
+    "nota3": 4.3,
+    "nota4": 6,
+    "faltas": 20
+  },
+  {
+    "id": 318,
+    "nome": "Ede",
+    "sobrenome": "Klees",
+    "nota1": 9.8,
+    "nota2": 1.8,
+    "nota3": 9.3,
+    "nota4": 9,
+    "faltas": 19
+  },
+  {
+    "id": 319,
+    "nome": "Kaylil",
+    "sobrenome": "Bransden",
+    "nota1": 7.2,
+    "nota2": 3.7,
+    "nota3": 7.1,
+    "nota4": 3.6,
+    "faltas": 5
+  },
+  {
+    "id": 320,
+    "nome": "Averyl",
+    "sobrenome": "Halvosen",
+    "nota1": 3.2,
+    "nota2": 6.4,
+    "nota3": 5.6,
+    "nota4": 3.7,
+    "faltas": 5
+  },
+  {
+    "id": 321,
+    "nome": "Orton",
+    "sobrenome": "De la Yglesias",
+    "nota1": 6.6,
+    "nota2": 2.7,
+    "nota3": null,
+    "nota4": 8.7,
+    "faltas": 0
+  },
+  {
+    "id": 322,
+    "nome": "Paxton",
+    "sobrenome": "Longden",
+    "nota1": 4.6,
+    "nota2": 6.1,
+    "nota3": null,
+    "nota4": 4.8,
+    "faltas": 2
+  },
+  {
+    "id": 323,
+    "nome": "Brocky",
+    "sobrenome": "Housden",
+    "nota1": 6.9,
+    "nota2": 7.3,
+    "nota3": null,
+    "nota4": 2.1,
+    "faltas": 4
+  },
+  {
+    "id": 324,
+    "nome": "Paulette",
+    "sobrenome": "Andino",
+    "nota1": 2,
+    "nota2": 9.5,
+    "nota3": null,
+    "nota4": null,
+    "faltas": 6
+  },
+  {
+    "id": 325,
+    "nome": "Alasdair",
+    "sobrenome": "Edlyn",
+    "nota1": 2.4,
+    "nota2": null,
+    "nota3": 5.8,
+    "nota4": 6,
+    "faltas": 8
+  },
+  {
+    "id": 326,
+    "nome": "Lyndy",
+    "sobrenome": "MacPaik",
+    "nota1": 3.4,
+    "nota2": 2.9,
+    "nota3": 7.8,
+    "nota4": 2,
+    "faltas": 2
+  },
+  {
+    "id": 327,
+    "nome": "Calida",
+    "sobrenome": "Bossom",
+    "nota1": 1.9,
+    "nota2": 5.7,
+    "nota3": 3.4,
+    "nota4": null,
+    "faltas": 7
+  },
+  {
+    "id": 328,
+    "nome": "Claudell",
+    "sobrenome": "Ridsdell",
+    "nota1": 5.9,
+    "nota2": 2.5,
+    "nota3": null,
+    "nota4": 3.2,
+    "faltas": 19
+  },
+  {
+    "id": 329,
+    "nome": "Berenice",
+    "sobrenome": "Djuricic",
+    "nota1": 7.4,
+    "nota2": 1.6,
+    "nota3": 8.9,
+    "nota4": 2,
+    "faltas": 4
+  },
+  {
+    "id": 330,
+    "nome": "Chryste",
+    "sobrenome": "MacDonnell",
+    "nota1": 1.1,
+    "nota2": 7.8,
+    "nota3": 5.6,
+    "nota4": 9,
+    "faltas": 3
+  },
+  {
+    "id": 331,
+    "nome": "Felicdad",
+    "sobrenome": "Ganley",
+    "nota1": 7.5,
+    "nota2": 3.5,
+    "nota3": 8.1,
+    "nota4": 7,
+    "faltas": 16
+  },
+  {
+    "id": 332,
+    "nome": "Diane",
+    "sobrenome": "Ends",
+    "nota1": 1,
+    "nota2": 4.4,
+    "nota3": 2.3,
+    "nota4": 5.2,
+    "faltas": 15
+  },
+  {
+    "id": 333,
+    "nome": "Arlyne",
+    "sobrenome": "D'Abbot-Doyle",
+    "nota1": 8.7,
+    "nota2": 8.6,
+    "nota3": 8.2,
+    "nota4": 9.2,
+    "faltas": 13
+  },
+  {
+    "id": 334,
+    "nome": "Robinette",
+    "sobrenome": "Blankenship",
+    "nota1": 4.8,
+    "nota2": 5,
+    "nota3": 9.1,
+    "nota4": 7.9,
+    "faltas": 5
+  },
+  {
+    "id": 335,
+    "nome": "Jayne",
+    "sobrenome": "Ventham",
+    "nota1": 7.3,
+    "nota2": 6.9,
+    "nota3": 5.3,
+    "nota4": 5.8,
+    "faltas": 14
+  },
+  {
+    "id": 336,
+    "nome": "Der",
+    "sobrenome": "Lambdon",
+    "nota1": 4.3,
+    "nota2": 8.3,
+    "nota3": 2.6,
+    "nota4": 9.3,
+    "faltas": 1
+  },
+  {
+    "id": 337,
+    "nome": "Pancho",
+    "sobrenome": "Raggett",
+    "nota1": 7.7,
+    "nota2": 5.7,
+    "nota3": 4.7,
+    "nota4": 9.3,
+    "faltas": 2
+  },
+  {
+    "id": 338,
+    "nome": "Gizela",
+    "sobrenome": "Fenn",
+    "nota1": 5.4,
+    "nota2": 6.3,
+    "nota3": 3.6,
+    "nota4": 5.1,
+    "faltas": 10
+  },
+  {
+    "id": 339,
+    "nome": "Sonni",
+    "sobrenome": "Jakubovski",
+    "nota1": 8.5,
+    "nota2": 5.2,
+    "nota3": 3.2,
+    "nota4": null,
+    "faltas": 19
+  },
+  {
+    "id": 340,
+    "nome": "Rad",
+    "sobrenome": "Tuckwell",
+    "nota1": 3.5,
+    "nota2": 2.9,
+    "nota3": null,
+    "nota4": 10,
+    "faltas": 17
+  },
+  {
+    "id": 341,
+    "nome": "Roddie",
+    "sobrenome": "Feak",
+    "nota1": 8.7,
+    "nota2": 8.2,
+    "nota3": 7.2,
+    "nota4": 4.2,
+    "faltas": 2
+  },
+  {
+    "id": 342,
+    "nome": "Diane",
+    "sobrenome": "Gerred",
+    "nota1": 7.1,
+    "nota2": 3.7,
+    "nota3": 9,
+    "nota4": 5.1,
+    "faltas": 1
+  },
+  {
+    "id": 343,
+    "nome": "Gennifer",
+    "sobrenome": "Ottam",
+    "nota1": 7.2,
+    "nota2": 2.2,
+    "nota3": 2.9,
+    "nota4": 6.3,
+    "faltas": 15
+  },
+  {
+    "id": 344,
+    "nome": "George",
+    "sobrenome": "Debney",
+    "nota1": 2.1,
+    "nota2": 4,
+    "nota3": 5.7,
+    "nota4": 2.5,
+    "faltas": 7
+  },
+  {
+    "id": 345,
+    "nome": "Mufinella",
+    "sobrenome": "Kupec",
+    "nota1": 5.2,
+    "nota2": 1.1,
+    "nota3": 7.5,
+    "nota4": 6.2,
+    "faltas": 7
+  },
+  {
+    "id": 346,
+    "nome": "Marsiella",
+    "sobrenome": "Riccetti",
+    "nota1": 3.3,
+    "nota2": 7.7,
+    "nota3": 8.3,
+    "nota4": 7.3,
+    "faltas": 18
+  },
+  {
+    "id": 347,
+    "nome": "Amelina",
+    "sobrenome": "Mullord",
+    "nota1": 9.8,
+    "nota2": 4.1,
+    "nota3": 5.7,
+    "nota4": 5.5,
+    "faltas": 8
+  },
+  {
+    "id": 348,
+    "nome": "Florri",
+    "sobrenome": "Girardey",
+    "nota1": 1.6,
+    "nota2": 6.1,
+    "nota3": 1.3,
+    "nota4": 6.1,
+    "faltas": 12
+  },
+  {
+    "id": 349,
+    "nome": "Evanne",
+    "sobrenome": "Yosifov",
+    "nota1": 5,
+    "nota2": 8.3,
+    "nota3": 8,
+    "nota4": 1.2,
+    "faltas": 19
+  },
+  {
+    "id": 350,
+    "nome": "Mathilda",
+    "sobrenome": "Gwyer",
+    "nota1": 1.5,
+    "nota2": 1.5,
+    "nota3": 7.5,
+    "nota4": 4.2,
+    "faltas": 0
+  },
+  {
+    "id": 351,
+    "nome": "Carr",
+    "sobrenome": "Chessil",
+    "nota1": 3.5,
+    "nota2": 3.6,
+    "nota3": null,
+    "nota4": 7.9,
+    "faltas": 7
+  },
+  {
+    "id": 352,
+    "nome": "Honor",
+    "sobrenome": "Pentony",
+    "nota1": 7.8,
+    "nota2": 7.5,
+    "nota3": 4.8,
+    "nota4": 6.6,
+    "faltas": 5
+  },
+  {
+    "id": 353,
+    "nome": "Karylin",
+    "sobrenome": "Kitter",
+    "nota1": 1.3,
+    "nota2": 5.1,
+    "nota3": 2.8,
+    "nota4": 1.9,
+    "faltas": 16
+  },
+  {
+    "id": 354,
+    "nome": "Bail",
+    "sobrenome": "Loughrey",
+    "nota1": 8,
+    "nota2": 6.3,
+    "nota3": 3.6,
+    "nota4": 9.8,
+    "faltas": 9
+  },
+  {
+    "id": 355,
+    "nome": "Brand",
+    "sobrenome": "Brosh",
+    "nota1": 1.3,
+    "nota2": 9.3,
+    "nota3": 8.8,
+    "nota4": 3.4,
+    "faltas": 2
+  },
+  {
+    "id": 356,
+    "nome": "Jerald",
+    "sobrenome": "Ivey",
+    "nota1": 8.2,
+    "nota2": 5.9,
+    "nota3": 8.6,
+    "nota4": 3.7,
+    "faltas": 17
+  },
+  {
+    "id": 357,
+    "nome": "Gena",
+    "sobrenome": "Dumini",
+    "nota1": 9,
+    "nota2": 3.2,
+    "nota3": 7.9,
+    "nota4": 1.2,
+    "faltas": 20
+  },
+  {
+    "id": 358,
+    "nome": "Arri",
+    "sobrenome": "O'Doohaine",
+    "nota1": 8.3,
+    "nota2": 9.8,
+    "nota3": 1.3,
+    "nota4": 6.3,
+    "faltas": 2
+  },
+  {
+    "id": 359,
+    "nome": "Jobey",
+    "sobrenome": "Rooms",
+    "nota1": 4.9,
+    "nota2": 8.8,
+    "nota3": 3.6,
+    "nota4": 1.1,
+    "faltas": 10
+  },
+  {
+    "id": 360,
+    "nome": "Sheila-kathryn",
+    "sobrenome": "Yushkov",
+    "nota1": 7.2,
+    "nota2": 1.3,
+    "nota3": 6.7,
+    "nota4": 2.2,
+    "faltas": 7
+  },
+  {
+    "id": 361,
+    "nome": "Lauretta",
+    "sobrenome": "Massei",
+    "nota1": 8.5,
+    "nota2": 6.1,
+    "nota3": 5.1,
+    "nota4": 6,
+    "faltas": 16
+  },
+  {
+    "id": 362,
+    "nome": "Spencer",
+    "sobrenome": "St. Quintin",
+    "nota1": 4.8,
+    "nota2": 2.1,
+    "nota3": 6.2,
+    "nota4": 10,
+    "faltas": 8
+  },
+  {
+    "id": 363,
+    "nome": "Horten",
+    "sobrenome": "Meekins",
+    "nota1": 4,
+    "nota2": 9.2,
+    "nota3": 4.7,
+    "nota4": 1.8,
+    "faltas": 13
+  },
+  {
+    "id": 364,
+    "nome": "Jacquette",
+    "sobrenome": "Maiklem",
+    "nota1": 5.6,
+    "nota2": 2.6,
+    "nota3": 2.2,
+    "nota4": 8.1,
+    "faltas": 2
+  },
+  {
+    "id": 365,
+    "nome": "Jacinta",
+    "sobrenome": "Schroter",
+    "nota1": 9.3,
+    "nota2": 2.3,
+    "nota3": 4.2,
+    "nota4": 7.5,
+    "faltas": 10
+  },
+  {
+    "id": 366,
+    "nome": "Saundra",
+    "sobrenome": "Neilly",
+    "nota1": 6.8,
+    "nota2": 5.4,
+    "nota3": 4.8,
+    "nota4": 4.1,
+    "faltas": 10
+  },
+  {
+    "id": 367,
+    "nome": "Town",
+    "sobrenome": "Knappett",
+    "nota1": 9,
+    "nota2": 1.8,
+    "nota3": 2.8,
+    "nota4": 5,
+    "faltas": 5
+  },
+  {
+    "id": 368,
+    "nome": "Korry",
+    "sobrenome": "Tanfield",
+    "nota1": 5.9,
+    "nota2": 3.2,
+    "nota3": 9.9,
+    "nota4": 6.2,
+    "faltas": 15
+  },
+  {
+    "id": 369,
+    "nome": "Ferris",
+    "sobrenome": "Sheivels",
+    "nota1": 8,
+    "nota2": 3.8,
+    "nota3": null,
+    "nota4": 1.7,
+    "faltas": 9
+  },
+  {
+    "id": 370,
+    "nome": "Alfons",
+    "sobrenome": "Perle",
+    "nota1": 2.8,
+    "nota2": 5.6,
+    "nota3": 2,
+    "nota4": 6.1,
+    "faltas": 4
+  },
+  {
+    "id": 371,
+    "nome": "Skipton",
+    "sobrenome": "Attyeo",
+    "nota1": 6.2,
+    "nota2": 4.9,
+    "nota3": 1.4,
+    "nota4": null,
+    "faltas": 16
+  },
+  {
+    "id": 372,
+    "nome": "Eduino",
+    "sobrenome": "Shrieve",
+    "nota1": 7,
+    "nota2": null,
+    "nota3": 1.3,
+    "nota4": 9.1,
+    "faltas": 3
+  },
+  {
+    "id": 373,
+    "nome": "Darda",
+    "sobrenome": "Bachelor",
+    "nota1": 4.6,
+    "nota2": 2.4,
+    "nota3": 6,
+    "nota4": 6.3,
+    "faltas": 12
+  },
+  {
+    "id": 374,
+    "nome": "Maury",
+    "sobrenome": "Sheards",
+    "nota1": 9.7,
+    "nota2": 7.7,
+    "nota3": 1.3,
+    "nota4": 5.3,
+    "faltas": 4
+  },
+  {
+    "id": 375,
+    "nome": "Hendrika",
+    "sobrenome": "Fraczek",
+    "nota1": 8.9,
+    "nota2": 1.5,
+    "nota3": 2.5,
+    "nota4": 6.6,
+    "faltas": 19
+  },
+  {
+    "id": 376,
+    "nome": "Wilhelm",
+    "sobrenome": "Littefair",
+    "nota1": 1.5,
+    "nota2": 9.4,
+    "nota3": 6.8,
+    "nota4": null,
+    "faltas": 9
+  },
+  {
+    "id": 377,
+    "nome": "Gerald",
+    "sobrenome": "Barlie",
+    "nota1": 2.5,
+    "nota2": 3.8,
+    "nota3": null,
+    "nota4": 9.8,
+    "faltas": 12
+  },
+  {
+    "id": 378,
+    "nome": "Neil",
+    "sobrenome": "Krinks",
+    "nota1": 9.4,
+    "nota2": 6.9,
+    "nota3": null,
+    "nota4": null,
+    "faltas": 9
+  },
+  {
+    "id": 379,
+    "nome": "Nerta",
+    "sobrenome": "Dorgon",
+    "nota1": 5.7,
+    "nota2": 5.1,
+    "nota3": 5.6,
+    "nota4": 7.3,
+    "faltas": 8
+  },
+  {
+    "id": 380,
+    "nome": "Josiah",
+    "sobrenome": "Trewartha",
+    "nota1": 8.1,
+    "nota2": 2.7,
+    "nota3": 9.1,
+    "nota4": 8.1,
+    "faltas": 2
+  },
+  {
+    "id": 381,
+    "nome": "Page",
+    "sobrenome": "Platfoot",
+    "nota1": 6.2,
+    "nota2": 8.2,
+    "nota3": 1.4,
+    "nota4": 2,
+    "faltas": 8
+  },
+  {
+    "id": 382,
+    "nome": "Ashlen",
+    "sobrenome": "Helix",
+    "nota1": 8.4,
+    "nota2": 7,
+    "nota3": 3.8,
+    "nota4": 2.3,
+    "faltas": 15
+  },
+  {
+    "id": 383,
+    "nome": "Kendal",
+    "sobrenome": "Welberry",
+    "nota1": 2.7,
+    "nota2": 2.4,
+    "nota3": 2.3,
+    "nota4": 8.3,
+    "faltas": 20
+  },
+  {
+    "id": 384,
+    "nome": "Cooper",
+    "sobrenome": "Meus",
+    "nota1": 4.9,
+    "nota2": 6.1,
+    "nota3": 8.6,
+    "nota4": null,
+    "faltas": 14
+  },
+  {
+    "id": 385,
+    "nome": "Adolph",
+    "sobrenome": "Fryman",
+    "nota1": 2.4,
+    "nota2": 4.6,
+    "nota3": 7.6,
+    "nota4": 5,
+    "faltas": 11
+  },
+  {
+    "id": 386,
+    "nome": "Nealon",
+    "sobrenome": "Showers",
+    "nota1": 7.3,
+    "nota2": 8.8,
+    "nota3": 9.3,
+    "nota4": 4.1,
+    "faltas": 3
+  },
+  {
+    "id": 387,
+    "nome": "Angelia",
+    "sobrenome": "Osmund",
+    "nota1": 5.3,
+    "nota2": 5,
+    "nota3": 4.8,
+    "nota4": 9.3,
+    "faltas": 10
+  },
+  {
+    "id": 388,
+    "nome": "Corri",
+    "sobrenome": "Nazareth",
+    "nota1": 7,
+    "nota2": 2.2,
+    "nota3": 9.1,
+    "nota4": 6,
+    "faltas": 18
+  },
+  {
+    "id": 389,
+    "nome": "Isaak",
+    "sobrenome": "Shephard",
+    "nota1": 6,
+    "nota2": 1.4,
+    "nota3": 4.9,
+    "nota4": 9.8,
+    "faltas": 8
+  },
+  {
+    "id": 390,
+    "nome": "Haleigh",
+    "sobrenome": "Gregoriou",
+    "nota1": 9.5,
+    "nota2": 5.1,
+    "nota3": 6.4,
+    "nota4": 1.4,
+    "faltas": 1
+  },
+  {
+    "id": 391,
+    "nome": "Sidoney",
+    "sobrenome": "Lobell",
+    "nota1": 5.1,
+    "nota2": 9.6,
+    "nota3": 6.3,
+    "nota4": 4.2,
+    "faltas": 17
+  },
+  {
+    "id": 392,
+    "nome": "Colman",
+    "sobrenome": "Bevington",
+    "nota1": 3.9,
+    "nota2": 4.8,
+    "nota3": 7.1,
+    "nota4": 7.6,
+    "faltas": 16
+  },
+  {
+    "id": 393,
+    "nome": "Livia",
+    "sobrenome": "Ashall",
+    "nota1": 8.9,
+    "nota2": 6.9,
+    "nota3": null,
+    "nota4": 3.7,
+    "faltas": 15
+  },
+  {
+    "id": 394,
+    "nome": "Cyrus",
+    "sobrenome": "Rowledge",
+    "nota1": 2.7,
+    "nota2": 7.4,
+    "nota3": 7.6,
+    "nota4": 4.5,
+    "faltas": 10
+  },
+  {
+    "id": 395,
+    "nome": "Terza",
+    "sobrenome": "Sustin",
+    "nota1": 8.8,
+    "nota2": 6.2,
+    "nota3": 1.3,
+    "nota4": 4.1,
+    "faltas": 0
+  },
+  {
+    "id": 396,
+    "nome": "Vitoria",
+    "sobrenome": "Leschelle",
+    "nota1": 5.8,
+    "nota2": 3.1,
+    "nota3": 5.3,
+    "nota4": 3.8,
+    "faltas": 9
+  },
+  {
+    "id": 397,
+    "nome": "Sabine",
+    "sobrenome": "De Roos",
+    "nota1": 5.2,
+    "nota2": 1.5,
+    "nota3": 10,
+    "nota4": 2.9,
+    "faltas": 1
+  },
+  {
+    "id": 398,
+    "nome": "Waite",
+    "sobrenome": "McKinlay",
+    "nota1": 9.2,
+    "nota2": 7.6,
+    "nota3": 4.5,
+    "nota4": 7.8,
+    "faltas": 14
+  },
+  {
+    "id": 399,
+    "nome": "Thor",
+    "sobrenome": "Stagge",
+    "nota1": 3.3,
+    "nota2": 4.6,
+    "nota3": 7.9,
+    "nota4": 1.4,
+    "faltas": 13
+  },
+  {
+    "id": 400,
+    "nome": "Fonz",
+    "sobrenome": "Crosi",
+    "nota1": 8.5,
+    "nota2": 6.8,
+    "nota3": 7.3,
+    "nota4": 6.2,
+    "faltas": 15
+  },
+
+
+
+  {
+    "id": 401,
+    "nome": "Judie",
+    "sobrenome": "Giacobo",
+    "nota1": 8.1,
+    "nota2": 5.2,
+    "nota3": 1.4,
+    "nota4": 5.6,
+    "faltas": 12
+  },
+  {
+    "id": 402,
+    "nome": "Jerrilee",
+    "sobrenome": "Cato",
+    "nota1": 8.6,
+    "nota2": 4.9,
+    "nota3": 6.9,
+    "nota4": 7.8,
+    "faltas": 19
+  },
+  {
+    "id": 403,
+    "nome": "Stanley",
+    "sobrenome": "Bluschke",
+    "nota1": 4.4,
+    "nota2": 4,
+    "nota3": 2.3,
+    "nota4": 1.3,
+    "faltas": 17
+  },
+  {
+    "id": 404,
+    "nome": "Eugenia",
+    "sobrenome": "Hawkeswood",
+    "nota1": 5.8,
+    "nota2": 9.2,
+    "nota3": 4.2,
+    "nota4": 9.1,
+    "faltas": 17
+  },
+  {
+    "id": 405,
+    "nome": "Valma",
+    "sobrenome": "Rapaport",
+    "nota1": 4.8,
+    "nota2": 4,
+    "nota3": 2.7,
+    "nota4": 9.5,
+    "faltas": 9
+  },
+  {
+    "id": 406,
+    "nome": "Ginelle",
+    "sobrenome": "Greensted",
+    "nota1": 2.9,
+    "nota2": 3.9,
+    "nota3": 6.3,
+    "nota4": 6.6,
+    "faltas": 2
+  },
+  {
+    "id": 407,
+    "nome": "Florella",
+    "sobrenome": "Blick",
+    "nota1": 6.6,
+    "nota2": 3.4,
+    "nota3": null,
+    "nota4": 6.8,
+    "faltas": 13
+  },
+  {
+    "id": 408,
+    "nome": "Sherie",
+    "sobrenome": "Brennenstuhl",
+    "nota1": 2.4,
+    "nota2": 2.7,
+    "nota3": 2.4,
+    "nota4": 4.9,
+    "faltas": 18
+  },
+  {
+    "id": 409,
+    "nome": "George",
+    "sobrenome": "Wormstone",
+    "nota1": 8.1,
+    "nota2": 9.7,
+    "nota3": 3.6,
+    "nota4": 8.4,
+    "faltas": 0
+  },
+  {
+    "id": 410,
+    "nome": "Cooper",
+    "sobrenome": "Leare",
+    "nota1": 5.1,
+    "nota2": 1.9,
+    "nota3": 1.4,
+    "nota4": 6.9,
+    "faltas": 15
+  },
+  {
+    "id": 411,
+    "nome": "Dalli",
+    "sobrenome": "Zoellner",
+    "nota1": 2,
+    "nota2": 3,
+    "nota3": 2,
+    "nota4": 2,
+    "faltas": 6
+  },
+  {
+    "id": 412,
+    "nome": "Miller",
+    "sobrenome": "Tooth",
+    "nota1": 8.3,
+    "nota2": 5.4,
+    "nota3": 4.5,
+    "nota4": 5.5,
+    "faltas": 0
+  },
+  {
+    "id": 413,
+    "nome": "Tommy",
+    "sobrenome": "Oldcote",
+    "nota1": 2.9,
+    "nota2": 3.7,
+    "nota3": null,
+    "nota4": 2.7,
+    "faltas": 2
+  },
+  {
+    "id": 414,
+    "nome": "Trude",
+    "sobrenome": "Kybert",
+    "nota1": 7.9,
+    "nota2": 3.8,
+    "nota3": 3.2,
+    "nota4": 1.9,
+    "faltas": 11
+  },
+  {
+    "id": 415,
+    "nome": "Lane",
+    "sobrenome": "Elgee",
+    "nota1": 4.6,
+    "nota2": 6.4,
+    "nota3": 9.3,
+    "nota4": 9.5,
+    "faltas": 7
+  },
+  {
+    "id": 416,
+    "nome": "Annmaria",
+    "sobrenome": "Ellson",
+    "nota1": 5.3,
+    "nota2": 6.3,
+    "nota3": 9.1,
+    "nota4": 6.2,
+    "faltas": 15
+  },
+  {
+    "id": 417,
+    "nome": "Shawnee",
+    "sobrenome": "Tribbeck",
+    "nota1": 4.2,
+    "nota2": 4.6,
+    "nota3": 1.4,
+    "nota4": 9.8,
+    "faltas": 16
+  },
+  {
+    "id": 418,
+    "nome": "Alaric",
+    "sobrenome": "Poolton",
+    "nota1": 3.4,
+    "nota2": 8.2,
+    "nota3": 3.2,
+    "nota4": 7.2,
+    "faltas": 6
+  },
+  {
+    "id": 419,
+    "nome": "Amil",
+    "sobrenome": "Jacquot",
+    "nota1": 6.6,
+    "nota2": 6,
+    "nota3": 8.4,
+    "nota4": 1.8,
+    "faltas": 8
+  },
+  {
+    "id": 420,
+    "nome": "Seward",
+    "sobrenome": "Rydzynski",
+    "nota1": 4.2,
+    "nota2": 4.8,
+    "nota3": 8.4,
+    "nota4": 4.8,
+    "faltas": 10
+  },
+  {
+    "id": 421,
+    "nome": "Salli",
+    "sobrenome": "Sam",
+    "nota1": 7.7,
+    "nota2": 5.5,
+    "nota3": 6,
+    "nota4": 5.6,
+    "faltas": 1
+  },
+  {
+    "id": 422,
+    "nome": "Marybelle",
+    "sobrenome": "Colthurst",
+    "nota1": 5.7,
+    "nota2": 5.8,
+    "nota3": 4.1,
+    "nota4": 5,
+    "faltas": 0
+  },
+  {
+    "id": 423,
+    "nome": "Ninetta",
+    "sobrenome": "Shorthill",
+    "nota1": 9.3,
+    "nota2": 6,
+    "nota3": null,
+    "nota4": 8.8,
+    "faltas": 5
+  },
+  {
+    "id": 424,
+    "nome": "Derek",
+    "sobrenome": "Jeannet",
+    "nota1": 3.2,
+    "nota2": 6.5,
+    "nota3": 3.2,
+    "nota4": 5.5,
+    "faltas": 15
+  },
+  {
+    "id": 425,
+    "nome": "Bell",
+    "sobrenome": "Conew",
+    "nota1": 9.8,
+    "nota2": 2.5,
+    "nota3": 3.3,
+    "nota4": 5.8,
+    "faltas": 11
+  },
+  {
+    "id": 426,
+    "nome": "Sid",
+    "sobrenome": "Cannop",
+    "nota1": 7.9,
+    "nota2": 9.9,
+    "nota3": 7,
+    "nota4": 9.9,
+    "faltas": 15
+  },
+  {
+    "id": 427,
+    "nome": "Caron",
+    "sobrenome": "Crossingham",
+    "nota1": 7.3,
+    "nota2": 2.5,
+    "nota3": 1.9,
+    "nota4": 8.9,
+    "faltas": 17
+  },
+  {
+    "id": 428,
+    "nome": "Shara",
+    "sobrenome": "Van den Velde",
+    "nota1": 7.7,
+    "nota2": 6.9,
+    "nota3": 5.1,
+    "nota4": null,
+    "faltas": 10
+  },
+  {
+    "id": 429,
+    "nome": "Zachary",
+    "sobrenome": "Wickson",
+    "nota1": 5.7,
+    "nota2": 4.5,
+    "nota3": 2.7,
+    "nota4": 7.1,
+    "faltas": 6
+  },
+  {
+    "id": 430,
+    "nome": "Zonda",
+    "sobrenome": "Beedon",
+    "nota1": 8.6,
+    "nota2": 5,
+    "nota3": 7.7,
+    "nota4": 9.7,
+    "faltas": 19
+  },
+  {
+    "id": 431,
+    "nome": "Ive",
+    "sobrenome": "Watmough",
+    "nota1": 2.9,
+    "nota2": 5,
+    "nota3": 1.8,
+    "nota4": 8.5,
+    "faltas": 9
+  },
+  {
+    "id": 432,
+    "nome": "Joella",
+    "sobrenome": "Browne",
+    "nota1": 5.1,
+    "nota2": 6,
+    "nota3": 9.7,
+    "nota4": 4.9,
+    "faltas": 11
+  },
+  {
+    "id": 433,
+    "nome": "Aldon",
+    "sobrenome": "Libbe",
+    "nota1": 9.3,
+    "nota2": 7.3,
+    "nota3": 6.7,
+    "nota4": 6.4,
+    "faltas": 14
+  },
+  {
+    "id": 434,
+    "nome": "Johny",
+    "sobrenome": "Tytherton",
+    "nota1": 9.5,
+    "nota2": 2.6,
+    "nota3": 1.2,
+    "nota4": 7.9,
+    "faltas": 7
+  },
+  {
+    "id": 435,
+    "nome": "Reeba",
+    "sobrenome": "Kenshole",
+    "nota1": 7,
+    "nota2": 5.5,
+    "nota3": 5.4,
+    "nota4": 6.1,
+    "faltas": 4
+  },
+  {
+    "id": 436,
+    "nome": "Paulie",
+    "sobrenome": "Elfleet",
+    "nota1": 3.8,
+    "nota2": 8.5,
+    "nota3": 4.7,
+    "nota4": null,
+    "faltas": 13
+  },
+  {
+    "id": 437,
+    "nome": "Stefania",
+    "sobrenome": "Watsham",
+    "nota1": 3.9,
+    "nota2": 4.7,
+    "nota3": 2,
+    "nota4": 5.5,
+    "faltas": 4
+  },
+  {
+    "id": 438,
+    "nome": "Orlan",
+    "sobrenome": "Boutellier",
+    "nota1": 3.8,
+    "nota2": 2.6,
+    "nota3": 4.2,
+    "nota4": 4.4,
+    "faltas": 12
+  },
+  {
+    "id": 439,
+    "nome": "Judie",
+    "sobrenome": "Mattiessen",
+    "nota1": 4.9,
+    "nota2": 4.7,
+    "nota3": 4.2,
+    "nota4": 4.5,
+    "faltas": 15
+  },
+  {
+    "id": 440,
+    "nome": "Ann",
+    "sobrenome": "Patching",
+    "nota1": 5.9,
+    "nota2": 8.1,
+    "nota3": 9.8,
+    "nota4": 9.4,
+    "faltas": 18
+  },
+  {
+    "id": 441,
+    "nome": "Madlen",
+    "sobrenome": "Tubbs",
+    "nota1": 3.3,
+    "nota2": 4.1,
+    "nota3": 1,
+    "nota4": 8.8,
+    "faltas": 16
+  },
+  {
+    "id": 442,
+    "nome": "Ericka",
+    "sobrenome": "Mathou",
+    "nota1": 4.6,
+    "nota2": 4.8,
+    "nota3": 4.1,
+    "nota4": 5,
+    "faltas": 2
+  },
+  {
+    "id": 443,
+    "nome": "Cahra",
+    "sobrenome": "Neilly",
+    "nota1": 4.2,
+    "nota2": 8,
+    "nota3": 7.2,
+    "nota4": 5,
+    "faltas": 2
+  },
+  {
+    "id": 444,
+    "nome": "Danella",
+    "sobrenome": "Fuentez",
+    "nota1": 7.9,
+    "nota2": 4.3,
+    "nota3": 1.3,
+    "nota4": 1.4,
+    "faltas": 8
+  },
+  {
+    "id": 445,
+    "nome": "Bancroft",
+    "sobrenome": "Shearstone",
+    "nota1": 7.3,
+    "nota2": 6.5,
+    "nota3": 4,
+    "nota4": 1.7,
+    "faltas": 8
+  },
+  {
+    "id": 446,
+    "nome": "Romain",
+    "sobrenome": "Weakley",
+    "nota1": 2,
+    "nota2": 3.9,
+    "nota3": 3.5,
+    "nota4": 4.3,
+    "faltas": 1
+  },
+  {
+    "id": 447,
+    "nome": "Robyn",
+    "sobrenome": "Easthope",
+    "nota1": 7.6,
+    "nota2": 2.8,
+    "nota3": 9.1,
+    "nota4": 5,
+    "faltas": 18
+  },
+  {
+    "id": 448,
+    "nome": "Lolly",
+    "sobrenome": "Liff",
+    "nota1": 9.3,
+    "nota2": 7.1,
+    "nota3": 2,
+    "nota4": 8.4,
+    "faltas": 10
+  },
+  {
+    "id": 449,
+    "nome": "Jena",
+    "sobrenome": "Alberti",
+    "nota1": 9.4,
+    "nota2": 2.8,
+    "nota3": 9,
+    "nota4": 1.1,
+    "faltas": 12
+  },
+  {
+    "id": 450,
+    "nome": "Kleon",
+    "sobrenome": "Fenge",
+    "nota1": 5.1,
+    "nota2": 2.8,
+    "nota3": 8.7,
+    "nota4": 5.1,
+    "faltas": 1
+  },
+  {
+    "id": 451,
+    "nome": "Lonnard",
+    "sobrenome": "Pilgram",
+    "nota1": 1.5,
+    "nota2": 7.1,
+    "nota3": 7.8,
+    "nota4": 6.1,
+    "faltas": 15
+  },
+  {
+    "id": 452,
+    "nome": "Clayton",
+    "sobrenome": "Fishpond",
+    "nota1": 10,
+    "nota2": 4.6,
+    "nota3": 8.4,
+    "nota4": 9.7,
+    "faltas": 17
+  },
+  {
+    "id": 453,
+    "nome": "L;urette",
+    "sobrenome": "Shingfield",
+    "nota1": 6.8,
+    "nota2": 5.9,
+    "nota3": 7.9,
+    "nota4": 4.2,
+    "faltas": 17
+  },
+  {
+    "id": 454,
+    "nome": "Shandy",
+    "sobrenome": "Dykins",
+    "nota1": 8.4,
+    "nota2": 3.1,
+    "nota3": 3.6,
+    "nota4": 4.1,
+    "faltas": 12
+  },
+  {
+    "id": 455,
+    "nome": "Will",
+    "sobrenome": "Winny",
+    "nota1": 9.3,
+    "nota2": 4.3,
+    "nota3": 6.6,
+    "nota4": 5.6,
+    "faltas": 18
+  },
+  {
+    "id": 456,
+    "nome": "Rubetta",
+    "sobrenome": "Burgis",
+    "nota1": 3.1,
+    "nota2": 9.6,
+    "nota3": null,
+    "nota4": 1.8,
+    "faltas": 19
+  },
+  {
+    "id": 457,
+    "nome": "Morris",
+    "sobrenome": "Hasel",
+    "nota1": 1.6,
+    "nota2": 8.9,
+    "nota3": 6.1,
+    "nota4": 1.2,
+    "faltas": 9
+  },
+  {
+    "id": 458,
+    "nome": "Adella",
+    "sobrenome": "Fetterplace",
+    "nota1": 6.7,
+    "nota2": 7.3,
+    "nota3": 8.6,
+    "nota4": 7.8,
+    "faltas": 8
+  },
+  {
+    "id": 459,
+    "nome": "Bradford",
+    "sobrenome": "Chesney",
+    "nota1": 5.5,
+    "nota2": 1,
+    "nota3": 1,
+    "nota4": 1.8,
+    "faltas": 17
+  },
+  {
+    "id": 460,
+    "nome": "Araldo",
+    "sobrenome": "Densell",
+    "nota1": 7.9,
+    "nota2": 8.8,
+    "nota3": null,
+    "nota4": 2.6,
+    "faltas": 4
+  },
+  {
+    "id": 461,
+    "nome": "Burgess",
+    "sobrenome": "Woodroff",
+    "nota1": 4.8,
+    "nota2": 2.6,
+    "nota3": 6.8,
+    "nota4": 7.1,
+    "faltas": 3
+  },
+  {
+    "id": 462,
+    "nome": "Arlana",
+    "sobrenome": "Aleshintsev",
+    "nota1": 5.5,
+    "nota2": 1.9,
+    "nota3": 2.4,
+    "nota4": 8.3,
+    "faltas": 18
+  },
+  {
+    "id": 463,
+    "nome": "Cos",
+    "sobrenome": "Lambkin",
+    "nota1": 3.7,
+    "nota2": 7.7,
+    "nota3": 4.6,
+    "nota4": 5.1,
+    "faltas": 5
+  },
+  {
+    "id": 464,
+    "nome": "Alica",
+    "sobrenome": "Chatin",
+    "nota1": 1.6,
+    "nota2": 3.3,
+    "nota3": 3.1,
+    "nota4": 8.4,
+    "faltas": 17
+  },
+  {
+    "id": 465,
+    "nome": "Roland",
+    "sobrenome": "Steenson",
+    "nota1": 6.6,
+    "nota2": null,
+    "nota3": 7.1,
+    "nota4": 7.4,
+    "faltas": 9
+  },
+  {
+    "id": 466,
+    "nome": "Thatch",
+    "sobrenome": "Mum",
+    "nota1": 5.2,
+    "nota2": 3.8,
+    "nota3": 1.6,
+    "nota4": 3.1,
+    "faltas": 11
+  },
+  {
+    "id": 467,
+    "nome": "Tamqrah",
+    "sobrenome": "Redford",
+    "nota1": 7.3,
+    "nota2": 4.1,
+    "nota3": 7.4,
+    "nota4": 6.8,
+    "faltas": 16
+  },
+  {
+    "id": 468,
+    "nome": "Nady",
+    "sobrenome": "Readie",
+    "nota1": 7.4,
+    "nota2": 7.1,
+    "nota3": 6.6,
+    "nota4": null,
+    "faltas": 4
+  },
+  {
+    "id": 469,
+    "nome": "Nester",
+    "sobrenome": "Dickson",
+    "nota1": 6.3,
+    "nota2": 1.1,
+    "nota3": 5.8,
+    "nota4": 3.6,
+    "faltas": 9
+  },
+  {
+    "id": 470,
+    "nome": "Peggie",
+    "sobrenome": "Eate",
+    "nota1": 2.1,
+    "nota2": 2.8,
+    "nota3": null,
+    "nota4": 5.9,
+    "faltas": 19
+  },
+  {
+    "id": 471,
+    "nome": "Branden",
+    "sobrenome": "Bruyett",
+    "nota1": 6.7,
+    "nota2": 2.6,
+    "nota3": 7.9,
+    "nota4": 4,
+    "faltas": 10
+  },
+  {
+    "id": 472,
+    "nome": "Belle",
+    "sobrenome": "Bodley",
+    "nota1": 8.9,
+    "nota2": 6.6,
+    "nota3": 8,
+    "nota4": 7.1,
+    "faltas": 14
+  },
+  {
+    "id": 473,
+    "nome": "Elysha",
+    "sobrenome": "Gange",
+    "nota1": 3.5,
+    "nota2": 3.7,
+    "nota3": 7.1,
+    "nota4": 3.7,
+    "faltas": 6
+  },
+  {
+    "id": 474,
+    "nome": "Elmer",
+    "sobrenome": "O'Docherty",
+    "nota1": 1.2,
+    "nota2": 5.2,
+    "nota3": 7,
+    "nota4": 2.5,
+    "faltas": 12
+  },
+  {
+    "id": 475,
+    "nome": "Cherrita",
+    "sobrenome": "Stroyan",
+    "nota1": 4.2,
+    "nota2": 3.7,
+    "nota3": 4.4,
+    "nota4": 2.7,
+    "faltas": 1
+  },
+  {
+    "id": 476,
+    "nome": "Carmelita",
+    "sobrenome": "Phillott",
+    "nota1": 2.7,
+    "nota2": 9.1,
+    "nota3": 9.4,
+    "nota4": 8.6,
+    "faltas": 4
+  },
+  {
+    "id": 477,
+    "nome": "Ransom",
+    "sobrenome": "Pitts",
+    "nota1": 2.9,
+    "nota2": 5.6,
+    "nota3": 1.9,
+    "nota4": 8.3,
+    "faltas": 10
+  },
+  {
+    "id": 478,
+    "nome": "Diane",
+    "sobrenome": "Lafaye",
+    "nota1": 1.8,
+    "nota2": null,
+    "nota3": 1.1,
+    "nota4": 3.5,
+    "faltas": 20
+  },
+  {
+    "id": 479,
+    "nome": "Vinnie",
+    "sobrenome": "Whitcombe",
+    "nota1": 7,
+    "nota2": 9.3,
+    "nota3": 3.7,
+    "nota4": 7.8,
+    "faltas": 15
+  },
+  {
+    "id": 480,
+    "nome": "Doralin",
+    "sobrenome": "Wallsam",
+    "nota1": 7.3,
+    "nota2": 8.1,
+    "nota3": 9.9,
+    "nota4": null,
+    "faltas": 6
+  },
+  {
+    "id": 481,
+    "nome": "Antonella",
+    "sobrenome": "See",
+    "nota1": 4,
+    "nota2": 9,
+    "nota3": 3.8,
+    "nota4": 6.7,
+    "faltas": 20
+  },
+  {
+    "id": 482,
+    "nome": "Helsa",
+    "sobrenome": "Krolman",
+    "nota1": 2.2,
+    "nota2": 3.5,
+    "nota3": 1.7,
+    "nota4": 6.9,
+    "faltas": 8
+  },
+  {
+    "id": 483,
+    "nome": "Christye",
+    "sobrenome": "Janek",
+    "nota1": 6.2,
+    "nota2": 2.4,
+    "nota3": null,
+    "nota4": 7.3,
+    "faltas": 7
+  },
+  {
+    "id": 484,
+    "nome": "Lancelot",
+    "sobrenome": "Vasyagin",
+    "nota1": 6.8,
+    "nota2": 4,
+    "nota3": 5.8,
+    "nota4": 6.7,
+    "faltas": 0
+  },
+  {
+    "id": 485,
+    "nome": "Delly",
+    "sobrenome": "Gobeau",
+    "nota1": 7.2,
+    "nota2": 4.7,
+    "nota3": 8.7,
+    "nota4": 3.9,
+    "faltas": 1
+  },
+  {
+    "id": 486,
+    "nome": "Marlena",
+    "sobrenome": "Keer",
+    "nota1": 8.8,
+    "nota2": 5.9,
+    "nota3": 7,
+    "nota4": 7.3,
+    "faltas": 17
+  },
+  {
+    "id": 487,
+    "nome": "Padraic",
+    "sobrenome": "Logesdale",
+    "nota1": 6.1,
+    "nota2": 9.9,
+    "nota3": 3.4,
+    "nota4": 6,
+    "faltas": 11
+  },
+  {
+    "id": 488,
+    "nome": "Skipp",
+    "sobrenome": "Raggitt",
+    "nota1": 6.7,
+    "nota2": 7.9,
+    "nota3": 7.7,
+    "nota4": 1.9,
+    "faltas": 0
+  },
+  {
+    "id": 489,
+    "nome": "Olenolin",
+    "sobrenome": "Divine",
+    "nota1": 3.9,
+    "nota2": 4.4,
+    "nota3": 3.4,
+    "nota4": 9.3,
+    "faltas": 16
+  },
+  {
+    "id": 490,
+    "nome": "Marlin",
+    "sobrenome": "Cuttin",
+    "nota1": 9.5,
+    "nota2": 5.1,
+    "nota3": 4.8,
+    "nota4": 8.7,
+    "faltas": 2
+  },
+  {
+    "id": 491,
+    "nome": "Esmeralda",
+    "sobrenome": "Helkin",
+    "nota1": 3,
+    "nota2": 6.4,
+    "nota3": 4.3,
+    "nota4": 8.1,
+    "faltas": 0
+  },
+  {
+    "id": 492,
+    "nome": "Haskel",
+    "sobrenome": "Pickburn",
+    "nota1": 1.9,
+    "nota2": 4,
+    "nota3": 4.4,
+    "nota4": 3.9,
+    "faltas": 14
+  },
+  {
+    "id": 493,
+    "nome": "Mickie",
+    "sobrenome": "Soutar",
+    "nota1": 7.5,
+    "nota2": 2.4,
+    "nota3": 3.3,
+    "nota4": 2.3,
+    "faltas": 15
+  },
+  {
+    "id": 494,
+    "nome": "Noelani",
+    "sobrenome": "Bonwick",
+    "nota1": 3.8,
+    "nota2": 4.1,
+    "nota3": 4.3,
+    "nota4": 4.1,
+    "faltas": 14
+  },
+  {
+    "id": 495,
+    "nome": "Falkner",
+    "sobrenome": "Canti",
+    "nota1": 5.5,
+    "nota2": 7.1,
+    "nota3": 5,
+    "nota4": 3.9,
+    "faltas": 7
+  },
+  {
+    "id": 496,
+    "nome": "Elysha",
+    "sobrenome": "Scotney",
+    "nota1": 8.3,
+    "nota2": 5.9,
+    "nota3": 3.2,
+    "nota4": 7.4,
+    "faltas": 12
+  },
+  {
+    "id": 497,
+    "nome": "Bert",
+    "sobrenome": "Boutcher",
+    "nota1": 7.4,
+    "nota2": 3.4,
+    "nota3": 7.6,
+    "nota4": 6.8,
+    "faltas": 2
+  },
+  {
+    "id": 498,
+    "nome": "Amargo",
+    "sobrenome": "Terzza",
+    "nota1": 9.6,
+    "nota2": 4.3,
+    "nota3": 7.5,
+    "nota4": 2.6,
+    "faltas": 0
+  },
+  {
+    "id": 499,
+    "nome": "Jarret",
+    "sobrenome": "Hunt",
+    "nota1": 6.2,
+    "nota2": 6.6,
+    "nota3": null,
+    "nota4": 6.2,
+    "faltas": 0
+  },
+  {
+    "id": 500,
+    "nome": "Belva",
+    "sobrenome": "LeEstut",
+    "nota1": 6.9,
+    "nota2": 9.5,
+    "nota3": 5.9,
+    "nota4": 7.4,
+    "faltas": 18
+  },
+
+  {
+    "id": 501,
+    "nome": "Myer",
+    "sobrenome": "Dancey",
+    "nota1": 7.7,
+    "nota2": 6.7,
+    "nota3": 8,
+    "nota4": 4.6,
+    "faltas": 20
+  },
+  {
+    "id": 502,
+    "nome": "Bil",
+    "sobrenome": "Cunningham",
+    "nota1": 2.4,
+    "nota2": 9.9,
+    "nota3": null,
+    "nota4": 3.1,
+    "faltas": 11
+  },
+  {
+    "id": 503,
+    "nome": "Zaneta",
+    "sobrenome": "Portman",
+    "nota1": 5.1,
+    "nota2": 3.2,
+    "nota3": 9.7,
+    "nota4": 5.7,
+    "faltas": 3
+  },
+  {
+    "id": 504,
+    "nome": "Aubrey",
+    "sobrenome": "Rogans",
+    "nota1": 3.2,
+    "nota2": 1.9,
+    "nota3": null,
+    "nota4": 3.4,
+    "faltas": 9
+  },
+  {
+    "id": 505,
+    "nome": "Collete",
+    "sobrenome": "Brobyn",
+    "nota1": 4.5,
+    "nota2": 5.7,
+    "nota3": 3.9,
+    "nota4": 1.5,
+    "faltas": 4
+  },
+  {
+    "id": 506,
+    "nome": "Romeo",
+    "sobrenome": "Norcliffe",
+    "nota1": 6,
+    "nota2": 1.9,
+    "nota3": null,
+    "nota4": 1.8,
+    "faltas": 8
+  },
+  {
+    "id": 507,
+    "nome": "Stillmann",
+    "sobrenome": "O'Duilleain",
+    "nota1": 3.4,
+    "nota2": 4.7,
+    "nota3": 4,
+    "nota4": 4,
+    "faltas": 1
+  },
+  {
+    "id": 508,
+    "nome": "Karlene",
+    "sobrenome": "Bollum",
+    "nota1": 1.3,
+    "nota2": 4.4,
+    "nota3": 6.7,
+    "nota4": 2.4,
+    "faltas": 5
+  },
+  {
+    "id": 509,
+    "nome": "Llywellyn",
+    "sobrenome": "Prebble",
+    "nota1": 6,
+    "nota2": 3.4,
+    "nota3": 9.7,
+    "nota4": 9.3,
+    "faltas": 3
+  },
+  {
+    "id": 510,
+    "nome": "Cori",
+    "sobrenome": "Lapley",
+    "nota1": 2.2,
+    "nota2": 9.6,
+    "nota3": 4.2,
+    "nota4": 5.5,
+    "faltas": 3
+  },
+  {
+    "id": 511,
+    "nome": "Egan",
+    "sobrenome": "Drysdall",
+    "nota1": 3.9,
+    "nota2": 6.9,
+    "nota3": 7.3,
+    "nota4": 8,
+    "faltas": 5
+  },
+  {
+    "id": 512,
+    "nome": "Catlaina",
+    "sobrenome": "Spellacy",
+    "nota1": 9.1,
+    "nota2": 4.2,
+    "nota3": 10,
+    "nota4": 4.1,
+    "faltas": 7
+  },
+  {
+    "id": 513,
+    "nome": "Darlleen",
+    "sobrenome": "Kalinke",
+    "nota1": 8.5,
+    "nota2": 7,
+    "nota3": 1.6,
+    "nota4": 10,
+    "faltas": 14
+  },
+  {
+    "id": 514,
+    "nome": "Angus",
+    "sobrenome": "Slinn",
+    "nota1": 5.9,
+    "nota2": 2,
+    "nota3": 4,
+    "nota4": 2.9,
+    "faltas": 13
+  },
+  {
+    "id": 515,
+    "nome": "Babb",
+    "sobrenome": "Easterby",
+    "nota1": 6.4,
+    "nota2": 3,
+    "nota3": 5.1,
+    "nota4": 5.9,
+    "faltas": 19
+  },
+  {
+    "id": 516,
+    "nome": "Torrey",
+    "sobrenome": "Stiffkins",
+    "nota1": 8,
+    "nota2": 1.2,
+    "nota3": 2.9,
+    "nota4": 4.1,
+    "faltas": 1
+  },
+  {
+    "id": 517,
+    "nome": "Marj",
+    "sobrenome": "Spencers",
+    "nota1": 2.2,
+    "nota2": 1.1,
+    "nota3": 4,
+    "nota4": null,
+    "faltas": 14
+  },
+  {
+    "id": 518,
+    "nome": "Noble",
+    "sobrenome": "Flello",
+    "nota1": 1.9,
+    "nota2": 7.8,
+    "nota3": null,
+    "nota4": 8.4,
+    "faltas": 11
+  },
+  {
+    "id": 519,
+    "nome": "Marquita",
+    "sobrenome": "Holde",
+    "nota1": 1.2,
+    "nota2": 3.4,
+    "nota3": 7.8,
+    "nota4": 8.3,
+    "faltas": 12
+  },
+  {
+    "id": 520,
+    "nome": "Jilli",
+    "sobrenome": "Cuningham",
+    "nota1": 6.1,
+    "nota2": 4.8,
+    "nota3": 3.2,
+    "nota4": 4.5,
+    "faltas": 2
+  },
+  {
+    "id": 521,
+    "nome": "Marylou",
+    "sobrenome": "Aggott",
+    "nota1": 6.9,
+    "nota2": 4.7,
+    "nota3": 6.5,
+    "nota4": 1.9,
+    "faltas": 1
+  },
+  {
+    "id": 522,
+    "nome": "Lucia",
+    "sobrenome": "Matousek",
+    "nota1": 2.8,
+    "nota2": 6.6,
+    "nota3": 9.5,
+    "nota4": 6.3,
+    "faltas": 4
+  },
+  {
+    "id": 523,
+    "nome": "Romain",
+    "sobrenome": "Bellay",
+    "nota1": 8.5,
+    "nota2": 4.1,
+    "nota3": 8.8,
+    "nota4": 6.1,
+    "faltas": 15
+  },
+  {
+    "id": 524,
+    "nome": "Kiri",
+    "sobrenome": "Sivills",
+    "nota1": 3.9,
+    "nota2": 4.1,
+    "nota3": 1.3,
+    "nota4": 9.8,
+    "faltas": 15
+  },
+  {
+    "id": 525,
+    "nome": "Orella",
+    "sobrenome": "Godden",
+    "nota1": 9.3,
+    "nota2": 1.4,
+    "nota3": 5.4,
+    "nota4": 9.1,
+    "faltas": 2
+  },
+  {
+    "id": 526,
+    "nome": "Angy",
+    "sobrenome": "Matura",
+    "nota1": 2,
+    "nota2": null,
+    "nota3": 5.6,
+    "nota4": 2.1,
+    "faltas": 5
+  },
+  {
+    "id": 527,
+    "nome": "Raimundo",
+    "sobrenome": "Slay",
+    "nota1": 1.4,
+    "nota2": 8.4,
+    "nota3": 2.8,
+    "nota4": 3.6,
+    "faltas": 19
+  },
+  {
+    "id": 528,
+    "nome": "Kristan",
+    "sobrenome": "Wank",
+    "nota1": 1.3,
+    "nota2": 1.3,
+    "nota3": 8.1,
+    "nota4": 4,
+    "faltas": 11
+  },
+  {
+    "id": 529,
+    "nome": "Ami",
+    "sobrenome": "Chaldecott",
+    "nota1": 4.5,
+    "nota2": 7.8,
+    "nota3": 4.5,
+    "nota4": 3.7,
+    "faltas": 13
+  },
+  {
+    "id": 530,
+    "nome": "Veronike",
+    "sobrenome": "Fridlington",
+    "nota1": 9.3,
+    "nota2": 4.9,
+    "nota3": 7.2,
+    "nota4": 6.3,
+    "faltas": 19
+  },
+  {
+    "id": 531,
+    "nome": "Janot",
+    "sobrenome": "Kubik",
+    "nota1": 9.7,
+    "nota2": 9.2,
+    "nota3": 7.4,
+    "nota4": 7.1,
+    "faltas": 1
+  },
+  {
+    "id": 532,
+    "nome": "Stephie",
+    "sobrenome": "Daintree",
+    "nota1": 1.7,
+    "nota2": 9.5,
+    "nota3": 7.4,
+    "nota4": 2.9,
+    "faltas": 12
+  },
+  {
+    "id": 533,
+    "nome": "Anson",
+    "sobrenome": "Baseggio",
+    "nota1": 3.8,
+    "nota2": 2.7,
+    "nota3": null,
+    "nota4": 2.7,
+    "faltas": 14
+  },
+  {
+    "id": 534,
+    "nome": "Lee",
+    "sobrenome": "Isbell",
+    "nota1": 7.4,
+    "nota2": 7.3,
+    "nota3": 1.1,
+    "nota4": 3.5,
+    "faltas": 20
+  },
+  {
+    "id": 535,
+    "nome": "Kelcey",
+    "sobrenome": "Hutchens",
+    "nota1": 7.1,
+    "nota2": 7.7,
+    "nota3": 8.6,
+    "nota4": 9.7,
+    "faltas": 12
+  },
+  {
+    "id": 536,
+    "nome": "Adele",
+    "sobrenome": "McPeeters",
+    "nota1": 9,
+    "nota2": 8.1,
+    "nota3": 2.6,
+    "nota4": 4,
+    "faltas": 16
+  },
+  {
+    "id": 537,
+    "nome": "Gerianne",
+    "sobrenome": "Harty",
+    "nota1": 5.2,
+    "nota2": 4.6,
+    "nota3": 5.9,
+    "nota4": 8,
+    "faltas": 10
+  },
+  {
+    "id": 538,
+    "nome": "Maudie",
+    "sobrenome": "Phipson",
+    "nota1": 8.9,
+    "nota2": 7.1,
+    "nota3": null,
+    "nota4": 2.3,
+    "faltas": 6
+  },
+  {
+    "id": 539,
+    "nome": "Chelsae",
+    "sobrenome": "Lebreton",
+    "nota1": 3.4,
+    "nota2": 2.9,
+    "nota3": 2.6,
+    "nota4": 8.9,
+    "faltas": 10
+  },
+  {
+    "id": 540,
+    "nome": "Daffie",
+    "sobrenome": "Gethin",
+    "nota1": 1.7,
+    "nota2": 8.5,
+    "nota3": null,
+    "nota4": 4.7,
+    "faltas": 16
+  },
+  {
+    "id": 541,
+    "nome": "Anstice",
+    "sobrenome": "Normanell",
+    "nota1": 9.5,
+    "nota2": 4.7,
+    "nota3": 4.5,
+    "nota4": 6.1,
+    "faltas": 9
+  },
+  {
+    "id": 542,
+    "nome": "Erny",
+    "sobrenome": "Shorland",
+    "nota1": 6.1,
+    "nota2": 1.4,
+    "nota3": 3.8,
+    "nota4": 1.1,
+    "faltas": 15
+  },
+  {
+    "id": 543,
+    "nome": "Garrett",
+    "sobrenome": "Girogetti",
+    "nota1": 8.8,
+    "nota2": 5.1,
+    "nota3": null,
+    "nota4": 4.6,
+    "faltas": 7
+  },
+  {
+    "id": 544,
+    "nome": "Timi",
+    "sobrenome": "Poletto",
+    "nota1": 6,
+    "nota2": 8.7,
+    "nota3": 9,
+    "nota4": 7.7,
+    "faltas": 18
+  },
+  {
+    "id": 545,
+    "nome": "Robbin",
+    "sobrenome": "De Cristofalo",
+    "nota1": 8.6,
+    "nota2": 6.5,
+    "nota3": 7.5,
+    "nota4": 8.6,
+    "faltas": 16
+  },
+  {
+    "id": 546,
+    "nome": "Ky",
+    "sobrenome": "Barnham",
+    "nota1": 7.6,
+    "nota2": 7,
+    "nota3": 1.4,
+    "nota4": 6.3,
+    "faltas": 11
+  },
+  {
+    "id": 547,
+    "nome": "Erin",
+    "sobrenome": "Ryle",
+    "nota1": 7.7,
+    "nota2": 4,
+    "nota3": 6.5,
+    "nota4": 8.5,
+    "faltas": 0
+  },
+  {
+    "id": 548,
+    "nome": "Marge",
+    "sobrenome": "Hundley",
+    "nota1": 3.3,
+    "nota2": 8.8,
+    "nota3": 1.5,
+    "nota4": 1.7,
+    "faltas": 13
+  },
+  {
+    "id": 549,
+    "nome": "Teodoro",
+    "sobrenome": "Meagher",
+    "nota1": 9.3,
+    "nota2": null,
+    "nota3": null,
+    "nota4": 8.4,
+    "faltas": 15
+  },
+  {
+    "id": 550,
+    "nome": "Curran",
+    "sobrenome": "Clineck",
+    "nota1": 2.3,
+    "nota2": 6.8,
+    "nota3": 9.3,
+    "nota4": null,
+    "faltas": 18
+  },
+  {
+    "id": 551,
+    "nome": "Imojean",
+    "sobrenome": "Oldacres",
+    "nota1": 2.3,
+    "nota2": 8.9,
+    "nota3": null,
+    "nota4": 2,
+    "faltas": 0
+  },
+  {
+    "id": 552,
+    "nome": "Leilah",
+    "sobrenome": "Gutcher",
+    "nota1": 4.2,
+    "nota2": 3.9,
+    "nota3": null,
+    "nota4": 8.2,
+    "faltas": 4
+  },
+  {
+    "id": 553,
+    "nome": "Carine",
+    "sobrenome": "Godar",
+    "nota1": 8.8,
+    "nota2": 8.3,
+    "nota3": 2.7,
+    "nota4": null,
+    "faltas": 6
+  },
+  {
+    "id": 554,
+    "nome": "Aron",
+    "sobrenome": "Trevor",
+    "nota1": 6.6,
+    "nota2": 7.6,
+    "nota3": 7.6,
+    "nota4": 4.7,
+    "faltas": 13
+  },
+  {
+    "id": 555,
+    "nome": "Katlin",
+    "sobrenome": "Pickrill",
+    "nota1": 4.6,
+    "nota2": 5.3,
+    "nota3": 8,
+    "nota4": 6.6,
+    "faltas": 8
+  },
+  {
+    "id": 556,
+    "nome": "Michele",
+    "sobrenome": "Levay",
+    "nota1": 5.3,
+    "nota2": 9.1,
+    "nota3": 7.1,
+    "nota4": 4.8,
+    "faltas": 6
+  },
+  {
+    "id": 557,
+    "nome": "Sher",
+    "sobrenome": "Zaple",
+    "nota1": 7.6,
+    "nota2": 5.2,
+    "nota3": 3.6,
+    "nota4": 7.5,
+    "faltas": 19
+  },
+  {
+    "id": 558,
+    "nome": "Lettie",
+    "sobrenome": "Doyle",
+    "nota1": 1.9,
+    "nota2": 2,
+    "nota3": 3.9,
+    "nota4": 4.6,
+    "faltas": 13
+  },
+  {
+    "id": 559,
+    "nome": "Rafael",
+    "sobrenome": "Lumber",
+    "nota1": 4.5,
+    "nota2": 2.8,
+    "nota3": 9.7,
+    "nota4": 3.1,
+    "faltas": 2
+  },
+  {
+    "id": 560,
+    "nome": "Marsha",
+    "sobrenome": "Pooley",
+    "nota1": 4.7,
+    "nota2": 6.7,
+    "nota3": 6,
+    "nota4": 8.1,
+    "faltas": 16
+  },
+  {
+    "id": 561,
+    "nome": "Carolus",
+    "sobrenome": "Mitchenson",
+    "nota1": 2.5,
+    "nota2": 1.8,
+    "nota3": 7.6,
+    "nota4": 6.6,
+    "faltas": 1
+  },
+  {
+    "id": 562,
+    "nome": "Brittne",
+    "sobrenome": "Brager",
+    "nota1": 1.9,
+    "nota2": 3.1,
+    "nota3": 2.1,
+    "nota4": 9.8,
+    "faltas": 8
+  },
+  {
+    "id": 563,
+    "nome": "Janie",
+    "sobrenome": "Dearl",
+    "nota1": 9.1,
+    "nota2": 4.2,
+    "nota3": null,
+    "nota4": 1.9,
+    "faltas": 18
+  },
+  {
+    "id": 564,
+    "nome": "Wiley",
+    "sobrenome": "Aymeric",
+    "nota1": 1.9,
+    "nota2": 9.6,
+    "nota3": null,
+    "nota4": 7.5,
+    "faltas": 14
+  },
+  {
+    "id": 565,
+    "nome": "Ariela",
+    "sobrenome": "Shobrook",
+    "nota1": 2.8,
+    "nota2": 7.4,
+    "nota3": 3.7,
+    "nota4": 4.2,
+    "faltas": 18
+  },
+  {
+    "id": 566,
+    "nome": "Vevay",
+    "sobrenome": "Wolpert",
+    "nota1": 8.3,
+    "nota2": 3.5,
+    "nota3": 1.6,
+    "nota4": 7,
+    "faltas": 9
+  },
+  {
+    "id": 567,
+    "nome": "Aloysia",
+    "sobrenome": "Kaye",
+    "nota1": 9.9,
+    "nota2": 4.5,
+    "nota3": 9.1,
+    "nota4": 4.5,
+    "faltas": 2
+  },
+  {
+    "id": 568,
+    "nome": "Celinka",
+    "sobrenome": "Motton",
+    "nota1": 1.6,
+    "nota2": 6.2,
+    "nota3": 8.1,
+    "nota4": 6.6,
+    "faltas": 6
+  },
+  {
+    "id": 569,
+    "nome": "Adriaens",
+    "sobrenome": "Haugen",
+    "nota1": 3.1,
+    "nota2": 8.7,
+    "nota3": 9,
+    "nota4": 6.9,
+    "faltas": 7
+  },
+  {
+    "id": 570,
+    "nome": "Samson",
+    "sobrenome": "Heathcote",
+    "nota1": 4.8,
+    "nota2": 7.6,
+    "nota3": null,
+    "nota4": 9.6,
+    "faltas": 0
+  },
+  {
+    "id": 571,
+    "nome": "Lacie",
+    "sobrenome": "Humburton",
+    "nota1": 1.5,
+    "nota2": 9.3,
+    "nota3": 7.7,
+    "nota4": 3.5,
+    "faltas": 0
+  },
+  {
+    "id": 572,
+    "nome": "Calley",
+    "sobrenome": "Penberthy",
+    "nota1": 7.8,
+    "nota2": null,
+    "nota3": 2.4,
+    "nota4": 6.4,
+    "faltas": 11
+  },
+  {
+    "id": 573,
+    "nome": "Harriet",
+    "sobrenome": "Maslen",
+    "nota1": 8.8,
+    "nota2": 10,
+    "nota3": 9.4,
+    "nota4": 2.2,
+    "faltas": 11
+  },
+  {
+    "id": 574,
+    "nome": "Sasha",
+    "sobrenome": "Giacometti",
+    "nota1": 2.6,
+    "nota2": 2.6,
+    "nota3": 8.5,
+    "nota4": 5.6,
+    "faltas": 19
+  },
+  {
+    "id": 575,
+    "nome": "Avrom",
+    "sobrenome": "Borrie",
+    "nota1": 3.3,
+    "nota2": 5.9,
+    "nota3": 8.3,
+    "nota4": 6.4,
+    "faltas": 12
+  },
+  {
+    "id": 576,
+    "nome": "Elva",
+    "sobrenome": "Beckerleg",
+    "nota1": 7.4,
+    "nota2": 9,
+    "nota3": 4.2,
+    "nota4": 5.3,
+    "faltas": 7
+  },
+  {
+    "id": 577,
+    "nome": "Aleksandr",
+    "sobrenome": "Heeney",
+    "nota1": 2.9,
+    "nota2": 6,
+    "nota3": 2.7,
+    "nota4": 7.1,
+    "faltas": 3
+  },
+  {
+    "id": 578,
+    "nome": "Barney",
+    "sobrenome": "Ascroft",
+    "nota1": 9.8,
+    "nota2": 3.6,
+    "nota3": 2.9,
+    "nota4": 5.7,
+    "faltas": 14
+  },
+  {
+    "id": 579,
+    "nome": "Lottie",
+    "sobrenome": "Bain",
+    "nota1": 2.9,
+    "nota2": 1.7,
+    "nota3": 9.2,
+    "nota4": 4.1,
+    "faltas": 17
+  },
+  {
+    "id": 580,
+    "nome": "Anitra",
+    "sobrenome": "Farlamb",
+    "nota1": 7.1,
+    "nota2": 1.9,
+    "nota3": 7.4,
+    "nota4": 8.5,
+    "faltas": 16
+  },
+  {
+    "id": 581,
+    "nome": "Shanon",
+    "sobrenome": "Bouzan",
+    "nota1": 6.3,
+    "nota2": 5.6,
+    "nota3": 5.7,
+    "nota4": 2.6,
+    "faltas": 20
+  },
+  {
+    "id": 582,
+    "nome": "Winnifred",
+    "sobrenome": "Fawcett",
+    "nota1": 8.5,
+    "nota2": 3.5,
+    "nota3": 8,
+    "nota4": 3.8,
+    "faltas": 13
+  },
+  {
+    "id": 583,
+    "nome": "Dulce",
+    "sobrenome": "Croot",
+    "nota1": 1.5,
+    "nota2": 7.5,
+    "nota3": 8,
+    "nota4": 8.5,
+    "faltas": 9
+  },
+  {
+    "id": 584,
+    "nome": "Dill",
+    "sobrenome": "Tackle",
+    "nota1": 1.8,
+    "nota2": null,
+    "nota3": 3.9,
+    "nota4": 3.4,
+    "faltas": 0
+  },
+  {
+    "id": 585,
+    "nome": "Kassey",
+    "sobrenome": "Blayd",
+    "nota1": 4.5,
+    "nota2": 6.7,
+    "nota3": 6.9,
+    "nota4": 9.9,
+    "faltas": 10
+  },
+  {
+    "id": 586,
+    "nome": "Esdras",
+    "sobrenome": "Salmen",
+    "nota1": 2.7,
+    "nota2": 6.6,
+    "nota3": 4.2,
+    "nota4": 4.6,
+    "faltas": 6
+  },
+  {
+    "id": 587,
+    "nome": "Kerk",
+    "sobrenome": "MacDuffie",
+    "nota1": 6.7,
+    "nota2": 3.1,
+    "nota3": 4.4,
+    "nota4": 3.4,
+    "faltas": 11
+  },
+  {
+    "id": 588,
+    "nome": "Lorna",
+    "sobrenome": "Aymeric",
+    "nota1": 1.7,
+    "nota2": 7.7,
+    "nota3": 1.6,
+    "nota4": 9.5,
+    "faltas": 4
+  },
+  {
+    "id": 589,
+    "nome": "Joanie",
+    "sobrenome": "Mouget",
+    "nota1": 9,
+    "nota2": null,
+    "nota3": 7.2,
+    "nota4": 7.1,
+    "faltas": 0
+  },
+  {
+    "id": 590,
+    "nome": "Jarad",
+    "sobrenome": "Clint",
+    "nota1": 9.4,
+    "nota2": 3.2,
+    "nota3": null,
+    "nota4": 1.9,
+    "faltas": 8
+  },
+  {
+    "id": 591,
+    "nome": "Orran",
+    "sobrenome": "Grestye",
+    "nota1": 4.4,
+    "nota2": 9.5,
+    "nota3": 7.8,
+    "nota4": 1.4,
+    "faltas": 5
+  },
+  {
+    "id": 592,
+    "nome": "Ola",
+    "sobrenome": "Streeten",
+    "nota1": 6.7,
+    "nota2": 2.6,
+    "nota3": null,
+    "nota4": 5,
+    "faltas": 20
+  },
+  {
+    "id": 593,
+    "nome": "Peggi",
+    "sobrenome": "Rutland",
+    "nota1": 8.4,
+    "nota2": 5,
+    "nota3": 6,
+    "nota4": 9.6,
+    "faltas": 16
+  },
+  {
+    "id": 594,
+    "nome": "Robers",
+    "sobrenome": "Bassam",
+    "nota1": 3.3,
+    "nota2": 2,
+    "nota3": 7.3,
+    "nota4": 9,
+    "faltas": 8
+  },
+  {
+    "id": 595,
+    "nome": "Simon",
+    "sobrenome": "Gauche",
+    "nota1": 1.4,
+    "nota2": null,
+    "nota3": 5.1,
+    "nota4": 5.1,
+    "faltas": 0
+  },
+  {
+    "id": 596,
+    "nome": "Harrison",
+    "sobrenome": "Simcoe",
+    "nota1": 8,
+    "nota2": 1.3,
+    "nota3": 1.5,
+    "nota4": 1.3,
+    "faltas": 5
+  },
+  {
+    "id": 597,
+    "nome": "Inger",
+    "sobrenome": "Kaasmann",
+    "nota1": 2.2,
+    "nota2": 7.5,
+    "nota3": 5.5,
+    "nota4": 7.8,
+    "faltas": 3
+  },
+  {
+    "id": 598,
+    "nome": "Corrie",
+    "sobrenome": "Fantonetti",
+    "nota1": 7.4,
+    "nota2": 3.3,
+    "nota3": 6.5,
+    "nota4": 3.5,
+    "faltas": 2
+  },
+  {
+    "id": 599,
+    "nome": "Weber",
+    "sobrenome": "Ginglell",
+    "nota1": 4.5,
+    "nota2": 6.6,
+    "nota3": 4.6,
+    "nota4": 7.3,
+    "faltas": 11
+  },
+  {
+    "id": 600,
+    "nome": "Rhett",
+    "sobrenome": "Appleyard",
+    "nota1": 6.5,
+    "nota2": 10,
+    "nota3": 7.2,
+    "nota4": 7.9,
+    "faltas": 2
+  },
+
+  {
+    "id": 700,
+    "nome": "Ina",
+    "sobrenome": "Derle",
+    "nota1": 2.1,
+    "nota2": 1.6,
+    "nota3": 4.3,
+    "nota4": 7.8,
+    "faltas": 20
+  },
+  {
+    "id": 701,
+    "nome": "Gabrila",
+    "sobrenome": "MacAlaster",
+    "nota1": 2.6,
+    "nota2": 1.5,
+    "nota3": 5,
+    "nota4": 4.6,
+    "faltas": 8
+  },
+  {
+    "id": 702,
+    "nome": "Nikkie",
+    "sobrenome": "Pues",
+    "nota1": 4,
+    "nota2": 2.8,
+    "nota3": 4.6,
+    "nota4": 1.6,
+    "faltas": 4
+  },
+  {
+    "id": 703,
+    "nome": "Blake",
+    "sobrenome": "Spurriar",
+    "nota1": 7.3,
+    "nota2": 9.1,
+    "nota3": 5.3,
+    "nota4": 9.4,
+    "faltas": 17
+  },
+  {
+    "id": 704,
+    "nome": "Adrian",
+    "sobrenome": "McShee",
+    "nota1": 3.7,
+    "nota2": 1,
+    "nota3": 8,
+    "nota4": 9.4,
+    "faltas": 12
+  },
+  {
+    "id": 705,
+    "nome": "Ezmeralda",
+    "sobrenome": "MacCartan",
+    "nota1": 8.4,
+    "nota2": 7.5,
+    "nota3": 4.1,
+    "nota4": 3.9,
+    "faltas": 1
+  },
+  {
+    "id": 706,
+    "nome": "Bebe",
+    "sobrenome": "Pimlock",
+    "nota1": 4.1,
+    "nota2": 8,
+    "nota3": 7,
+    "nota4": null,
+    "faltas": 17
+  },
+  {
+    "id": 707,
+    "nome": "Deck",
+    "sobrenome": "Hatterslay",
+    "nota1": 9.2,
+    "nota2": 9,
+    "nota3": 3.8,
+    "nota4": 4,
+    "faltas": 10
+  },
+  {
+    "id": 708,
+    "nome": "Gordon",
+    "sobrenome": "Drinnan",
+    "nota1": 8.9,
+    "nota2": 1.8,
+    "nota3": 7.9,
+    "nota4": 2.8,
+    "faltas": 15
+  },
+  {
+    "id": 709,
+    "nome": "Newton",
+    "sobrenome": "Stening",
+    "nota1": 8.5,
+    "nota2": 3.2,
+    "nota3": 9.2,
+    "nota4": 6.8,
+    "faltas": 6
+  },
+  {
+    "id": 710,
+    "nome": "Maribeth",
+    "sobrenome": "Fairholme",
+    "nota1": 5.6,
+    "nota2": 7.6,
+    "nota3": 2.4,
+    "nota4": 9,
+    "faltas": 20
+  },
+  {
+    "id": 711,
+    "nome": "Melesa",
+    "sobrenome": "Gremain",
+    "nota1": 8.2,
+    "nota2": 3,
+    "nota3": 9.5,
+    "nota4": 2.5,
+    "faltas": 17
+  },
+  {
+    "id": 712,
+    "nome": "Jessamyn",
+    "sobrenome": "Leebetter",
+    "nota1": 9.6,
+    "nota2": 5.7,
+    "nota3": 1.3,
+    "nota4": 9.3,
+    "faltas": 8
+  },
+  {
+    "id": 713,
+    "nome": "Martina",
+    "sobrenome": "Bransden",
+    "nota1": 8.1,
+    "nota2": 1,
+    "nota3": 4.9,
+    "nota4": 7.6,
+    "faltas": 2
+  },
+  {
+    "id": 714,
+    "nome": "Wally",
+    "sobrenome": "Frichley",
+    "nota1": 6.7,
+    "nota2": 6.9,
+    "nota3": 2.7,
+    "nota4": 9.3,
+    "faltas": 15
+  },
+  {
+    "id": 715,
+    "nome": "Lizabeth",
+    "sobrenome": "Fetteplace",
+    "nota1": 6.3,
+    "nota2": 7.1,
+    "nota3": 7.1,
+    "nota4": 2.9,
+    "faltas": 17
+  },
+  {
+    "id": 716,
+    "nome": "Caralie",
+    "sobrenome": "Sailor",
+    "nota1": 4.2,
+    "nota2": 2.9,
+    "nota3": 1.2,
+    "nota4": 1.8,
+    "faltas": 1
+  },
+  {
+    "id": 717,
+    "nome": "Aubrey",
+    "sobrenome": "Richardeau",
+    "nota1": 3,
+    "nota2": 9.3,
+    "nota3": 7.6,
+    "nota4": 4.1,
+    "faltas": 3
+  },
+  {
+    "id": 718,
+    "nome": "Bryce",
+    "sobrenome": "Escott",
+    "nota1": 3.1,
+    "nota2": 1.8,
+    "nota3": 8.3,
+    "nota4": 4.2,
+    "faltas": 4
+  },
+  {
+    "id": 719,
+    "nome": "Diego",
+    "sobrenome": "Skym",
+    "nota1": 1.6,
+    "nota2": 8.5,
+    "nota3": 6.4,
+    "nota4": 4.5,
+    "faltas": 8
+  },
+  {
+    "id": 720,
+    "nome": "Cordi",
+    "sobrenome": "Fateley",
+    "nota1": 6.3,
+    "nota2": 1.3,
+    "nota3": 6.1,
+    "nota4": 2.6,
+    "faltas": 4
+  },
+  {
+    "id": 721,
+    "nome": "Allyson",
+    "sobrenome": "Peele",
+    "nota1": 6.2,
+    "nota2": 6.2,
+    "nota3": 3.6,
+    "nota4": 7.9,
+    "faltas": 13
+  },
+  {
+    "id": 722,
+    "nome": "Antoni",
+    "sobrenome": "Matteoli",
+    "nota1": 8.2,
+    "nota2": 8.5,
+    "nota3": 2.5,
+    "nota4": 1.2,
+    "faltas": 12
+  },
+  {
+    "id": 723,
+    "nome": "Humbert",
+    "sobrenome": "Burgill",
+    "nota1": 5.4,
+    "nota2": 9.9,
+    "nota3": 8.4,
+    "nota4": 2.1,
+    "faltas": 10
+  },
+  {
+    "id": 724,
+    "nome": "Prudence",
+    "sobrenome": "Phetteplace",
+    "nota1": 7.8,
+    "nota2": 1,
+    "nota3": 6.3,
+    "nota4": 7.9,
+    "faltas": 10
+  },
+  {
+    "id": 725,
+    "nome": "Layla",
+    "sobrenome": "Curthoys",
+    "nota1": 2.3,
+    "nota2": 9,
+    "nota3": 1.4,
+    "nota4": 4,
+    "faltas": 14
+  },
+  {
+    "id": 726,
+    "nome": "Lowrance",
+    "sobrenome": "Waples",
+    "nota1": 4.9,
+    "nota2": 3.6,
+    "nota3": 3.4,
+    "nota4": 2.9,
+    "faltas": 5
+  },
+  {
+    "id": 727,
+    "nome": "Lona",
+    "sobrenome": "Matanin",
+    "nota1": 3.4,
+    "nota2": 8.7,
+    "nota3": null,
+    "nota4": 3.4,
+    "faltas": 9
+  },
+  {
+    "id": 728,
+    "nome": "Maurie",
+    "sobrenome": "Roger",
+    "nota1": 4,
+    "nota2": 6.8,
+    "nota3": 5.9,
+    "nota4": null,
+    "faltas": 16
+  },
+  {
+    "id": 729,
+    "nome": "Sianna",
+    "sobrenome": "Winning",
+    "nota1": 1.3,
+    "nota2": 4.9,
+    "nota3": 6.2,
+    "nota4": 2.6,
+    "faltas": 19
+  },
+  {
+    "id": 730,
+    "nome": "Petronille",
+    "sobrenome": "Rodder",
+    "nota1": 2.2,
+    "nota2": 5.8,
+    "nota3": 3.1,
+    "nota4": 6.1,
+    "faltas": 7
+  },
+  {
+    "id": 731,
+    "nome": "Caro",
+    "sobrenome": "Farnan",
+    "nota1": 9.2,
+    "nota2": 7.3,
+    "nota3": 2.1,
+    "nota4": 9.6,
+    "faltas": 3
+  },
+  {
+    "id": 732,
+    "nome": "Drona",
+    "sobrenome": "Copeland",
+    "nota1": 9.9,
+    "nota2": 9,
+    "nota3": 9.1,
+    "nota4": 2.8,
+    "faltas": 19
+  },
+  {
+    "id": 733,
+    "nome": "Hurlee",
+    "sobrenome": "Bazoche",
+    "nota1": 5.2,
+    "nota2": 3.9,
+    "nota3": 1.5,
+    "nota4": 7,
+    "faltas": 15
+  },
+  {
+    "id": 734,
+    "nome": "Verene",
+    "sobrenome": "Dutnell",
+    "nota1": 5.7,
+    "nota2": 5.7,
+    "nota3": 5.4,
+    "nota4": 7.7,
+    "faltas": 5
+  },
+  {
+    "id": 735,
+    "nome": "Isa",
+    "sobrenome": "Leyburn",
+    "nota1": 8.6,
+    "nota2": 9.1,
+    "nota3": 3.9,
+    "nota4": 8,
+    "faltas": 16
+  },
+  {
+    "id": 736,
+    "nome": "Adelice",
+    "sobrenome": "Eddisforth",
+    "nota1": 3.1,
+    "nota2": 4.5,
+    "nota3": 7.1,
+    "nota4": 3,
+    "faltas": 1
+  },
+  {
+    "id": 737,
+    "nome": "Jabez",
+    "sobrenome": "Probets",
+    "nota1": 8.9,
+    "nota2": 5.8,
+    "nota3": 5,
+    "nota4": 2.9,
+    "faltas": 13
+  },
+  {
+    "id": 738,
+    "nome": "Glennie",
+    "sobrenome": "Concannon",
+    "nota1": 1.2,
+    "nota2": 4.9,
+    "nota3": 2.9,
+    "nota4": 6.1,
+    "faltas": 12
+  },
+  {
+    "id": 739,
+    "nome": "Jessee",
+    "sobrenome": "Dinwoodie",
+    "nota1": 2.8,
+    "nota2": 8.7,
+    "nota3": 9.9,
+    "nota4": 9.1,
+    "faltas": 12
+  },
+  {
+    "id": 740,
+    "nome": "Billi",
+    "sobrenome": "Cicerone",
+    "nota1": 2,
+    "nota2": 3.5,
+    "nota3": 6.5,
+    "nota4": 8.4,
+    "faltas": 0
+  },
+  {
+    "id": 741,
+    "nome": "Bliss",
+    "sobrenome": "Le Friec",
+    "nota1": 4.5,
+    "nota2": 1.4,
+    "nota3": 8.6,
+    "nota4": 5.5,
+    "faltas": 19
+  },
+  {
+    "id": 742,
+    "nome": "Genovera",
+    "sobrenome": "Ingarfield",
+    "nota1": 7.8,
+    "nota2": 2,
+    "nota3": 3.1,
+    "nota4": 8.1,
+    "faltas": 6
+  },
+  {
+    "id": 743,
+    "nome": "Kimmie",
+    "sobrenome": "Walklot",
+    "nota1": 3.5,
+    "nota2": 3,
+    "nota3": 5,
+    "nota4": 3.4,
+    "faltas": 2
+  },
+  {
+    "id": 744,
+    "nome": "Brande",
+    "sobrenome": "Blissitt",
+    "nota1": 5.6,
+    "nota2": 9.1,
+    "nota3": 2.1,
+    "nota4": 3.4,
+    "faltas": 20
+  },
+  {
+    "id": 745,
+    "nome": "Barth",
+    "sobrenome": "Cattlow",
+    "nota1": 7.3,
+    "nota2": 3.5,
+    "nota3": 2.6,
+    "nota4": 5,
+    "faltas": 6
+  },
+  {
+    "id": 746,
+    "nome": "Lillis",
+    "sobrenome": "Fildery",
+    "nota1": 1.7,
+    "nota2": 1.3,
+    "nota3": 3.6,
+    "nota4": 8.9,
+    "faltas": 20
+  },
+  {
+    "id": 747,
+    "nome": "Eugenius",
+    "sobrenome": "Croft",
+    "nota1": 5.3,
+    "nota2": 6.9,
+    "nota3": 5.3,
+    "nota4": 7.5,
+    "faltas": 10
+  },
+  {
+    "id": 748,
+    "nome": "Langsdon",
+    "sobrenome": "Airdrie",
+    "nota1": 1,
+    "nota2": 3.3,
+    "nota3": 5.2,
+    "nota4": 7.6,
+    "faltas": 1
+  },
+  {
+    "id": 749,
+    "nome": "Sammy",
+    "sobrenome": "Gorgen",
+    "nota1": 9.1,
+    "nota2": 9.5,
+    "nota3": 2.8,
+    "nota4": 8.4,
+    "faltas": 0
+  },
+  {
+    "id": 750,
+    "nome": "Vinny",
+    "sobrenome": "Ebbles",
+    "nota1": 5.4,
+    "nota2": 9.2,
+    "nota3": 2.1,
+    "nota4": 7.3,
+    "faltas": 18
+  },
+  {
+    "id": 751,
+    "nome": "Quentin",
+    "sobrenome": "Schiementz",
+    "nota1": 6.2,
+    "nota2": 1.8,
+    "nota3": 7.8,
+    "nota4": 9.2,
+    "faltas": 14
+  },
+  {
+    "id": 752,
+    "nome": "Helga",
+    "sobrenome": "April",
+    "nota1": 5.9,
+    "nota2": 5.3,
+    "nota3": 5.2,
+    "nota4": 7.1,
+    "faltas": 18
+  },
+  {
+    "id": 753,
+    "nome": "Rutherford",
+    "sobrenome": "Parmiter",
+    "nota1": 6.2,
+    "nota2": null,
+    "nota3": 2.7,
+    "nota4": 4.4,
+    "faltas": 12
+  },
+  {
+    "id": 754,
+    "nome": "Darrelle",
+    "sobrenome": "Firebrace",
+    "nota1": 2.9,
+    "nota2": 3.1,
+    "nota3": 5.1,
+    "nota4": 7.3,
+    "faltas": 20
+  },
+  {
+    "id": 755,
+    "nome": "Glennie",
+    "sobrenome": "Rebbeck",
+    "nota1": 9.7,
+    "nota2": 2.6,
+    "nota3": 6,
+    "nota4": 6.2,
+    "faltas": 4
+  },
+  {
+    "id": 756,
+    "nome": "Ealasaid",
+    "sobrenome": "Prest",
+    "nota1": 8.5,
+    "nota2": 3.5,
+    "nota3": 3,
+    "nota4": 1.6,
+    "faltas": 9
+  },
+  {
+    "id": 757,
+    "nome": "Paule",
+    "sobrenome": "Topling",
+    "nota1": 7.7,
+    "nota2": 1.2,
+    "nota3": 2.8,
+    "nota4": 8.6,
+    "faltas": 7
+  },
+  {
+    "id": 758,
+    "nome": "Helen-elizabeth",
+    "sobrenome": "Davydychev",
+    "nota1": 9.9,
+    "nota2": 1.5,
+    "nota3": 8.7,
+    "nota4": 8.1,
+    "faltas": 4
+  },
+  {
+    "id": 759,
+    "nome": "Regan",
+    "sobrenome": "Gateland",
+    "nota1": 2,
+    "nota2": 5.7,
+    "nota3": 9.7,
+    "nota4": 2,
+    "faltas": 2
+  },
+  {
+    "id": 760,
+    "nome": "Jaquelin",
+    "sobrenome": "Fawdry",
+    "nota1": 6.7,
+    "nota2": 5.9,
+    "nota3": 6.4,
+    "nota4": null,
+    "faltas": 16
+  },
+  {
+    "id": 761,
+    "nome": "Prentiss",
+    "sobrenome": "Pendlenton",
+    "nota1": 9.6,
+    "nota2": 6.7,
+    "nota3": 8.9,
+    "nota4": 9,
+    "faltas": 4
+  },
+  {
+    "id": 762,
+    "nome": "Darryl",
+    "sobrenome": "Thunders",
+    "nota1": 5.3,
+    "nota2": 1.2,
+    "nota3": 1.8,
+    "nota4": 3.8,
+    "faltas": 12
+  },
+  {
+    "id": 763,
+    "nome": "Lazare",
+    "sobrenome": "Brecher",
+    "nota1": 5.5,
+    "nota2": 7.2,
+    "nota3": 5.5,
+    "nota4": null,
+    "faltas": 5
+  },
+  {
+    "id": 764,
+    "nome": "Larissa",
+    "sobrenome": "Boumphrey",
+    "nota1": 9.3,
+    "nota2": 5.7,
+    "nota3": 1.2,
+    "nota4": 9.3,
+    "faltas": 16
+  },
+  {
+    "id": 765,
+    "nome": "Curran",
+    "sobrenome": "Mc Andrew",
+    "nota1": 1.3,
+    "nota2": 8.8,
+    "nota3": 1.4,
+    "nota4": 3.6,
+    "faltas": 7
+  },
+  {
+    "id": 766,
+    "nome": "Zebulon",
+    "sobrenome": "Grayson",
+    "nota1": 8.1,
+    "nota2": 7.2,
+    "nota3": 2.7,
+    "nota4": 9.9,
+    "faltas": 1
+  },
+  {
+    "id": 767,
+    "nome": "Jody",
+    "sobrenome": "Tottman",
+    "nota1": 7.9,
+    "nota2": 3.8,
+    "nota3": 9.9,
+    "nota4": 4.8,
+    "faltas": 0
+  },
+  {
+    "id": 768,
+    "nome": "Nikolos",
+    "sobrenome": "Maben",
+    "nota1": 2.6,
+    "nota2": 5.7,
+    "nota3": 2,
+    "nota4": 2.1,
+    "faltas": 14
+  },
+  {
+    "id": 769,
+    "nome": "Arch",
+    "sobrenome": "Trenoweth",
+    "nota1": 4.4,
+    "nota2": 5.5,
+    "nota3": 8.4,
+    "nota4": 4.4,
+    "faltas": 4
+  },
+  {
+    "id": 770,
+    "nome": "Lucienne",
+    "sobrenome": "Pring",
+    "nota1": 3,
+    "nota2": 3.1,
+    "nota3": 9.5,
+    "nota4": 1.6,
+    "faltas": 14
+  },
+  {
+    "id": 771,
+    "nome": "Layne",
+    "sobrenome": "Gannaway",
+    "nota1": 8.3,
+    "nota2": 6.9,
+    "nota3": 2.4,
+    "nota4": 5.4,
+    "faltas": 6
+  },
+  {
+    "id": 772,
+    "nome": "Trumann",
+    "sobrenome": "Pepper",
+    "nota1": 8.3,
+    "nota2": 5.1,
+    "nota3": 6.5,
+    "nota4": 7.9,
+    "faltas": 4
+  },
+  {
+    "id": 773,
+    "nome": "Anneliese",
+    "sobrenome": "Bark",
+    "nota1": 1.2,
+    "nota2": 3,
+    "nota3": 3.1,
+    "nota4": 7.2,
+    "faltas": 4
+  },
+  {
+    "id": 774,
+    "nome": "Philippa",
+    "sobrenome": "Regi",
+    "nota1": 6.8,
+    "nota2": 6.8,
+    "nota3": 3.4,
+    "nota4": 4.5,
+    "faltas": 20
+  },
+  {
+    "id": 775,
+    "nome": "Ashia",
+    "sobrenome": "Haug",
+    "nota1": 4.3,
+    "nota2": 2.3,
+    "nota3": 8.8,
+    "nota4": 3.1,
+    "faltas": 20
+  },
+  {
+    "id": 776,
+    "nome": "Benjamen",
+    "sobrenome": "Romaine",
+    "nota1": 5.7,
+    "nota2": 5.7,
+    "nota3": 7.6,
+    "nota4": 4,
+    "faltas": 6
+  },
+  {
+    "id": 777,
+    "nome": "Carole",
+    "sobrenome": "Genn",
+    "nota1": 8.4,
+    "nota2": 3.8,
+    "nota3": 2.3,
+    "nota4": 6.4,
+    "faltas": 19
+  },
+  {
+    "id": 778,
+    "nome": "Dorthea",
+    "sobrenome": "Gianneschi",
+    "nota1": 5.1,
+    "nota2": 3,
+    "nota3": 8,
+    "nota4": 8.8,
+    "faltas": 19
+  },
+  {
+    "id": 779,
+    "nome": "Wilmer",
+    "sobrenome": "Kolak",
+    "nota1": 9.8,
+    "nota2": 2.6,
+    "nota3": 3.4,
+    "nota4": 6.4,
+    "faltas": 14
+  },
+  {
+    "id": 780,
+    "nome": "Konstantin",
+    "sobrenome": "Foyster",
+    "nota1": 1,
+    "nota2": 2.9,
+    "nota3": 5.4,
+    "nota4": 2.8,
+    "faltas": 20
+  },
+  {
+    "id": 781,
+    "nome": "Marian",
+    "sobrenome": "Biner",
+    "nota1": 2.5,
+    "nota2": 7.5,
+    "nota3": 4.1,
+    "nota4": 5.9,
+    "faltas": 12
+  },
+  {
+    "id": 782,
+    "nome": "Frederico",
+    "sobrenome": "Lafaye",
+    "nota1": 2.7,
+    "nota2": 5.6,
+    "nota3": 2.1,
+    "nota4": 4.8,
+    "faltas": 8
+  },
+  {
+    "id": 783,
+    "nome": "Caritta",
+    "sobrenome": "Fellman",
+    "nota1": 4.7,
+    "nota2": 3.4,
+    "nota3": 2.2,
+    "nota4": 2,
+    "faltas": 12
+  },
+  {
+    "id": 784,
+    "nome": "Roscoe",
+    "sobrenome": "Lightwing",
+    "nota1": 4.2,
+    "nota2": 6,
+    "nota3": 7.1,
+    "nota4": 8.5,
+    "faltas": 2
+  },
+  {
+    "id": 785,
+    "nome": "Idaline",
+    "sobrenome": "Baudi",
+    "nota1": 4.4,
+    "nota2": 1.4,
+    "nota3": 2.4,
+    "nota4": 5.4,
+    "faltas": 4
+  },
+  {
+    "id": 786,
+    "nome": "Barrett",
+    "sobrenome": "Birrane",
+    "nota1": 1.4,
+    "nota2": 4.8,
+    "nota3": 7.7,
+    "nota4": 2.3,
+    "faltas": 10
+  },
+  {
+    "id": 787,
+    "nome": "Rosanna",
+    "sobrenome": "Benasik",
+    "nota1": 6.6,
+    "nota2": 8.9,
+    "nota3": 2.5,
+    "nota4": 3.7,
+    "faltas": 20
+  },
+  {
+    "id": 788,
+    "nome": "Audy",
+    "sobrenome": "Fluck",
+    "nota1": 9.3,
+    "nota2": 7.5,
+    "nota3": 9,
+    "nota4": 3.6,
+    "faltas": 14
+  },
+  {
+    "id": 789,
+    "nome": "Joelie",
+    "sobrenome": "Gee",
+    "nota1": 6.6,
+    "nota2": 1.5,
+    "nota3": 9.1,
+    "nota4": 7.4,
+    "faltas": 9
+  },
+  {
+    "id": 790,
+    "nome": "Kassie",
+    "sobrenome": "McEnhill",
+    "nota1": 2.4,
+    "nota2": 2.5,
+    "nota3": 4.4,
+    "nota4": 3.7,
+    "faltas": 13
+  },
+  {
+    "id": 791,
+    "nome": "Dyana",
+    "sobrenome": "Mathison",
+    "nota1": 7.8,
+    "nota2": 5.8,
+    "nota3": 3.9,
+    "nota4": 7.5,
+    "faltas": 4
+  },
+  {
+    "id": 792,
+    "nome": "Farrell",
+    "sobrenome": "Dalmon",
+    "nota1": 8.3,
+    "nota2": 1.2,
+    "nota3": null,
+    "nota4": 3.7,
+    "faltas": 0
+  },
+  {
+    "id": 793,
+    "nome": "Justen",
+    "sobrenome": "Ricketts",
+    "nota1": 9.4,
+    "nota2": 3,
+    "nota3": 2.2,
+    "nota4": 6.4,
+    "faltas": 11
+  },
+  {
+    "id": 794,
+    "nome": "Pinchas",
+    "sobrenome": "Kulis",
+    "nota1": 6.6,
+    "nota2": 2.8,
+    "nota3": 2.5,
+    "nota4": 5.9,
+    "faltas": 13
+  },
+  {
+    "id": 795,
+    "nome": "Glyn",
+    "sobrenome": "Scraggs",
+    "nota1": 7.8,
+    "nota2": 8,
+    "nota3": 7.4,
+    "nota4": 6.9,
+    "faltas": 5
+  },
+  {
+    "id": 796,
+    "nome": "Emmet",
+    "sobrenome": "Peegrem",
+    "nota1": 5.7,
+    "nota2": 9.3,
+    "nota3": 5.6,
+    "nota4": 8.8,
+    "faltas": 4
+  },
+  {
+    "id": 797,
+    "nome": "Annis",
+    "sobrenome": "Dincke",
+    "nota1": 3.4,
+    "nota2": 2.1,
+    "nota3": 9,
+    "nota4": 9.6,
+    "faltas": 16
+  },
+  {
+    "id": 798,
+    "nome": "Ardath",
+    "sobrenome": "Bossons",
+    "nota1": 7.3,
+    "nota2": 5.3,
+    "nota3": 8.3,
+    "nota4": 9.2,
+    "faltas": 1
+  },
+  {
+    "id": 799,
+    "nome": "Lucille",
+    "sobrenome": "Moorman",
+    "nota1": 10,
+    "nota2": 7,
+    "nota3": 3.9,
+    "nota4": 8.8,
+    "faltas": 18
+  },
+  {
+    "id": 800,
+    "nome": "Alecia",
+    "sobrenome": "Goody",
+    "nota1": 1.4,
+    "nota2": 3.8,
+    "nota3": 8.1,
+    "nota4": 4.9,
+    "faltas": 18
+  },
+
+  {
+    "id": 700,
+    "nome": "Ina",
+    "sobrenome": "Derle",
+    "nota1": 2.1,
+    "nota2": 1.6,
+    "nota3": 4.3,
+    "nota4": 7.8,
+    "faltas": 20
+  },
+  {
+    "id": 701,
+    "nome": "Gabrila",
+    "sobrenome": "MacAlaster",
+    "nota1": 2.6,
+    "nota2": 1.5,
+    "nota3": 5,
+    "nota4": 4.6,
+    "faltas": 8
+  },
+  {
+    "id": 702,
+    "nome": "Nikkie",
+    "sobrenome": "Pues",
+    "nota1": 4,
+    "nota2": 2.8,
+    "nota3": 4.6,
+    "nota4": 1.6,
+    "faltas": 4
+  },
+  {
+    "id": 703,
+    "nome": "Blake",
+    "sobrenome": "Spurriar",
+    "nota1": 7.3,
+    "nota2": 9.1,
+    "nota3": 5.3,
+    "nota4": 9.4,
+    "faltas": 17
+  },
+  {
+    "id": 704,
+    "nome": "Adrian",
+    "sobrenome": "McShee",
+    "nota1": 3.7,
+    "nota2": 1,
+    "nota3": 8,
+    "nota4": 9.4,
+    "faltas": 12
+  },
+  {
+    "id": 705,
+    "nome": "Ezmeralda",
+    "sobrenome": "MacCartan",
+    "nota1": 8.4,
+    "nota2": 7.5,
+    "nota3": 4.1,
+    "nota4": 3.9,
+    "faltas": 1
+  },
+  {
+    "id": 706,
+    "nome": "Bebe",
+    "sobrenome": "Pimlock",
+    "nota1": 4.1,
+    "nota2": 8,
+    "nota3": 7,
+    "nota4": null,
+    "faltas": 17
+  },
+  {
+    "id": 707,
+    "nome": "Deck",
+    "sobrenome": "Hatterslay",
+    "nota1": 9.2,
+    "nota2": 9,
+    "nota3": 3.8,
+    "nota4": 4,
+    "faltas": 10
+  },
+  {
+    "id": 708,
+    "nome": "Gordon",
+    "sobrenome": "Drinnan",
+    "nota1": 8.9,
+    "nota2": 1.8,
+    "nota3": 7.9,
+    "nota4": 2.8,
+    "faltas": 15
+  },
+  {
+    "id": 709,
+    "nome": "Newton",
+    "sobrenome": "Stening",
+    "nota1": 8.5,
+    "nota2": 3.2,
+    "nota3": 9.2,
+    "nota4": 6.8,
+    "faltas": 6
+  },
+  {
+    "id": 710,
+    "nome": "Maribeth",
+    "sobrenome": "Fairholme",
+    "nota1": 5.6,
+    "nota2": 7.6,
+    "nota3": 2.4,
+    "nota4": 9,
+    "faltas": 20
+  },
+  {
+    "id": 711,
+    "nome": "Melesa",
+    "sobrenome": "Gremain",
+    "nota1": 8.2,
+    "nota2": 3,
+    "nota3": 9.5,
+    "nota4": 2.5,
+    "faltas": 17
+  },
+  {
+    "id": 712,
+    "nome": "Jessamyn",
+    "sobrenome": "Leebetter",
+    "nota1": 9.6,
+    "nota2": 5.7,
+    "nota3": 1.3,
+    "nota4": 9.3,
+    "faltas": 8
+  },
+  {
+    "id": 713,
+    "nome": "Martina",
+    "sobrenome": "Bransden",
+    "nota1": 8.1,
+    "nota2": 1,
+    "nota3": 4.9,
+    "nota4": 7.6,
+    "faltas": 2
+  },
+  {
+    "id": 714,
+    "nome": "Wally",
+    "sobrenome": "Frichley",
+    "nota1": 6.7,
+    "nota2": 6.9,
+    "nota3": 2.7,
+    "nota4": 9.3,
+    "faltas": 15
+  },
+  {
+    "id": 715,
+    "nome": "Lizabeth",
+    "sobrenome": "Fetteplace",
+    "nota1": 6.3,
+    "nota2": 7.1,
+    "nota3": 7.1,
+    "nota4": 2.9,
+    "faltas": 17
+  },
+  {
+    "id": 716,
+    "nome": "Caralie",
+    "sobrenome": "Sailor",
+    "nota1": 4.2,
+    "nota2": 2.9,
+    "nota3": 1.2,
+    "nota4": 1.8,
+    "faltas": 1
+  },
+  {
+    "id": 717,
+    "nome": "Aubrey",
+    "sobrenome": "Richardeau",
+    "nota1": 3,
+    "nota2": 9.3,
+    "nota3": 7.6,
+    "nota4": 4.1,
+    "faltas": 3
+  },
+  {
+    "id": 718,
+    "nome": "Bryce",
+    "sobrenome": "Escott",
+    "nota1": 3.1,
+    "nota2": 1.8,
+    "nota3": 8.3,
+    "nota4": 4.2,
+    "faltas": 4
+  },
+  {
+    "id": 719,
+    "nome": "Diego",
+    "sobrenome": "Skym",
+    "nota1": 1.6,
+    "nota2": 8.5,
+    "nota3": 6.4,
+    "nota4": 4.5,
+    "faltas": 8
+  },
+  {
+    "id": 720,
+    "nome": "Cordi",
+    "sobrenome": "Fateley",
+    "nota1": 6.3,
+    "nota2": 1.3,
+    "nota3": 6.1,
+    "nota4": 2.6,
+    "faltas": 4
+  },
+  {
+    "id": 721,
+    "nome": "Allyson",
+    "sobrenome": "Peele",
+    "nota1": 6.2,
+    "nota2": 6.2,
+    "nota3": 3.6,
+    "nota4": 7.9,
+    "faltas": 13
+  },
+  {
+    "id": 722,
+    "nome": "Antoni",
+    "sobrenome": "Matteoli",
+    "nota1": 8.2,
+    "nota2": 8.5,
+    "nota3": 2.5,
+    "nota4": 1.2,
+    "faltas": 12
+  },
+  {
+    "id": 723,
+    "nome": "Humbert",
+    "sobrenome": "Burgill",
+    "nota1": 5.4,
+    "nota2": 9.9,
+    "nota3": 8.4,
+    "nota4": 2.1,
+    "faltas": 10
+  },
+  {
+    "id": 724,
+    "nome": "Prudence",
+    "sobrenome": "Phetteplace",
+    "nota1": 7.8,
+    "nota2": 1,
+    "nota3": 6.3,
+    "nota4": 7.9,
+    "faltas": 10
+  },
+  {
+    "id": 725,
+    "nome": "Layla",
+    "sobrenome": "Curthoys",
+    "nota1": 2.3,
+    "nota2": 9,
+    "nota3": 1.4,
+    "nota4": 4,
+    "faltas": 14
+  },
+  {
+    "id": 726,
+    "nome": "Lowrance",
+    "sobrenome": "Waples",
+    "nota1": 4.9,
+    "nota2": 3.6,
+    "nota3": 3.4,
+    "nota4": 2.9,
+    "faltas": 5
+  },
+  {
+    "id": 727,
+    "nome": "Lona",
+    "sobrenome": "Matanin",
+    "nota1": 3.4,
+    "nota2": 8.7,
+    "nota3": null,
+    "nota4": 3.4,
+    "faltas": 9
+  },
+  {
+    "id": 728,
+    "nome": "Maurie",
+    "sobrenome": "Roger",
+    "nota1": 4,
+    "nota2": 6.8,
+    "nota3": 5.9,
+    "nota4": null,
+    "faltas": 16
+  },
+  {
+    "id": 729,
+    "nome": "Sianna",
+    "sobrenome": "Winning",
+    "nota1": 1.3,
+    "nota2": 4.9,
+    "nota3": 6.2,
+    "nota4": 2.6,
+    "faltas": 19
+  },
+  {
+    "id": 730,
+    "nome": "Petronille",
+    "sobrenome": "Rodder",
+    "nota1": 2.2,
+    "nota2": 5.8,
+    "nota3": 3.1,
+    "nota4": 6.1,
+    "faltas": 7
+  },
+  {
+    "id": 731,
+    "nome": "Caro",
+    "sobrenome": "Farnan",
+    "nota1": 9.2,
+    "nota2": 7.3,
+    "nota3": 2.1,
+    "nota4": 9.6,
+    "faltas": 3
+  },
+  {
+    "id": 732,
+    "nome": "Drona",
+    "sobrenome": "Copeland",
+    "nota1": 9.9,
+    "nota2": 9,
+    "nota3": 9.1,
+    "nota4": 2.8,
+    "faltas": 19
+  },
+  {
+    "id": 733,
+    "nome": "Hurlee",
+    "sobrenome": "Bazoche",
+    "nota1": 5.2,
+    "nota2": 3.9,
+    "nota3": 1.5,
+    "nota4": 7,
+    "faltas": 15
+  },
+  {
+    "id": 734,
+    "nome": "Verene",
+    "sobrenome": "Dutnell",
+    "nota1": 5.7,
+    "nota2": 5.7,
+    "nota3": 5.4,
+    "nota4": 7.7,
+    "faltas": 5
+  },
+  {
+    "id": 735,
+    "nome": "Isa",
+    "sobrenome": "Leyburn",
+    "nota1": 8.6,
+    "nota2": 9.1,
+    "nota3": 3.9,
+    "nota4": 8,
+    "faltas": 16
+  },
+  {
+    "id": 736,
+    "nome": "Adelice",
+    "sobrenome": "Eddisforth",
+    "nota1": 3.1,
+    "nota2": 4.5,
+    "nota3": 7.1,
+    "nota4": 3,
+    "faltas": 1
+  },
+  {
+    "id": 737,
+    "nome": "Jabez",
+    "sobrenome": "Probets",
+    "nota1": 8.9,
+    "nota2": 5.8,
+    "nota3": 5,
+    "nota4": 2.9,
+    "faltas": 13
+  },
+  {
+    "id": 738,
+    "nome": "Glennie",
+    "sobrenome": "Concannon",
+    "nota1": 1.2,
+    "nota2": 4.9,
+    "nota3": 2.9,
+    "nota4": 6.1,
+    "faltas": 12
+  },
+  {
+    "id": 739,
+    "nome": "Jessee",
+    "sobrenome": "Dinwoodie",
+    "nota1": 2.8,
+    "nota2": 8.7,
+    "nota3": 9.9,
+    "nota4": 9.1,
+    "faltas": 12
+  },
+  {
+    "id": 740,
+    "nome": "Billi",
+    "sobrenome": "Cicerone",
+    "nota1": 2,
+    "nota2": 3.5,
+    "nota3": 6.5,
+    "nota4": 8.4,
+    "faltas": 0
+  },
+  {
+    "id": 741,
+    "nome": "Bliss",
+    "sobrenome": "Le Friec",
+    "nota1": 4.5,
+    "nota2": 1.4,
+    "nota3": 8.6,
+    "nota4": 5.5,
+    "faltas": 19
+  },
+  {
+    "id": 742,
+    "nome": "Genovera",
+    "sobrenome": "Ingarfield",
+    "nota1": 7.8,
+    "nota2": 2,
+    "nota3": 3.1,
+    "nota4": 8.1,
+    "faltas": 6
+  },
+  {
+    "id": 743,
+    "nome": "Kimmie",
+    "sobrenome": "Walklot",
+    "nota1": 3.5,
+    "nota2": 3,
+    "nota3": 5,
+    "nota4": 3.4,
+    "faltas": 2
+  },
+  {
+    "id": 744,
+    "nome": "Brande",
+    "sobrenome": "Blissitt",
+    "nota1": 5.6,
+    "nota2": 9.1,
+    "nota3": 2.1,
+    "nota4": 3.4,
+    "faltas": 20
+  },
+  {
+    "id": 745,
+    "nome": "Barth",
+    "sobrenome": "Cattlow",
+    "nota1": 7.3,
+    "nota2": 3.5,
+    "nota3": 2.6,
+    "nota4": 5,
+    "faltas": 6
+  },
+  {
+    "id": 746,
+    "nome": "Lillis",
+    "sobrenome": "Fildery",
+    "nota1": 1.7,
+    "nota2": 1.3,
+    "nota3": 3.6,
+    "nota4": 8.9,
+    "faltas": 20
+  },
+  {
+    "id": 747,
+    "nome": "Eugenius",
+    "sobrenome": "Croft",
+    "nota1": 5.3,
+    "nota2": 6.9,
+    "nota3": 5.3,
+    "nota4": 7.5,
+    "faltas": 10
+  },
+  {
+    "id": 748,
+    "nome": "Langsdon",
+    "sobrenome": "Airdrie",
+    "nota1": 1,
+    "nota2": 3.3,
+    "nota3": 5.2,
+    "nota4": 7.6,
+    "faltas": 1
+  },
+  {
+    "id": 749,
+    "nome": "Sammy",
+    "sobrenome": "Gorgen",
+    "nota1": 9.1,
+    "nota2": 9.5,
+    "nota3": 2.8,
+    "nota4": 8.4,
+    "faltas": 0
+  },
+  {
+    "id": 750,
+    "nome": "Vinny",
+    "sobrenome": "Ebbles",
+    "nota1": 5.4,
+    "nota2": 9.2,
+    "nota3": 2.1,
+    "nota4": 7.3,
+    "faltas": 18
+  },
+  {
+    "id": 751,
+    "nome": "Quentin",
+    "sobrenome": "Schiementz",
+    "nota1": 6.2,
+    "nota2": 1.8,
+    "nota3": 7.8,
+    "nota4": 9.2,
+    "faltas": 14
+  },
+  {
+    "id": 752,
+    "nome": "Helga",
+    "sobrenome": "April",
+    "nota1": 5.9,
+    "nota2": 5.3,
+    "nota3": 5.2,
+    "nota4": 7.1,
+    "faltas": 18
+  },
+  {
+    "id": 753,
+    "nome": "Rutherford",
+    "sobrenome": "Parmiter",
+    "nota1": 6.2,
+    "nota2": null,
+    "nota3": 2.7,
+    "nota4": 4.4,
+    "faltas": 12
+  },
+  {
+    "id": 754,
+    "nome": "Darrelle",
+    "sobrenome": "Firebrace",
+    "nota1": 2.9,
+    "nota2": 3.1,
+    "nota3": 5.1,
+    "nota4": 7.3,
+    "faltas": 20
+  },
+  {
+    "id": 755,
+    "nome": "Glennie",
+    "sobrenome": "Rebbeck",
+    "nota1": 9.7,
+    "nota2": 2.6,
+    "nota3": 6,
+    "nota4": 6.2,
+    "faltas": 4
+  },
+  {
+    "id": 756,
+    "nome": "Ealasaid",
+    "sobrenome": "Prest",
+    "nota1": 8.5,
+    "nota2": 3.5,
+    "nota3": 3,
+    "nota4": 1.6,
+    "faltas": 9
+  },
+  {
+    "id": 757,
+    "nome": "Paule",
+    "sobrenome": "Topling",
+    "nota1": 7.7,
+    "nota2": 1.2,
+    "nota3": 2.8,
+    "nota4": 8.6,
+    "faltas": 7
+  },
+  {
+    "id": 758,
+    "nome": "Helen-elizabeth",
+    "sobrenome": "Davydychev",
+    "nota1": 9.9,
+    "nota2": 1.5,
+    "nota3": 8.7,
+    "nota4": 8.1,
+    "faltas": 4
+  },
+  {
+    "id": 759,
+    "nome": "Regan",
+    "sobrenome": "Gateland",
+    "nota1": 2,
+    "nota2": 5.7,
+    "nota3": 9.7,
+    "nota4": 2,
+    "faltas": 2
+  },
+  {
+    "id": 760,
+    "nome": "Jaquelin",
+    "sobrenome": "Fawdry",
+    "nota1": 6.7,
+    "nota2": 5.9,
+    "nota3": 6.4,
+    "nota4": null,
+    "faltas": 16
+  },
+  {
+    "id": 761,
+    "nome": "Prentiss",
+    "sobrenome": "Pendlenton",
+    "nota1": 9.6,
+    "nota2": 6.7,
+    "nota3": 8.9,
+    "nota4": 9,
+    "faltas": 4
+  },
+  {
+    "id": 762,
+    "nome": "Darryl",
+    "sobrenome": "Thunders",
+    "nota1": 5.3,
+    "nota2": 1.2,
+    "nota3": 1.8,
+    "nota4": 3.8,
+    "faltas": 12
+  },
+  {
+    "id": 763,
+    "nome": "Lazare",
+    "sobrenome": "Brecher",
+    "nota1": 5.5,
+    "nota2": 7.2,
+    "nota3": 5.5,
+    "nota4": null,
+    "faltas": 5
+  },
+  {
+    "id": 764,
+    "nome": "Larissa",
+    "sobrenome": "Boumphrey",
+    "nota1": 9.3,
+    "nota2": 5.7,
+    "nota3": 1.2,
+    "nota4": 9.3,
+    "faltas": 16
+  },
+  {
+    "id": 765,
+    "nome": "Curran",
+    "sobrenome": "Mc Andrew",
+    "nota1": 1.3,
+    "nota2": 8.8,
+    "nota3": 1.4,
+    "nota4": 3.6,
+    "faltas": 7
+  },
+  {
+    "id": 766,
+    "nome": "Zebulon",
+    "sobrenome": "Grayson",
+    "nota1": 8.1,
+    "nota2": 7.2,
+    "nota3": 2.7,
+    "nota4": 9.9,
+    "faltas": 1
+  },
+  {
+    "id": 767,
+    "nome": "Jody",
+    "sobrenome": "Tottman",
+    "nota1": 7.9,
+    "nota2": 3.8,
+    "nota3": 9.9,
+    "nota4": 4.8,
+    "faltas": 0
+  },
+  {
+    "id": 768,
+    "nome": "Nikolos",
+    "sobrenome": "Maben",
+    "nota1": 2.6,
+    "nota2": 5.7,
+    "nota3": 2,
+    "nota4": 2.1,
+    "faltas": 14
+  },
+  {
+    "id": 769,
+    "nome": "Arch",
+    "sobrenome": "Trenoweth",
+    "nota1": 4.4,
+    "nota2": 5.5,
+    "nota3": 8.4,
+    "nota4": 4.4,
+    "faltas": 4
+  },
+  {
+    "id": 770,
+    "nome": "Lucienne",
+    "sobrenome": "Pring",
+    "nota1": 3,
+    "nota2": 3.1,
+    "nota3": 9.5,
+    "nota4": 1.6,
+    "faltas": 14
+  },
+  {
+    "id": 771,
+    "nome": "Layne",
+    "sobrenome": "Gannaway",
+    "nota1": 8.3,
+    "nota2": 6.9,
+    "nota3": 2.4,
+    "nota4": 5.4,
+    "faltas": 6
+  },
+  {
+    "id": 772,
+    "nome": "Trumann",
+    "sobrenome": "Pepper",
+    "nota1": 8.3,
+    "nota2": 5.1,
+    "nota3": 6.5,
+    "nota4": 7.9,
+    "faltas": 4
+  },
+  {
+    "id": 773,
+    "nome": "Anneliese",
+    "sobrenome": "Bark",
+    "nota1": 1.2,
+    "nota2": 3,
+    "nota3": 3.1,
+    "nota4": 7.2,
+    "faltas": 4
+  },
+  {
+    "id": 774,
+    "nome": "Philippa",
+    "sobrenome": "Regi",
+    "nota1": 6.8,
+    "nota2": 6.8,
+    "nota3": 3.4,
+    "nota4": 4.5,
+    "faltas": 20
+  },
+  {
+    "id": 775,
+    "nome": "Ashia",
+    "sobrenome": "Haug",
+    "nota1": 4.3,
+    "nota2": 2.3,
+    "nota3": 8.8,
+    "nota4": 3.1,
+    "faltas": 20
+  },
+  {
+    "id": 776,
+    "nome": "Benjamen",
+    "sobrenome": "Romaine",
+    "nota1": 5.7,
+    "nota2": 5.7,
+    "nota3": 7.6,
+    "nota4": 4,
+    "faltas": 6
+  },
+  {
+    "id": 777,
+    "nome": "Carole",
+    "sobrenome": "Genn",
+    "nota1": 8.4,
+    "nota2": 3.8,
+    "nota3": 2.3,
+    "nota4": 6.4,
+    "faltas": 19
+  },
+  {
+    "id": 778,
+    "nome": "Dorthea",
+    "sobrenome": "Gianneschi",
+    "nota1": 5.1,
+    "nota2": 3,
+    "nota3": 8,
+    "nota4": 8.8,
+    "faltas": 19
+  },
+  {
+    "id": 779,
+    "nome": "Wilmer",
+    "sobrenome": "Kolak",
+    "nota1": 9.8,
+    "nota2": 2.6,
+    "nota3": 3.4,
+    "nota4": 6.4,
+    "faltas": 14
+  },
+  {
+    "id": 780,
+    "nome": "Konstantin",
+    "sobrenome": "Foyster",
+    "nota1": 1,
+    "nota2": 2.9,
+    "nota3": 5.4,
+    "nota4": 2.8,
+    "faltas": 20
+  },
+  {
+    "id": 781,
+    "nome": "Marian",
+    "sobrenome": "Biner",
+    "nota1": 2.5,
+    "nota2": 7.5,
+    "nota3": 4.1,
+    "nota4": 5.9,
+    "faltas": 12
+  },
+  {
+    "id": 782,
+    "nome": "Frederico",
+    "sobrenome": "Lafaye",
+    "nota1": 2.7,
+    "nota2": 5.6,
+    "nota3": 2.1,
+    "nota4": 4.8,
+    "faltas": 8
+  },
+  {
+    "id": 783,
+    "nome": "Caritta",
+    "sobrenome": "Fellman",
+    "nota1": 4.7,
+    "nota2": 3.4,
+    "nota3": 2.2,
+    "nota4": 2,
+    "faltas": 12
+  },
+  {
+    "id": 784,
+    "nome": "Roscoe",
+    "sobrenome": "Lightwing",
+    "nota1": 4.2,
+    "nota2": 6,
+    "nota3": 7.1,
+    "nota4": 8.5,
+    "faltas": 2
+  },
+  {
+    "id": 785,
+    "nome": "Idaline",
+    "sobrenome": "Baudi",
+    "nota1": 4.4,
+    "nota2": 1.4,
+    "nota3": 2.4,
+    "nota4": 5.4,
+    "faltas": 4
+  },
+  {
+    "id": 786,
+    "nome": "Barrett",
+    "sobrenome": "Birrane",
+    "nota1": 1.4,
+    "nota2": 4.8,
+    "nota3": 7.7,
+    "nota4": 2.3,
+    "faltas": 10
+  },
+  {
+    "id": 787,
+    "nome": "Rosanna",
+    "sobrenome": "Benasik",
+    "nota1": 6.6,
+    "nota2": 8.9,
+    "nota3": 2.5,
+    "nota4": 3.7,
+    "faltas": 20
+  },
+  {
+    "id": 788,
+    "nome": "Audy",
+    "sobrenome": "Fluck",
+    "nota1": 9.3,
+    "nota2": 7.5,
+    "nota3": 9,
+    "nota4": 3.6,
+    "faltas": 14
+  },
+  {
+    "id": 789,
+    "nome": "Joelie",
+    "sobrenome": "Gee",
+    "nota1": 6.6,
+    "nota2": 1.5,
+    "nota3": 9.1,
+    "nota4": 7.4,
+    "faltas": 9
+  },
+  {
+    "id": 790,
+    "nome": "Kassie",
+    "sobrenome": "McEnhill",
+    "nota1": 2.4,
+    "nota2": 2.5,
+    "nota3": 4.4,
+    "nota4": 3.7,
+    "faltas": 13
+  },
+  {
+    "id": 791,
+    "nome": "Dyana",
+    "sobrenome": "Mathison",
+    "nota1": 7.8,
+    "nota2": 5.8,
+    "nota3": 3.9,
+    "nota4": 7.5,
+    "faltas": 4
+  },
+  {
+    "id": 792,
+    "nome": "Farrell",
+    "sobrenome": "Dalmon",
+    "nota1": 8.3,
+    "nota2": 1.2,
+    "nota3": null,
+    "nota4": 3.7,
+    "faltas": 0
+  },
+  {
+    "id": 793,
+    "nome": "Justen",
+    "sobrenome": "Ricketts",
+    "nota1": 9.4,
+    "nota2": 3,
+    "nota3": 2.2,
+    "nota4": 6.4,
+    "faltas": 11
+  },
+  {
+    "id": 794,
+    "nome": "Pinchas",
+    "sobrenome": "Kulis",
+    "nota1": 6.6,
+    "nota2": 2.8,
+    "nota3": 2.5,
+    "nota4": 5.9,
+    "faltas": 13
+  },
+  {
+    "id": 795,
+    "nome": "Glyn",
+    "sobrenome": "Scraggs",
+    "nota1": 7.8,
+    "nota2": 8,
+    "nota3": 7.4,
+    "nota4": 6.9,
+    "faltas": 5
+  },
+  {
+    "id": 796,
+    "nome": "Emmet",
+    "sobrenome": "Peegrem",
+    "nota1": 5.7,
+    "nota2": 9.3,
+    "nota3": 5.6,
+    "nota4": 8.8,
+    "faltas": 4
+  },
+  {
+    "id": 797,
+    "nome": "Annis",
+    "sobrenome": "Dincke",
+    "nota1": 3.4,
+    "nota2": 2.1,
+    "nota3": 9,
+    "nota4": 9.6,
+    "faltas": 16
+  },
+  {
+    "id": 798,
+    "nome": "Ardath",
+    "sobrenome": "Bossons",
+    "nota1": 7.3,
+    "nota2": 5.3,
+    "nota3": 8.3,
+    "nota4": 9.2,
+    "faltas": 1
+  },
+  {
+    "id": 799,
+    "nome": "Lucille",
+    "sobrenome": "Moorman",
+    "nota1": 10,
+    "nota2": 7,
+    "nota3": 3.9,
+    "nota4": 8.8,
+    "faltas": 18
+  },
+  {
+    "id": 800,
+    "nome": "Alecia",
+    "sobrenome": "Goody",
+    "nota1": 1.4,
+    "nota2": 3.8,
+    "nota3": 8.1,
+    "nota4": 4.9,
+    "faltas": 18
+  },
+
+  {
+    "id": 700,
+    "nome": "Ina",
+    "sobrenome": "Derle",
+    "nota1": 2.1,
+    "nota2": 1.6,
+    "nota3": 4.3,
+    "nota4": 7.8,
+    "faltas": 20
+  },
+  {
+    "id": 701,
+    "nome": "Gabrila",
+    "sobrenome": "MacAlaster",
+    "nota1": 2.6,
+    "nota2": 1.5,
+    "nota3": 5,
+    "nota4": 4.6,
+    "faltas": 8
+  },
+  {
+    "id": 702,
+    "nome": "Nikkie",
+    "sobrenome": "Pues",
+    "nota1": 4,
+    "nota2": 2.8,
+    "nota3": 4.6,
+    "nota4": 1.6,
+    "faltas": 4
+  },
+  {
+    "id": 703,
+    "nome": "Blake",
+    "sobrenome": "Spurriar",
+    "nota1": 7.3,
+    "nota2": 9.1,
+    "nota3": 5.3,
+    "nota4": 9.4,
+    "faltas": 17
+  },
+  {
+    "id": 704,
+    "nome": "Adrian",
+    "sobrenome": "McShee",
+    "nota1": 3.7,
+    "nota2": 1,
+    "nota3": 8,
+    "nota4": 9.4,
+    "faltas": 12
+  },
+  {
+    "id": 705,
+    "nome": "Ezmeralda",
+    "sobrenome": "MacCartan",
+    "nota1": 8.4,
+    "nota2": 7.5,
+    "nota3": 4.1,
+    "nota4": 3.9,
+    "faltas": 1
+  },
+  {
+    "id": 706,
+    "nome": "Bebe",
+    "sobrenome": "Pimlock",
+    "nota1": 4.1,
+    "nota2": 8,
+    "nota3": 7,
+    "nota4": null,
+    "faltas": 17
+  },
+  {
+    "id": 707,
+    "nome": "Deck",
+    "sobrenome": "Hatterslay",
+    "nota1": 9.2,
+    "nota2": 9,
+    "nota3": 3.8,
+    "nota4": 4,
+    "faltas": 10
+  },
+  {
+    "id": 708,
+    "nome": "Gordon",
+    "sobrenome": "Drinnan",
+    "nota1": 8.9,
+    "nota2": 1.8,
+    "nota3": 7.9,
+    "nota4": 2.8,
+    "faltas": 15
+  },
+  {
+    "id": 709,
+    "nome": "Newton",
+    "sobrenome": "Stening",
+    "nota1": 8.5,
+    "nota2": 3.2,
+    "nota3": 9.2,
+    "nota4": 6.8,
+    "faltas": 6
+  },
+  {
+    "id": 710,
+    "nome": "Maribeth",
+    "sobrenome": "Fairholme",
+    "nota1": 5.6,
+    "nota2": 7.6,
+    "nota3": 2.4,
+    "nota4": 9,
+    "faltas": 20
+  },
+  {
+    "id": 711,
+    "nome": "Melesa",
+    "sobrenome": "Gremain",
+    "nota1": 8.2,
+    "nota2": 3,
+    "nota3": 9.5,
+    "nota4": 2.5,
+    "faltas": 17
+  },
+  {
+    "id": 712,
+    "nome": "Jessamyn",
+    "sobrenome": "Leebetter",
+    "nota1": 9.6,
+    "nota2": 5.7,
+    "nota3": 1.3,
+    "nota4": 9.3,
+    "faltas": 8
+  },
+  {
+    "id": 713,
+    "nome": "Martina",
+    "sobrenome": "Bransden",
+    "nota1": 8.1,
+    "nota2": 1,
+    "nota3": 4.9,
+    "nota4": 7.6,
+    "faltas": 2
+  },
+  {
+    "id": 714,
+    "nome": "Wally",
+    "sobrenome": "Frichley",
+    "nota1": 6.7,
+    "nota2": 6.9,
+    "nota3": 2.7,
+    "nota4": 9.3,
+    "faltas": 15
+  },
+  {
+    "id": 715,
+    "nome": "Lizabeth",
+    "sobrenome": "Fetteplace",
+    "nota1": 6.3,
+    "nota2": 7.1,
+    "nota3": 7.1,
+    "nota4": 2.9,
+    "faltas": 17
+  },
+  {
+    "id": 716,
+    "nome": "Caralie",
+    "sobrenome": "Sailor",
+    "nota1": 4.2,
+    "nota2": 2.9,
+    "nota3": 1.2,
+    "nota4": 1.8,
+    "faltas": 1
+  },
+  {
+    "id": 717,
+    "nome": "Aubrey",
+    "sobrenome": "Richardeau",
+    "nota1": 3,
+    "nota2": 9.3,
+    "nota3": 7.6,
+    "nota4": 4.1,
+    "faltas": 3
+  },
+  {
+    "id": 718,
+    "nome": "Bryce",
+    "sobrenome": "Escott",
+    "nota1": 3.1,
+    "nota2": 1.8,
+    "nota3": 8.3,
+    "nota4": 4.2,
+    "faltas": 4
+  },
+  {
+    "id": 719,
+    "nome": "Diego",
+    "sobrenome": "Skym",
+    "nota1": 1.6,
+    "nota2": 8.5,
+    "nota3": 6.4,
+    "nota4": 4.5,
+    "faltas": 8
+  },
+  {
+    "id": 720,
+    "nome": "Cordi",
+    "sobrenome": "Fateley",
+    "nota1": 6.3,
+    "nota2": 1.3,
+    "nota3": 6.1,
+    "nota4": 2.6,
+    "faltas": 4
+  },
+  {
+    "id": 721,
+    "nome": "Allyson",
+    "sobrenome": "Peele",
+    "nota1": 6.2,
+    "nota2": 6.2,
+    "nota3": 3.6,
+    "nota4": 7.9,
+    "faltas": 13
+  },
+  {
+    "id": 722,
+    "nome": "Antoni",
+    "sobrenome": "Matteoli",
+    "nota1": 8.2,
+    "nota2": 8.5,
+    "nota3": 2.5,
+    "nota4": 1.2,
+    "faltas": 12
+  },
+  {
+    "id": 723,
+    "nome": "Humbert",
+    "sobrenome": "Burgill",
+    "nota1": 5.4,
+    "nota2": 9.9,
+    "nota3": 8.4,
+    "nota4": 2.1,
+    "faltas": 10
+  },
+  {
+    "id": 724,
+    "nome": "Prudence",
+    "sobrenome": "Phetteplace",
+    "nota1": 7.8,
+    "nota2": 1,
+    "nota3": 6.3,
+    "nota4": 7.9,
+    "faltas": 10
+  },
+  {
+    "id": 725,
+    "nome": "Layla",
+    "sobrenome": "Curthoys",
+    "nota1": 2.3,
+    "nota2": 9,
+    "nota3": 1.4,
+    "nota4": 4,
+    "faltas": 14
+  },
+  {
+    "id": 726,
+    "nome": "Lowrance",
+    "sobrenome": "Waples",
+    "nota1": 4.9,
+    "nota2": 3.6,
+    "nota3": 3.4,
+    "nota4": 2.9,
+    "faltas": 5
+  },
+  {
+    "id": 727,
+    "nome": "Lona",
+    "sobrenome": "Matanin",
+    "nota1": 3.4,
+    "nota2": 8.7,
+    "nota3": null,
+    "nota4": 3.4,
+    "faltas": 9
+  },
+  {
+    "id": 728,
+    "nome": "Maurie",
+    "sobrenome": "Roger",
+    "nota1": 4,
+    "nota2": 6.8,
+    "nota3": 5.9,
+    "nota4": null,
+    "faltas": 16
+  },
+  {
+    "id": 729,
+    "nome": "Sianna",
+    "sobrenome": "Winning",
+    "nota1": 1.3,
+    "nota2": 4.9,
+    "nota3": 6.2,
+    "nota4": 2.6,
+    "faltas": 19
+  },
+  {
+    "id": 730,
+    "nome": "Petronille",
+    "sobrenome": "Rodder",
+    "nota1": 2.2,
+    "nota2": 5.8,
+    "nota3": 3.1,
+    "nota4": 6.1,
+    "faltas": 7
+  },
+  {
+    "id": 731,
+    "nome": "Caro",
+    "sobrenome": "Farnan",
+    "nota1": 9.2,
+    "nota2": 7.3,
+    "nota3": 2.1,
+    "nota4": 9.6,
+    "faltas": 3
+  },
+  {
+    "id": 732,
+    "nome": "Drona",
+    "sobrenome": "Copeland",
+    "nota1": 9.9,
+    "nota2": 9,
+    "nota3": 9.1,
+    "nota4": 2.8,
+    "faltas": 19
+  },
+  {
+    "id": 733,
+    "nome": "Hurlee",
+    "sobrenome": "Bazoche",
+    "nota1": 5.2,
+    "nota2": 3.9,
+    "nota3": 1.5,
+    "nota4": 7,
+    "faltas": 15
+  },
+  {
+    "id": 734,
+    "nome": "Verene",
+    "sobrenome": "Dutnell",
+    "nota1": 5.7,
+    "nota2": 5.7,
+    "nota3": 5.4,
+    "nota4": 7.7,
+    "faltas": 5
+  },
+  {
+    "id": 735,
+    "nome": "Isa",
+    "sobrenome": "Leyburn",
+    "nota1": 8.6,
+    "nota2": 9.1,
+    "nota3": 3.9,
+    "nota4": 8,
+    "faltas": 16
+  },
+  {
+    "id": 736,
+    "nome": "Adelice",
+    "sobrenome": "Eddisforth",
+    "nota1": 3.1,
+    "nota2": 4.5,
+    "nota3": 7.1,
+    "nota4": 3,
+    "faltas": 1
+  },
+  {
+    "id": 737,
+    "nome": "Jabez",
+    "sobrenome": "Probets",
+    "nota1": 8.9,
+    "nota2": 5.8,
+    "nota3": 5,
+    "nota4": 2.9,
+    "faltas": 13
+  },
+  {
+    "id": 738,
+    "nome": "Glennie",
+    "sobrenome": "Concannon",
+    "nota1": 1.2,
+    "nota2": 4.9,
+    "nota3": 2.9,
+    "nota4": 6.1,
+    "faltas": 12
+  },
+  {
+    "id": 739,
+    "nome": "Jessee",
+    "sobrenome": "Dinwoodie",
+    "nota1": 2.8,
+    "nota2": 8.7,
+    "nota3": 9.9,
+    "nota4": 9.1,
+    "faltas": 12
+  },
+  {
+    "id": 740,
+    "nome": "Billi",
+    "sobrenome": "Cicerone",
+    "nota1": 2,
+    "nota2": 3.5,
+    "nota3": 6.5,
+    "nota4": 8.4,
+    "faltas": 0
+  },
+  {
+    "id": 741,
+    "nome": "Bliss",
+    "sobrenome": "Le Friec",
+    "nota1": 4.5,
+    "nota2": 1.4,
+    "nota3": 8.6,
+    "nota4": 5.5,
+    "faltas": 19
+  },
+  {
+    "id": 742,
+    "nome": "Genovera",
+    "sobrenome": "Ingarfield",
+    "nota1": 7.8,
+    "nota2": 2,
+    "nota3": 3.1,
+    "nota4": 8.1,
+    "faltas": 6
+  },
+  {
+    "id": 743,
+    "nome": "Kimmie",
+    "sobrenome": "Walklot",
+    "nota1": 3.5,
+    "nota2": 3,
+    "nota3": 5,
+    "nota4": 3.4,
+    "faltas": 2
+  },
+  {
+    "id": 744,
+    "nome": "Brande",
+    "sobrenome": "Blissitt",
+    "nota1": 5.6,
+    "nota2": 9.1,
+    "nota3": 2.1,
+    "nota4": 3.4,
+    "faltas": 20
+  },
+  {
+    "id": 745,
+    "nome": "Barth",
+    "sobrenome": "Cattlow",
+    "nota1": 7.3,
+    "nota2": 3.5,
+    "nota3": 2.6,
+    "nota4": 5,
+    "faltas": 6
+  },
+  {
+    "id": 746,
+    "nome": "Lillis",
+    "sobrenome": "Fildery",
+    "nota1": 1.7,
+    "nota2": 1.3,
+    "nota3": 3.6,
+    "nota4": 8.9,
+    "faltas": 20
+  },
+  {
+    "id": 747,
+    "nome": "Eugenius",
+    "sobrenome": "Croft",
+    "nota1": 5.3,
+    "nota2": 6.9,
+    "nota3": 5.3,
+    "nota4": 7.5,
+    "faltas": 10
+  },
+  {
+    "id": 748,
+    "nome": "Langsdon",
+    "sobrenome": "Airdrie",
+    "nota1": 1,
+    "nota2": 3.3,
+    "nota3": 5.2,
+    "nota4": 7.6,
+    "faltas": 1
+  },
+  {
+    "id": 749,
+    "nome": "Sammy",
+    "sobrenome": "Gorgen",
+    "nota1": 9.1,
+    "nota2": 9.5,
+    "nota3": 2.8,
+    "nota4": 8.4,
+    "faltas": 0
+  },
+  {
+    "id": 750,
+    "nome": "Vinny",
+    "sobrenome": "Ebbles",
+    "nota1": 5.4,
+    "nota2": 9.2,
+    "nota3": 2.1,
+    "nota4": 7.3,
+    "faltas": 18
+  },
+  {
+    "id": 751,
+    "nome": "Quentin",
+    "sobrenome": "Schiementz",
+    "nota1": 6.2,
+    "nota2": 1.8,
+    "nota3": 7.8,
+    "nota4": 9.2,
+    "faltas": 14
+  },
+  {
+    "id": 752,
+    "nome": "Helga",
+    "sobrenome": "April",
+    "nota1": 5.9,
+    "nota2": 5.3,
+    "nota3": 5.2,
+    "nota4": 7.1,
+    "faltas": 18
+  },
+  {
+    "id": 753,
+    "nome": "Rutherford",
+    "sobrenome": "Parmiter",
+    "nota1": 6.2,
+    "nota2": null,
+    "nota3": 2.7,
+    "nota4": 4.4,
+    "faltas": 12
+  },
+  {
+    "id": 754,
+    "nome": "Darrelle",
+    "sobrenome": "Firebrace",
+    "nota1": 2.9,
+    "nota2": 3.1,
+    "nota3": 5.1,
+    "nota4": 7.3,
+    "faltas": 20
+  },
+  {
+    "id": 755,
+    "nome": "Glennie",
+    "sobrenome": "Rebbeck",
+    "nota1": 9.7,
+    "nota2": 2.6,
+    "nota3": 6,
+    "nota4": 6.2,
+    "faltas": 4
+  },
+  {
+    "id": 756,
+    "nome": "Ealasaid",
+    "sobrenome": "Prest",
+    "nota1": 8.5,
+    "nota2": 3.5,
+    "nota3": 3,
+    "nota4": 1.6,
+    "faltas": 9
+  },
+  {
+    "id": 757,
+    "nome": "Paule",
+    "sobrenome": "Topling",
+    "nota1": 7.7,
+    "nota2": 1.2,
+    "nota3": 2.8,
+    "nota4": 8.6,
+    "faltas": 7
+  },
+  {
+    "id": 758,
+    "nome": "Helen-elizabeth",
+    "sobrenome": "Davydychev",
+    "nota1": 9.9,
+    "nota2": 1.5,
+    "nota3": 8.7,
+    "nota4": 8.1,
+    "faltas": 4
+  },
+  {
+    "id": 759,
+    "nome": "Regan",
+    "sobrenome": "Gateland",
+    "nota1": 2,
+    "nota2": 5.7,
+    "nota3": 9.7,
+    "nota4": 2,
+    "faltas": 2
+  },
+  {
+    "id": 760,
+    "nome": "Jaquelin",
+    "sobrenome": "Fawdry",
+    "nota1": 6.7,
+    "nota2": 5.9,
+    "nota3": 6.4,
+    "nota4": null,
+    "faltas": 16
+  },
+  {
+    "id": 761,
+    "nome": "Prentiss",
+    "sobrenome": "Pendlenton",
+    "nota1": 9.6,
+    "nota2": 6.7,
+    "nota3": 8.9,
+    "nota4": 9,
+    "faltas": 4
+  },
+  {
+    "id": 762,
+    "nome": "Darryl",
+    "sobrenome": "Thunders",
+    "nota1": 5.3,
+    "nota2": 1.2,
+    "nota3": 1.8,
+    "nota4": 3.8,
+    "faltas": 12
+  },
+  {
+    "id": 763,
+    "nome": "Lazare",
+    "sobrenome": "Brecher",
+    "nota1": 5.5,
+    "nota2": 7.2,
+    "nota3": 5.5,
+    "nota4": null,
+    "faltas": 5
+  },
+  {
+    "id": 764,
+    "nome": "Larissa",
+    "sobrenome": "Boumphrey",
+    "nota1": 9.3,
+    "nota2": 5.7,
+    "nota3": 1.2,
+    "nota4": 9.3,
+    "faltas": 16
+  },
+  {
+    "id": 765,
+    "nome": "Curran",
+    "sobrenome": "Mc Andrew",
+    "nota1": 1.3,
+    "nota2": 8.8,
+    "nota3": 1.4,
+    "nota4": 3.6,
+    "faltas": 7
+  },
+  {
+    "id": 766,
+    "nome": "Zebulon",
+    "sobrenome": "Grayson",
+    "nota1": 8.1,
+    "nota2": 7.2,
+    "nota3": 2.7,
+    "nota4": 9.9,
+    "faltas": 1
+  },
+  {
+    "id": 767,
+    "nome": "Jody",
+    "sobrenome": "Tottman",
+    "nota1": 7.9,
+    "nota2": 3.8,
+    "nota3": 9.9,
+    "nota4": 4.8,
+    "faltas": 0
+  },
+  {
+    "id": 768,
+    "nome": "Nikolos",
+    "sobrenome": "Maben",
+    "nota1": 2.6,
+    "nota2": 5.7,
+    "nota3": 2,
+    "nota4": 2.1,
+    "faltas": 14
+  },
+  {
+    "id": 769,
+    "nome": "Arch",
+    "sobrenome": "Trenoweth",
+    "nota1": 4.4,
+    "nota2": 5.5,
+    "nota3": 8.4,
+    "nota4": 4.4,
+    "faltas": 4
+  },
+  {
+    "id": 770,
+    "nome": "Lucienne",
+    "sobrenome": "Pring",
+    "nota1": 3,
+    "nota2": 3.1,
+    "nota3": 9.5,
+    "nota4": 1.6,
+    "faltas": 14
+  },
+  {
+    "id": 771,
+    "nome": "Layne",
+    "sobrenome": "Gannaway",
+    "nota1": 8.3,
+    "nota2": 6.9,
+    "nota3": 2.4,
+    "nota4": 5.4,
+    "faltas": 6
+  },
+  {
+    "id": 772,
+    "nome": "Trumann",
+    "sobrenome": "Pepper",
+    "nota1": 8.3,
+    "nota2": 5.1,
+    "nota3": 6.5,
+    "nota4": 7.9,
+    "faltas": 4
+  },
+  {
+    "id": 773,
+    "nome": "Anneliese",
+    "sobrenome": "Bark",
+    "nota1": 1.2,
+    "nota2": 3,
+    "nota3": 3.1,
+    "nota4": 7.2,
+    "faltas": 4
+  },
+  {
+    "id": 774,
+    "nome": "Philippa",
+    "sobrenome": "Regi",
+    "nota1": 6.8,
+    "nota2": 6.8,
+    "nota3": 3.4,
+    "nota4": 4.5,
+    "faltas": 20
+  },
+  {
+    "id": 775,
+    "nome": "Ashia",
+    "sobrenome": "Haug",
+    "nota1": 4.3,
+    "nota2": 2.3,
+    "nota3": 8.8,
+    "nota4": 3.1,
+    "faltas": 20
+  },
+  {
+    "id": 776,
+    "nome": "Benjamen",
+    "sobrenome": "Romaine",
+    "nota1": 5.7,
+    "nota2": 5.7,
+    "nota3": 7.6,
+    "nota4": 4,
+    "faltas": 6
+  },
+  {
+    "id": 777,
+    "nome": "Carole",
+    "sobrenome": "Genn",
+    "nota1": 8.4,
+    "nota2": 3.8,
+    "nota3": 2.3,
+    "nota4": 6.4,
+    "faltas": 19
+  },
+  {
+    "id": 778,
+    "nome": "Dorthea",
+    "sobrenome": "Gianneschi",
+    "nota1": 5.1,
+    "nota2": 3,
+    "nota3": 8,
+    "nota4": 8.8,
+    "faltas": 19
+  },
+  {
+    "id": 779,
+    "nome": "Wilmer",
+    "sobrenome": "Kolak",
+    "nota1": 9.8,
+    "nota2": 2.6,
+    "nota3": 3.4,
+    "nota4": 6.4,
+    "faltas": 14
+  },
+  {
+    "id": 780,
+    "nome": "Konstantin",
+    "sobrenome": "Foyster",
+    "nota1": 1,
+    "nota2": 2.9,
+    "nota3": 5.4,
+    "nota4": 2.8,
+    "faltas": 20
+  },
+  {
+    "id": 781,
+    "nome": "Marian",
+    "sobrenome": "Biner",
+    "nota1": 2.5,
+    "nota2": 7.5,
+    "nota3": 4.1,
+    "nota4": 5.9,
+    "faltas": 12
+  },
+  {
+    "id": 782,
+    "nome": "Frederico",
+    "sobrenome": "Lafaye",
+    "nota1": 2.7,
+    "nota2": 5.6,
+    "nota3": 2.1,
+    "nota4": 4.8,
+    "faltas": 8
+  },
+  {
+    "id": 783,
+    "nome": "Caritta",
+    "sobrenome": "Fellman",
+    "nota1": 4.7,
+    "nota2": 3.4,
+    "nota3": 2.2,
+    "nota4": 2,
+    "faltas": 12
+  },
+  {
+    "id": 784,
+    "nome": "Roscoe",
+    "sobrenome": "Lightwing",
+    "nota1": 4.2,
+    "nota2": 6,
+    "nota3": 7.1,
+    "nota4": 8.5,
+    "faltas": 2
+  },
+  {
+    "id": 785,
+    "nome": "Idaline",
+    "sobrenome": "Baudi",
+    "nota1": 4.4,
+    "nota2": 1.4,
+    "nota3": 2.4,
+    "nota4": 5.4,
+    "faltas": 4
+  },
+  {
+    "id": 786,
+    "nome": "Barrett",
+    "sobrenome": "Birrane",
+    "nota1": 1.4,
+    "nota2": 4.8,
+    "nota3": 7.7,
+    "nota4": 2.3,
+    "faltas": 10
+  },
+  {
+    "id": 787,
+    "nome": "Rosanna",
+    "sobrenome": "Benasik",
+    "nota1": 6.6,
+    "nota2": 8.9,
+    "nota3": 2.5,
+    "nota4": 3.7,
+    "faltas": 20
+  },
+  {
+    "id": 788,
+    "nome": "Audy",
+    "sobrenome": "Fluck",
+    "nota1": 9.3,
+    "nota2": 7.5,
+    "nota3": 9,
+    "nota4": 3.6,
+    "faltas": 14
+  },
+  {
+    "id": 789,
+    "nome": "Joelie",
+    "sobrenome": "Gee",
+    "nota1": 6.6,
+    "nota2": 1.5,
+    "nota3": 9.1,
+    "nota4": 7.4,
+    "faltas": 9
+  },
+  {
+    "id": 790,
+    "nome": "Kassie",
+    "sobrenome": "McEnhill",
+    "nota1": 2.4,
+    "nota2": 2.5,
+    "nota3": 4.4,
+    "nota4": 3.7,
+    "faltas": 13
+  },
+  {
+    "id": 791,
+    "nome": "Dyana",
+    "sobrenome": "Mathison",
+    "nota1": 7.8,
+    "nota2": 5.8,
+    "nota3": 3.9,
+    "nota4": 7.5,
+    "faltas": 4
+  },
+  {
+    "id": 792,
+    "nome": "Farrell",
+    "sobrenome": "Dalmon",
+    "nota1": 8.3,
+    "nota2": 1.2,
+    "nota3": null,
+    "nota4": 3.7,
+    "faltas": 0
+  },
+  {
+    "id": 793,
+    "nome": "Justen",
+    "sobrenome": "Ricketts",
+    "nota1": 9.4,
+    "nota2": 3,
+    "nota3": 2.2,
+    "nota4": 6.4,
+    "faltas": 11
+  },
+  {
+    "id": 794,
+    "nome": "Pinchas",
+    "sobrenome": "Kulis",
+    "nota1": 6.6,
+    "nota2": 2.8,
+    "nota3": 2.5,
+    "nota4": 5.9,
+    "faltas": 13
+  },
+  {
+    "id": 795,
+    "nome": "Glyn",
+    "sobrenome": "Scraggs",
+    "nota1": 7.8,
+    "nota2": 8,
+    "nota3": 7.4,
+    "nota4": 6.9,
+    "faltas": 5
+  },
+  {
+    "id": 796,
+    "nome": "Emmet",
+    "sobrenome": "Peegrem",
+    "nota1": 5.7,
+    "nota2": 9.3,
+    "nota3": 5.6,
+    "nota4": 8.8,
+    "faltas": 4
+  },
+  {
+    "id": 797,
+    "nome": "Annis",
+    "sobrenome": "Dincke",
+    "nota1": 3.4,
+    "nota2": 2.1,
+    "nota3": 9,
+    "nota4": 9.6,
+    "faltas": 16
+  },
+  {
+    "id": 798,
+    "nome": "Ardath",
+    "sobrenome": "Bossons",
+    "nota1": 7.3,
+    "nota2": 5.3,
+    "nota3": 8.3,
+    "nota4": 9.2,
+    "faltas": 1
+  },
+  {
+    "id": 799,
+    "nome": "Lucille",
+    "sobrenome": "Moorman",
+    "nota1": 10,
+    "nota2": 7,
+    "nota3": 3.9,
+    "nota4": 8.8,
+    "faltas": 18
+  },
+  {
+    "id": 800,
+    "nome": "Alecia",
+    "sobrenome": "Goody",
+    "nota1": 1.4,
+    "nota2": 3.8,
+    "nota3": 8.1,
+    "nota4": 4.9,
+    "faltas": 18
+  },
+
+  {
+    "id": 801,
+    "nome": "Spencer",
+    "sobrenome": "Wingate",
+    "nota1": 8,
+    "nota2": 8.9,
+    "nota3": 5.6,
+    "nota4": 4.2,
+    "faltas": 20
+  },
+  {
+    "id": 802,
+    "nome": "Tracy",
+    "sobrenome": "Marriott",
+    "nota1": 9,
+    "nota2": 5.5,
+    "nota3": 6.8,
+    "nota4": 3.3,
+    "faltas": 20
+  },
+  {
+    "id": 803,
+    "nome": "Dylan",
+    "sobrenome": "Crombleholme",
+    "nota1": 7.6,
+    "nota2": 4.1,
+    "nota3": 7.1,
+    "nota4": 5.5,
+    "faltas": 15
+  },
+  {
+    "id": 804,
+    "nome": "Kevon",
+    "sobrenome": "Barby",
+    "nota1": 3.1,
+    "nota2": 6.7,
+    "nota3": 6.7,
+    "nota4": null,
+    "faltas": 19
+  },
+  {
+    "id": 805,
+    "nome": "Chas",
+    "sobrenome": "Leyfield",
+    "nota1": 1,
+    "nota2": 9.8,
+    "nota3": 2.8,
+    "nota4": 3.2,
+    "faltas": 12
+  },
+  {
+    "id": 806,
+    "nome": "Sandy",
+    "sobrenome": "Ravillas",
+    "nota1": 2.7,
+    "nota2": 3.2,
+    "nota3": 7.9,
+    "nota4": 3.7,
+    "faltas": 10
+  },
+  {
+    "id": 807,
+    "nome": "Kaleb",
+    "sobrenome": "Darrow",
+    "nota1": 4.9,
+    "nota2": 9.6,
+    "nota3": 7.1,
+    "nota4": 2.9,
+    "faltas": 7
+  },
+  {
+    "id": 808,
+    "nome": "August",
+    "sobrenome": "Gehringer",
+    "nota1": 10,
+    "nota2": 4.9,
+    "nota3": 1.2,
+    "nota4": 7.4,
+    "faltas": 17
+  },
+  {
+    "id": 809,
+    "nome": "Vin",
+    "sobrenome": "Rossborough",
+    "nota1": 7,
+    "nota2": 2.1,
+    "nota3": 7.9,
+    "nota4": 6.2,
+    "faltas": 15
+  },
+  {
+    "id": 810,
+    "nome": "Liz",
+    "sobrenome": "Accomb",
+    "nota1": 6.2,
+    "nota2": 2.5,
+    "nota3": 9.3,
+    "nota4": 8.8,
+    "faltas": 4
+  },
+  {
+    "id": 811,
+    "nome": "Obidiah",
+    "sobrenome": "Branson",
+    "nota1": 1.9,
+    "nota2": 1.7,
+    "nota3": 9.1,
+    "nota4": 2.3,
+    "faltas": 18
+  },
+  {
+    "id": 812,
+    "nome": "Bryant",
+    "sobrenome": "Bertelmot",
+    "nota1": 8.5,
+    "nota2": 5.1,
+    "nota3": 9,
+    "nota4": 4.9,
+    "faltas": 19
+  },
+  {
+    "id": 813,
+    "nome": "Kimberley",
+    "sobrenome": "Brandenburg",
+    "nota1": 6.5,
+    "nota2": 9.9,
+    "nota3": 5.8,
+    "nota4": 1.4,
+    "faltas": 19
+  },
+  {
+    "id": 814,
+    "nome": "Madlin",
+    "sobrenome": "Cowap",
+    "nota1": 5.7,
+    "nota2": 9.9,
+    "nota3": 9.1,
+    "nota4": 6.2,
+    "faltas": 6
+  },
+  {
+    "id": 815,
+    "nome": "Thelma",
+    "sobrenome": "Spyer",
+    "nota1": 2.2,
+    "nota2": 9.8,
+    "nota3": 8.5,
+    "nota4": 8.6,
+    "faltas": 5
+  },
+  {
+    "id": 816,
+    "nome": "Herbert",
+    "sobrenome": "Meneghi",
+    "nota1": 9.3,
+    "nota2": 1.7,
+    "nota3": 4.9,
+    "nota4": 1.7,
+    "faltas": 3
+  },
+  {
+    "id": 817,
+    "nome": "Dionne",
+    "sobrenome": "Germon",
+    "nota1": 4.1,
+    "nota2": 2.7,
+    "nota3": null,
+    "nota4": 6.9,
+    "faltas": 1
+  },
+  {
+    "id": 818,
+    "nome": "Lilllie",
+    "sobrenome": "Staner",
+    "nota1": 7.1,
+    "nota2": 9.6,
+    "nota3": 4.7,
+    "nota4": 9.7,
+    "faltas": 18
+  },
+  {
+    "id": 819,
+    "nome": "Denny",
+    "sobrenome": "McGeady",
+    "nota1": 4.9,
+    "nota2": 5.9,
+    "nota3": 1.9,
+    "nota4": 6,
+    "faltas": 8
+  },
+  {
+    "id": 820,
+    "nome": "Karoly",
+    "sobrenome": "Buesden",
+    "nota1": 7.6,
+    "nota2": 4.2,
+    "nota3": 1.5,
+    "nota4": 4.3,
+    "faltas": 1
+  },
+  {
+    "id": 821,
+    "nome": "Vinnie",
+    "sobrenome": "Booth",
+    "nota1": 5.5,
+    "nota2": 1.8,
+    "nota3": 8.1,
+    "nota4": 7.2,
+    "faltas": 8
+  },
+  {
+    "id": 822,
+    "nome": "Geneva",
+    "sobrenome": "Yesinin",
+    "nota1": 6,
+    "nota2": 3.1,
+    "nota3": 2.7,
+    "nota4": 7.7,
+    "faltas": 12
+  },
+  {
+    "id": 823,
+    "nome": "Annmaria",
+    "sobrenome": "Willisch",
+    "nota1": 6.4,
+    "nota2": 5.6,
+    "nota3": 4.4,
+    "nota4": 7.6,
+    "faltas": 15
+  },
+  {
+    "id": 824,
+    "nome": "Griswold",
+    "sobrenome": "Scarrott",
+    "nota1": 2,
+    "nota2": 2.4,
+    "nota3": 7.2,
+    "nota4": 2.8,
+    "faltas": 11
+  },
+  {
+    "id": 825,
+    "nome": "Jermain",
+    "sobrenome": "Gaskins",
+    "nota1": 2.2,
+    "nota2": 5.5,
+    "nota3": null,
+    "nota4": null,
+    "faltas": 18
+  },
+  {
+    "id": 826,
+    "nome": "Grissel",
+    "sobrenome": "Tirte",
+    "nota1": 4.7,
+    "nota2": 1,
+    "nota3": 8.9,
+    "nota4": 8.6,
+    "faltas": 8
+  },
+  {
+    "id": 827,
+    "nome": "Kristopher",
+    "sobrenome": "Roncelli",
+    "nota1": 8.6,
+    "nota2": 6.4,
+    "nota3": 7.5,
+    "nota4": 7.4,
+    "faltas": 10
+  },
+  {
+    "id": 828,
+    "nome": "Winn",
+    "sobrenome": "Ellyatt",
+    "nota1": 8.8,
+    "nota2": 5.8,
+    "nota3": 3,
+    "nota4": 6,
+    "faltas": 18
+  },
+  {
+    "id": 829,
+    "nome": "Dougy",
+    "sobrenome": "Bonafacino",
+    "nota1": 9.8,
+    "nota2": 3.2,
+    "nota3": 9.6,
+    "nota4": 7,
+    "faltas": 15
+  },
+  {
+    "id": 830,
+    "nome": "Benito",
+    "sobrenome": "Farens",
+    "nota1": 4.2,
+    "nota2": 2.1,
+    "nota3": 3.6,
+    "nota4": 5.4,
+    "faltas": 13
+  },
+  {
+    "id": 831,
+    "nome": "Norby",
+    "sobrenome": "Gedge",
+    "nota1": 6.5,
+    "nota2": 8.7,
+    "nota3": 4.4,
+    "nota4": 4.5,
+    "faltas": 19
+  },
+  {
+    "id": 832,
+    "nome": "Carmelina",
+    "sobrenome": "Flinn",
+    "nota1": 1.8,
+    "nota2": 1.4,
+    "nota3": null,
+    "nota4": null,
+    "faltas": 7
+  },
+  {
+    "id": 833,
+    "nome": "Werner",
+    "sobrenome": "Tupman",
+    "nota1": 5.9,
+    "nota2": null,
+    "nota3": 9.8,
+    "nota4": 9.9,
+    "faltas": 17
+  },
+  {
+    "id": 834,
+    "nome": "Darline",
+    "sobrenome": "Petschel",
+    "nota1": 7.3,
+    "nota2": 5.9,
+    "nota3": 1.4,
+    "nota4": 4.8,
+    "faltas": 16
+  },
+  {
+    "id": 835,
+    "nome": "Terrie",
+    "sobrenome": "Forker",
+    "nota1": 1.5,
+    "nota2": 3.7,
+    "nota3": 1.7,
+    "nota4": 8.8,
+    "faltas": 2
+  },
+  {
+    "id": 836,
+    "nome": "Elene",
+    "sobrenome": "Heppner",
+    "nota1": 1.6,
+    "nota2": 7.4,
+    "nota3": 9.9,
+    "nota4": 1.1,
+    "faltas": 13
+  },
+  {
+    "id": 837,
+    "nome": "Hestia",
+    "sobrenome": "Couzens",
+    "nota1": 3.6,
+    "nota2": 9.4,
+    "nota3": 5.3,
+    "nota4": 2.1,
+    "faltas": 16
+  },
+  {
+    "id": 838,
+    "nome": "Katina",
+    "sobrenome": "Longthorn",
+    "nota1": 1.4,
+    "nota2": 2.2,
+    "nota3": null,
+    "nota4": 2.4,
+    "faltas": 0
+  },
+  {
+    "id": 839,
+    "nome": "Dukey",
+    "sobrenome": "Reppaport",
+    "nota1": 9.8,
+    "nota2": 1.1,
+    "nota3": 2,
+    "nota4": 3.8,
+    "faltas": 4
+  },
+  {
+    "id": 840,
+    "nome": "Reba",
+    "sobrenome": "Stranahan",
+    "nota1": 6.6,
+    "nota2": 4.3,
+    "nota3": 4.9,
+    "nota4": 6.5,
+    "faltas": 19
+  },
+  {
+    "id": 841,
+    "nome": "Adria",
+    "sobrenome": "Banbury",
+    "nota1": 4.7,
+    "nota2": 3,
+    "nota3": 8,
+    "nota4": 2.1,
+    "faltas": 10
+  },
+  {
+    "id": 842,
+    "nome": "Rafe",
+    "sobrenome": "Chad",
+    "nota1": 8.4,
+    "nota2": 1.8,
+    "nota3": 8.5,
+    "nota4": 10,
+    "faltas": 7
+  },
+  {
+    "id": 843,
+    "nome": "Stearne",
+    "sobrenome": "Rance",
+    "nota1": 3,
+    "nota2": null,
+    "nota3": 8.9,
+    "nota4": 1.6,
+    "faltas": 4
+  },
+  {
+    "id": 844,
+    "nome": "Udell",
+    "sobrenome": "Gowing",
+    "nota1": 2.9,
+    "nota2": 5,
+    "nota3": 3.2,
+    "nota4": 1.2,
+    "faltas": 8
+  },
+  {
+    "id": 845,
+    "nome": "Al",
+    "sobrenome": "Radsdale",
+    "nota1": 9.8,
+    "nota2": 7.2,
+    "nota3": 9.9,
+    "nota4": 3.8,
+    "faltas": 16
+  },
+  {
+    "id": 846,
+    "nome": "Teddy",
+    "sobrenome": "Huttley",
+    "nota1": 9.2,
+    "nota2": 9.3,
+    "nota3": 8.9,
+    "nota4": 1.1,
+    "faltas": 5
+  },
+  {
+    "id": 847,
+    "nome": "Ofella",
+    "sobrenome": "Spanswick",
+    "nota1": 3.6,
+    "nota2": 6,
+    "nota3": 7.8,
+    "nota4": 9.3,
+    "faltas": 10
+  },
+  {
+    "id": 848,
+    "nome": "Neala",
+    "sobrenome": "Lovell",
+    "nota1": 8.4,
+    "nota2": 8.8,
+    "nota3": null,
+    "nota4": 5.4,
+    "faltas": 1
+  },
+  {
+    "id": 849,
+    "nome": "Rebeka",
+    "sobrenome": "Rosencrantz",
+    "nota1": 9.3,
+    "nota2": 1.8,
+    "nota3": 4.1,
+    "nota4": 6.3,
+    "faltas": 6
+  },
+  {
+    "id": 850,
+    "nome": "Bette-ann",
+    "sobrenome": "Basillon",
+    "nota1": 8.3,
+    "nota2": 9.2,
+    "nota3": 2.8,
+    "nota4": null,
+    "faltas": 7
+  },
+  {
+    "id": 851,
+    "nome": "Catarina",
+    "sobrenome": "Michell",
+    "nota1": 2.8,
+    "nota2": 8.2,
+    "nota3": 7.9,
+    "nota4": 7.7,
+    "faltas": 15
+  },
+  {
+    "id": 852,
+    "nome": "Peggie",
+    "sobrenome": "Pickett",
+    "nota1": 8.4,
+    "nota2": 3.6,
+    "nota3": 1.1,
+    "nota4": 9.5,
+    "faltas": 1
+  },
+  {
+    "id": 853,
+    "nome": "Lorne",
+    "sobrenome": "Aplin",
+    "nota1": 1.4,
+    "nota2": 4.8,
+    "nota3": 9.7,
+    "nota4": null,
+    "faltas": 8
+  },
+  {
+    "id": 854,
+    "nome": "Raleigh",
+    "sobrenome": "Kennion",
+    "nota1": 1.5,
+    "nota2": 8.3,
+    "nota3": 4.5,
+    "nota4": 9.4,
+    "faltas": 9
+  },
+  {
+    "id": 855,
+    "nome": "Eleonore",
+    "sobrenome": "Evershed",
+    "nota1": 2.7,
+    "nota2": 7.4,
+    "nota3": 5,
+    "nota4": 9.9,
+    "faltas": 11
+  },
+  {
+    "id": 856,
+    "nome": "Othelia",
+    "sobrenome": "Keatch",
+    "nota1": 4.1,
+    "nota2": 8.4,
+    "nota3": 4.6,
+    "nota4": 3.5,
+    "faltas": 17
+  },
+  {
+    "id": 857,
+    "nome": "Geneva",
+    "sobrenome": "Lanegran",
+    "nota1": 7.4,
+    "nota2": 2.7,
+    "nota3": 4,
+    "nota4": 7.5,
+    "faltas": 4
+  },
+  {
+    "id": 858,
+    "nome": "Nannie",
+    "sobrenome": "Colleton",
+    "nota1": 10,
+    "nota2": 5.4,
+    "nota3": 3.6,
+    "nota4": 8.1,
+    "faltas": 2
+  },
+  {
+    "id": 859,
+    "nome": "Kerri",
+    "sobrenome": "Silberschatz",
+    "nota1": 10,
+    "nota2": 8.7,
+    "nota3": null,
+    "nota4": 7.9,
+    "faltas": 12
+  },
+  {
+    "id": 860,
+    "nome": "Gustav",
+    "sobrenome": "Peregrine",
+    "nota1": 7.5,
+    "nota2": 8.4,
+    "nota3": 3.6,
+    "nota4": 5.3,
+    "faltas": 19
+  },
+  {
+    "id": 861,
+    "nome": "Anet",
+    "sobrenome": "Tambling",
+    "nota1": 7.6,
+    "nota2": 1.5,
+    "nota3": 8.1,
+    "nota4": 5.2,
+    "faltas": 3
+  },
+  {
+    "id": 862,
+    "nome": "Cleve",
+    "sobrenome": "Lapping",
+    "nota1": 7.9,
+    "nota2": 4.7,
+    "nota3": 4.7,
+    "nota4": 1.5,
+    "faltas": 7
+  },
+  {
+    "id": 863,
+    "nome": "Marietta",
+    "sobrenome": "Manford",
+    "nota1": 5.8,
+    "nota2": 9.9,
+    "nota3": 3.7,
+    "nota4": 3.8,
+    "faltas": 14
+  },
+  {
+    "id": 864,
+    "nome": "Stillman",
+    "sobrenome": "Rookledge",
+    "nota1": 3.4,
+    "nota2": 6.5,
+    "nota3": 8.7,
+    "nota4": 4.8,
+    "faltas": 10
+  },
+  {
+    "id": 865,
+    "nome": "Crosby",
+    "sobrenome": "McDougle",
+    "nota1": 7.5,
+    "nota2": 6.5,
+    "nota3": 7.2,
+    "nota4": 9.5,
+    "faltas": 2
+  },
+  {
+    "id": 866,
+    "nome": "Katherina",
+    "sobrenome": "Gueinn",
+    "nota1": 2.6,
+    "nota2": 2.5,
+    "nota3": 8,
+    "nota4": 9.8,
+    "faltas": 20
+  },
+  {
+    "id": 867,
+    "nome": "Andeee",
+    "sobrenome": "Maasz",
+    "nota1": 5.4,
+    "nota2": 4.3,
+    "nota3": null,
+    "nota4": 7.3,
+    "faltas": 12
+  },
+  {
+    "id": 868,
+    "nome": "Putnam",
+    "sobrenome": "Itscovitz",
+    "nota1": 6.4,
+    "nota2": 7.2,
+    "nota3": 4.9,
+    "nota4": 3.9,
+    "faltas": 15
+  },
+  {
+    "id": 869,
+    "nome": "Nevin",
+    "sobrenome": "Rembrandt",
+    "nota1": 4.6,
+    "nota2": 2.3,
+    "nota3": 4,
+    "nota4": 3.8,
+    "faltas": 4
+  },
+  {
+    "id": 870,
+    "nome": "Rudolph",
+    "sobrenome": "Mollon",
+    "nota1": 2.1,
+    "nota2": 4.2,
+    "nota3": 3.8,
+    "nota4": 7.3,
+    "faltas": 3
+  },
+  {
+    "id": 871,
+    "nome": "Erica",
+    "sobrenome": "Cheng",
+    "nota1": 7,
+    "nota2": 1.9,
+    "nota3": 5,
+    "nota4": 1.3,
+    "faltas": 10
+  },
+  {
+    "id": 872,
+    "nome": "Sutton",
+    "sobrenome": "VanBrugh",
+    "nota1": 9.7,
+    "nota2": 1.9,
+    "nota3": 7.8,
+    "nota4": 9.1,
+    "faltas": 16
+  },
+  {
+    "id": 873,
+    "nome": "Wilbur",
+    "sobrenome": "Palmer",
+    "nota1": 1.9,
+    "nota2": 7.1,
+    "nota3": 9.5,
+    "nota4": 6.5,
+    "faltas": 11
+  },
+  {
+    "id": 874,
+    "nome": "Hube",
+    "sobrenome": "Kleinmintz",
+    "nota1": 2.3,
+    "nota2": 2.7,
+    "nota3": 1.4,
+    "nota4": 8,
+    "faltas": 13
+  },
+  {
+    "id": 875,
+    "nome": "Uri",
+    "sobrenome": "Beazer",
+    "nota1": 2.1,
+    "nota2": 8.1,
+    "nota3": 5.8,
+    "nota4": 2.1,
+    "faltas": 5
+  },
+  {
+    "id": 876,
+    "nome": "Cissy",
+    "sobrenome": "Delaprelle",
+    "nota1": 3.5,
+    "nota2": 3.1,
+    "nota3": 2.4,
+    "nota4": 1.1,
+    "faltas": 7
+  },
+  {
+    "id": 877,
+    "nome": "Glenine",
+    "sobrenome": "Telling",
+    "nota1": 7.6,
+    "nota2": 1.4,
+    "nota3": 6.3,
+    "nota4": 8.4,
+    "faltas": 1
+  },
+  {
+    "id": 878,
+    "nome": "Matelda",
+    "sobrenome": "Broome",
+    "nota1": 4,
+    "nota2": 8.9,
+    "nota3": 9.4,
+    "nota4": 2.3,
+    "faltas": 1
+  },
+  {
+    "id": 879,
+    "nome": "Mikel",
+    "sobrenome": "Chapling",
+    "nota1": 3.9,
+    "nota2": 1.7,
+    "nota3": 3.9,
+    "nota4": 9.1,
+    "faltas": 11
+  },
+  {
+    "id": 880,
+    "nome": "Mateo",
+    "sobrenome": "Meyrick",
+    "nota1": 1.6,
+    "nota2": 2.8,
+    "nota3": 4.2,
+    "nota4": 2,
+    "faltas": 2
+  },
+  {
+    "id": 881,
+    "nome": "Fallon",
+    "sobrenome": "Spykins",
+    "nota1": 7,
+    "nota2": 5.8,
+    "nota3": 6.8,
+    "nota4": 3.7,
+    "faltas": 15
+  },
+  {
+    "id": 882,
+    "nome": "Erda",
+    "sobrenome": "Lyon",
+    "nota1": 9.4,
+    "nota2": 4.5,
+    "nota3": 3.4,
+    "nota4": 9,
+    "faltas": 18
+  },
+  {
+    "id": 883,
+    "nome": "Fabien",
+    "sobrenome": "Landy",
+    "nota1": 4.1,
+    "nota2": 9.6,
+    "nota3": 3.7,
+    "nota4": 2,
+    "faltas": 16
+  },
+  {
+    "id": 884,
+    "nome": "Bastian",
+    "sobrenome": "Adkins",
+    "nota1": 2.8,
+    "nota2": 4.2,
+    "nota3": 8.5,
+    "nota4": 3.3,
+    "faltas": 7
+  },
+  {
+    "id": 885,
+    "nome": "Westleigh",
+    "sobrenome": "Adamoli",
+    "nota1": 1.1,
+    "nota2": null,
+    "nota3": 1.4,
+    "nota4": 7.3,
+    "faltas": 8
+  },
+  {
+    "id": 886,
+    "nome": "Baron",
+    "sobrenome": "McKee",
+    "nota1": 3.2,
+    "nota2": 2.9,
+    "nota3": 4.3,
+    "nota4": 8.7,
+    "faltas": 5
+  },
+  {
+    "id": 887,
+    "nome": "Martica",
+    "sobrenome": "Seekings",
+    "nota1": 3,
+    "nota2": 3.1,
+    "nota3": null,
+    "nota4": 8.8,
+    "faltas": 5
+  },
+  {
+    "id": 888,
+    "nome": "Liam",
+    "sobrenome": "Goodinson",
+    "nota1": 4.5,
+    "nota2": 8.8,
+    "nota3": 6.2,
+    "nota4": 7.1,
+    "faltas": 19
+  },
+  {
+    "id": 889,
+    "nome": "Artemas",
+    "sobrenome": "Wellesley",
+    "nota1": 1.1,
+    "nota2": 5.7,
+    "nota3": 3.2,
+    "nota4": 9.7,
+    "faltas": 20
+  },
+  {
+    "id": 890,
+    "nome": "Griffith",
+    "sobrenome": "Wherrit",
+    "nota1": 4.1,
+    "nota2": 6.6,
+    "nota3": null,
+    "nota4": 4.4,
+    "faltas": 16
+  },
+  {
+    "id": 891,
+    "nome": "Danita",
+    "sobrenome": "Haslin",
+    "nota1": 2,
+    "nota2": 9.7,
+    "nota3": 7.5,
+    "nota4": 8.1,
+    "faltas": 19
+  },
+  {
+    "id": 892,
+    "nome": "Blithe",
+    "sobrenome": "Greasty",
+    "nota1": 2.3,
+    "nota2": null,
+    "nota3": 1.6,
+    "nota4": 3.9,
+    "faltas": 14
+  },
+  {
+    "id": 893,
+    "nome": "Shirley",
+    "sobrenome": "Veldman",
+    "nota1": 8.9,
+    "nota2": 5.5,
+    "nota3": 9.9,
+    "nota4": 1.9,
+    "faltas": 12
+  },
+  {
+    "id": 894,
+    "nome": "Morgana",
+    "sobrenome": "Beet",
+    "nota1": 4.3,
+    "nota2": 6.5,
+    "nota3": 8.5,
+    "nota4": 7.8,
+    "faltas": 13
+  },
+  {
+    "id": 895,
+    "nome": "Kynthia",
+    "sobrenome": "Mosedill",
+    "nota1": 8.8,
+    "nota2": 3.6,
+    "nota3": 5.4,
+    "nota4": 8.2,
+    "faltas": 6
+  },
+  {
+    "id": 896,
+    "nome": "Fanchette",
+    "sobrenome": "Basillon",
+    "nota1": 7.9,
+    "nota2": 4.2,
+    "nota3": 7.3,
+    "nota4": 5.8,
+    "faltas": 7
+  },
+  {
+    "id": 897,
+    "nome": "Dulsea",
+    "sobrenome": "Garrioch",
+    "nota1": 8.4,
+    "nota2": 2.8,
+    "nota3": 8.6,
+    "nota4": 3.8,
+    "faltas": 2
+  },
+  {
+    "id": 898,
+    "nome": "Ashil",
+    "sobrenome": "Steptoe",
+    "nota1": 9.5,
+    "nota2": 8.6,
+    "nota3": 1.9,
+    "nota4": 2.5,
+    "faltas": 9
+  },
+  {
+    "id": 899,
+    "nome": "Johna",
+    "sobrenome": "Brand",
+    "nota1": 6.3,
+    "nota2": 2.3,
+    "nota3": 9.3,
+    "nota4": 7,
+    "faltas": 9
+  },
+  {
+    "id": 900,
+    "nome": "Dill",
+    "sobrenome": "Knighton",
+    "nota1": 6.9,
+    "nota2": 3.2,
+    "nota3": 7.3,
+    "nota4": 3.9,
+    "faltas": 18
+  },
+
+  {
+    "id": 901,
+    "nome": "Kimberlee",
+    "sobrenome": "Mottley",
+    "nota1": 1.3,
+    "nota2": 1.1,
+    "nota3": 4.1,
+    "nota4": 6.3,
+    "faltas": 2
+  },
+  {
+    "id": 902,
+    "nome": "Aigneis",
+    "sobrenome": "Peers",
+    "nota1": 4.1,
+    "nota2": 9,
+    "nota3": 9.4,
+    "nota4": 7.3,
+    "faltas": 4
+  },
+  {
+    "id": 903,
+    "nome": "Jerrie",
+    "sobrenome": "Ranaghan",
+    "nota1": 8,
+    "nota2": 8.3,
+    "nota3": 8,
+    "nota4": 1.6,
+    "faltas": 8
+  },
+  {
+    "id": 904,
+    "nome": "Griselda",
+    "sobrenome": "Drabble",
+    "nota1": 2.3,
+    "nota2": null,
+    "nota3": null,
+    "nota4": 7.2,
+    "faltas": 4
+  },
+  {
+    "id": 905,
+    "nome": "Clarinda",
+    "sobrenome": "Pulfer",
+    "nota1": 2.8,
+    "nota2": 5.5,
+    "nota3": 3.9,
+    "nota4": 9.6,
+    "faltas": 12
+  },
+  {
+    "id": 906,
+    "nome": "Roscoe",
+    "sobrenome": "Dollimore",
+    "nota1": 4.5,
+    "nota2": 7.1,
+    "nota3": 7.1,
+    "nota4": 3.1,
+    "faltas": 15
+  },
+  {
+    "id": 907,
+    "nome": "Cesaro",
+    "sobrenome": "Tremeer",
+    "nota1": 1.4,
+    "nota2": 2.8,
+    "nota3": 8,
+    "nota4": 2.7,
+    "faltas": 5
+  },
+  {
+    "id": 908,
+    "nome": "Sibilla",
+    "sobrenome": "Tuson",
+    "nota1": 4.4,
+    "nota2": 7.2,
+    "nota3": 9,
+    "nota4": 1.3,
+    "faltas": 4
+  },
+  {
+    "id": 909,
+    "nome": "Lauretta",
+    "sobrenome": "Gitting",
+    "nota1": 1.8,
+    "nota2": 3.5,
+    "nota3": 1.1,
+    "nota4": 3.1,
+    "faltas": 3
+  },
+  {
+    "id": 910,
+    "nome": "Stern",
+    "sobrenome": "Jiroutek",
+    "nota1": 9.7,
+    "nota2": 3.2,
+    "nota3": 1.4,
+    "nota4": 2.3,
+    "faltas": 9
+  },
+  {
+    "id": 911,
+    "nome": "Karel",
+    "sobrenome": "Durtnal",
+    "nota1": 8.5,
+    "nota2": 2.5,
+    "nota3": 7.4,
+    "nota4": 5.1,
+    "faltas": 8
+  },
+  {
+    "id": 912,
+    "nome": "Carline",
+    "sobrenome": "Fursse",
+    "nota1": 7.2,
+    "nota2": 2.5,
+    "nota3": 4.2,
+    "nota4": 8.9,
+    "faltas": 3
+  },
+  {
+    "id": 913,
+    "nome": "Anabelle",
+    "sobrenome": "Gurling",
+    "nota1": 3.7,
+    "nota2": 4.2,
+    "nota3": 7.1,
+    "nota4": 5.5,
+    "faltas": 6
+  },
+  {
+    "id": 914,
+    "nome": "Gert",
+    "sobrenome": "Ryson",
+    "nota1": 5.8,
+    "nota2": 5.8,
+    "nota3": 9.1,
+    "nota4": 1.7,
+    "faltas": 17
+  },
+  {
+    "id": 915,
+    "nome": "Auguste",
+    "sobrenome": "Tire",
+    "nota1": 3.8,
+    "nota2": 4.7,
+    "nota3": 7.9,
+    "nota4": 6.7,
+    "faltas": 18
+  },
+  {
+    "id": 916,
+    "nome": "Hollis",
+    "sobrenome": "Hardcastle",
+    "nota1": 4.5,
+    "nota2": 4.3,
+    "nota3": null,
+    "nota4": 1.6,
+    "faltas": 9
+  },
+  {
+    "id": 917,
+    "nome": "Juan",
+    "sobrenome": "Sesons",
+    "nota1": 8.7,
+    "nota2": 9.6,
+    "nota3": 9.6,
+    "nota4": 5.8,
+    "faltas": 19
+  },
+  {
+    "id": 918,
+    "nome": "Inna",
+    "sobrenome": "Fuentes",
+    "nota1": 5.4,
+    "nota2": 2.6,
+    "nota3": 8.8,
+    "nota4": 4.2,
+    "faltas": 14
+  },
+  {
+    "id": 919,
+    "nome": "Ransell",
+    "sobrenome": "Neads",
+    "nota1": 4.3,
+    "nota2": 2.5,
+    "nota3": null,
+    "nota4": 9.4,
+    "faltas": 5
+  },
+  {
+    "id": 920,
+    "nome": "Gannie",
+    "sobrenome": "Challenor",
+    "nota1": 2.8,
+    "nota2": 3.3,
+    "nota3": 1.6,
+    "nota4": 5.7,
+    "faltas": 18
+  },
+  {
+    "id": 921,
+    "nome": "Giacinta",
+    "sobrenome": "Eeles",
+    "nota1": 1.3,
+    "nota2": 4.5,
+    "nota3": 3,
+    "nota4": 6.5,
+    "faltas": 13
+  },
+  {
+    "id": 922,
+    "nome": "Alanson",
+    "sobrenome": "Gerren",
+    "nota1": 7.4,
+    "nota2": 1.9,
+    "nota3": 3.9,
+    "nota4": 7.3,
+    "faltas": 14
+  },
+  {
+    "id": 923,
+    "nome": "Eryn",
+    "sobrenome": "Pinder",
+    "nota1": 9.3,
+    "nota2": 5.5,
+    "nota3": 8,
+    "nota4": 2.8,
+    "faltas": 19
+  },
+  {
+    "id": 924,
+    "nome": "Reggie",
+    "sobrenome": "Ullyatt",
+    "nota1": 6.2,
+    "nota2": 3.5,
+    "nota3": 2.6,
+    "nota4": 5.1,
+    "faltas": 13
+  },
+  {
+    "id": 925,
+    "nome": "Damian",
+    "sobrenome": "Wearing",
+    "nota1": 9.5,
+    "nota2": 4,
+    "nota3": null,
+    "nota4": 9.9,
+    "faltas": 17
+  },
+  {
+    "id": 926,
+    "nome": "Shauna",
+    "sobrenome": "Josskowitz",
+    "nota1": 9.6,
+    "nota2": 2.6,
+    "nota3": 3.6,
+    "nota4": 1.3,
+    "faltas": 12
+  },
+  {
+    "id": 927,
+    "nome": "Phillis",
+    "sobrenome": "Eberle",
+    "nota1": 4.7,
+    "nota2": 5.2,
+    "nota3": 2.9,
+    "nota4": 5.5,
+    "faltas": 8
+  },
+  {
+    "id": 928,
+    "nome": "Dolph",
+    "sobrenome": "Pitkeathley",
+    "nota1": 6.5,
+    "nota2": 1,
+    "nota3": 2.2,
+    "nota4": 8.4,
+    "faltas": 12
+  },
+  {
+    "id": 929,
+    "nome": "Nerte",
+    "sobrenome": "Ensley",
+    "nota1": 3.9,
+    "nota2": 9.1,
+    "nota3": 6.7,
+    "nota4": 9.5,
+    "faltas": 8
+  },
+  {
+    "id": 930,
+    "nome": "Donia",
+    "sobrenome": "Skala",
+    "nota1": 2.7,
+    "nota2": 1.6,
+    "nota3": 2.7,
+    "nota4": 1.4,
+    "faltas": 18
+  },
+  {
+    "id": 931,
+    "nome": "Jonas",
+    "sobrenome": "Bottomer",
+    "nota1": 8.9,
+    "nota2": 2.5,
+    "nota3": null,
+    "nota4": 6.3,
+    "faltas": 8
+  },
+  {
+    "id": 932,
+    "nome": "Meridel",
+    "sobrenome": "Adelberg",
+    "nota1": 2.2,
+    "nota2": 2,
+    "nota3": 3.3,
+    "nota4": 1.7,
+    "faltas": 14
+  },
+  {
+    "id": 933,
+    "nome": "Jeana",
+    "sobrenome": "Kaveney",
+    "nota1": 6.6,
+    "nota2": 7.7,
+    "nota3": 1.1,
+    "nota4": null,
+    "faltas": 5
+  },
+  {
+    "id": 934,
+    "nome": "Starla",
+    "sobrenome": "Hollyar",
+    "nota1": 7,
+    "nota2": 9.9,
+    "nota3": 7.9,
+    "nota4": 6.4,
+    "faltas": 10
+  },
+  {
+    "id": 935,
+    "nome": "Adriaens",
+    "sobrenome": "Sterte",
+    "nota1": 8.3,
+    "nota2": 7.7,
+    "nota3": 8.2,
+    "nota4": null,
+    "faltas": 4
+  },
+  {
+    "id": 936,
+    "nome": "Siana",
+    "sobrenome": "Thomason",
+    "nota1": 6,
+    "nota2": 5.4,
+    "nota3": null,
+    "nota4": 6.3,
+    "faltas": 14
+  },
+  {
+    "id": 937,
+    "nome": "Willow",
+    "sobrenome": "Bullar",
+    "nota1": 1.1,
+    "nota2": 3.1,
+    "nota3": 7.1,
+    "nota4": 9.6,
+    "faltas": 8
+  },
+  {
+    "id": 938,
+    "nome": "Mickie",
+    "sobrenome": "Borgne",
+    "nota1": 1.9,
+    "nota2": 6.1,
+    "nota3": null,
+    "nota4": 8.5,
+    "faltas": 2
+  },
+  {
+    "id": 939,
+    "nome": "Avram",
+    "sobrenome": "McKinnell",
+    "nota1": 7.6,
+    "nota2": 1.9,
+    "nota3": 6.2,
+    "nota4": 5.5,
+    "faltas": 15
+  },
+  {
+    "id": 940,
+    "nome": "Bibi",
+    "sobrenome": "Tatterton",
+    "nota1": 8.5,
+    "nota2": 4.2,
+    "nota3": 2.2,
+    "nota4": 7.2,
+    "faltas": 1
+  },
+  {
+    "id": 941,
+    "nome": "Karlis",
+    "sobrenome": "Titterrell",
+    "nota1": 4.7,
+    "nota2": 3.3,
+    "nota3": null,
+    "nota4": 6.4,
+    "faltas": 2
+  },
+  {
+    "id": 942,
+    "nome": "Valli",
+    "sobrenome": "Reddish",
+    "nota1": 4.2,
+    "nota2": 4,
+    "nota3": 3.1,
+    "nota4": 10,
+    "faltas": 3
+  },
+  {
+    "id": 943,
+    "nome": "Caz",
+    "sobrenome": "McIsaac",
+    "nota1": 3.1,
+    "nota2": 5.4,
+    "nota3": null,
+    "nota4": 6.3,
+    "faltas": 6
+  },
+  {
+    "id": 944,
+    "nome": "Garrik",
+    "sobrenome": "Combes",
+    "nota1": 1.7,
+    "nota2": 2.1,
+    "nota3": 4.1,
+    "nota4": 7.5,
+    "faltas": 13
+  },
+  {
+    "id": 945,
+    "nome": "Codie",
+    "sobrenome": "Stroulger",
+    "nota1": 6.7,
+    "nota2": 7.9,
+    "nota3": 1.5,
+    "nota4": 3.8,
+    "faltas": 2
+  },
+  {
+    "id": 946,
+    "nome": "Skipper",
+    "sobrenome": "Snashall",
+    "nota1": 3.9,
+    "nota2": 5.6,
+    "nota3": 3,
+    "nota4": 2.3,
+    "faltas": 19
+  },
+  {
+    "id": 947,
+    "nome": "Tedra",
+    "sobrenome": "Loseby",
+    "nota1": 8.2,
+    "nota2": 9.2,
+    "nota3": 4,
+    "nota4": 1.2,
+    "faltas": 2
+  },
+  {
+    "id": 948,
+    "nome": "Artie",
+    "sobrenome": "Camilleri",
+    "nota1": 6.6,
+    "nota2": 8.5,
+    "nota3": 6.1,
+    "nota4": 5.7,
+    "faltas": 11
+  },
+  {
+    "id": 949,
+    "nome": "Ced",
+    "sobrenome": "Worsalls",
+    "nota1": 5.5,
+    "nota2": 1,
+    "nota3": null,
+    "nota4": 8.1,
+    "faltas": 7
+  },
+  {
+    "id": 950,
+    "nome": "Dionne",
+    "sobrenome": "Golland",
+    "nota1": 5.9,
+    "nota2": 1.4,
+    "nota3": 2.8,
+    "nota4": 7.7,
+    "faltas": 8
+  },
+  {
+    "id": 951,
+    "nome": "Timofei",
+    "sobrenome": "Blunderfield",
+    "nota1": 7.7,
+    "nota2": 2.1,
+    "nota3": null,
+    "nota4": 2.8,
+    "faltas": 20
+  },
+  {
+    "id": 952,
+    "nome": "Willie",
+    "sobrenome": "Zoanetti",
+    "nota1": 7,
+    "nota2": 4.6,
+    "nota3": 2.1,
+    "nota4": 7.8,
+    "faltas": 19
+  },
+  {
+    "id": 953,
+    "nome": "Trent",
+    "sobrenome": "Carragher",
+    "nota1": 9.7,
+    "nota2": 4.7,
+    "nota3": 9.9,
+    "nota4": 9.8,
+    "faltas": 18
+  },
+  {
+    "id": 954,
+    "nome": "Daren",
+    "sobrenome": "Thews",
+    "nota1": 9.5,
+    "nota2": 2.3,
+    "nota3": 7.7,
+    "nota4": 9.8,
+    "faltas": 2
+  },
+  {
+    "id": 955,
+    "nome": "Revkah",
+    "sobrenome": "Stannett",
+    "nota1": 5.1,
+    "nota2": 2.8,
+    "nota3": 1.7,
+    "nota4": 7.3,
+    "faltas": 12
+  },
+  {
+    "id": 956,
+    "nome": "Kylie",
+    "sobrenome": "Bearham",
+    "nota1": 4.3,
+    "nota2": 7.5,
+    "nota3": 7.9,
+    "nota4": 5,
+    "faltas": 15
+  },
+  {
+    "id": 957,
+    "nome": "Rubetta",
+    "sobrenome": "Gecks",
+    "nota1": 9.9,
+    "nota2": 5.1,
+    "nota3": 3,
+    "nota4": 4.3,
+    "faltas": 14
+  },
+  {
+    "id": 958,
+    "nome": "Charla",
+    "sobrenome": "Pleming",
+    "nota1": 9.4,
+    "nota2": 7.8,
+    "nota3": 4.1,
+    "nota4": 1.3,
+    "faltas": 15
+  },
+  {
+    "id": 959,
+    "nome": "Kippie",
+    "sobrenome": "Oglesbee",
+    "nota1": 1.6,
+    "nota2": 3.5,
+    "nota3": 5.9,
+    "nota4": 2.1,
+    "faltas": 12
+  },
+  {
+    "id": 960,
+    "nome": "Cosette",
+    "sobrenome": "Shayes",
+    "nota1": 6.6,
+    "nota2": 4,
+    "nota3": 9.7,
+    "nota4": 3.8,
+    "faltas": 18
+  },
+  {
+    "id": 961,
+    "nome": "Bert",
+    "sobrenome": "Berks",
+    "nota1": 3.4,
+    "nota2": 7.6,
+    "nota3": 7.7,
+    "nota4": 9.4,
+    "faltas": 6
+  },
+  {
+    "id": 962,
+    "nome": "Rianon",
+    "sobrenome": "Irdale",
+    "nota1": 7.7,
+    "nota2": 1.1,
+    "nota3": 1.6,
+    "nota4": 9.9,
+    "faltas": 16
+  },
+  {
+    "id": 963,
+    "nome": "Tilly",
+    "sobrenome": "Clouston",
+    "nota1": 8.6,
+    "nota2": 4,
+    "nota3": 1.7,
+    "nota4": 6.9,
+    "faltas": 1
+  },
+  {
+    "id": 964,
+    "nome": "Mercy",
+    "sobrenome": "Imesson",
+    "nota1": 3.3,
+    "nota2": 9.9,
+    "nota3": 9.3,
+    "nota4": 2.2,
+    "faltas": 16
+  },
+  {
+    "id": 965,
+    "nome": "Weylin",
+    "sobrenome": "Gudgin",
+    "nota1": 4.6,
+    "nota2": 3.7,
+    "nota3": 1.7,
+    "nota4": 1.3,
+    "faltas": 5
+  },
+  {
+    "id": 966,
+    "nome": "Brendan",
+    "sobrenome": "Penman",
+    "nota1": 7.4,
+    "nota2": null,
+    "nota3": 4.1,
+    "nota4": 9.4,
+    "faltas": 10
+  },
+  {
+    "id": 967,
+    "nome": "Tiphani",
+    "sobrenome": "Ofen",
+    "nota1": 9.2,
+    "nota2": 6.6,
+    "nota3": 4.3,
+    "nota4": 1.6,
+    "faltas": 13
+  },
+  {
+    "id": 968,
+    "nome": "Marjory",
+    "sobrenome": "Broxton",
+    "nota1": 8.7,
+    "nota2": null,
+    "nota3": 2,
+    "nota4": 1.3,
+    "faltas": 1
+  },
+  {
+    "id": 969,
+    "nome": "Camey",
+    "sobrenome": "Sturte",
+    "nota1": 2.4,
+    "nota2": 2,
+    "nota3": 2.3,
+    "nota4": 6.6,
+    "faltas": 8
+  },
+  {
+    "id": 970,
+    "nome": "Gusella",
+    "sobrenome": "Ceyssen",
+    "nota1": 7.3,
+    "nota2": 7.4,
+    "nota3": 8.1,
+    "nota4": 1.1,
+    "faltas": 9
+  },
+  {
+    "id": 971,
+    "nome": "Bev",
+    "sobrenome": "Baffin",
+    "nota1": 9.8,
+    "nota2": 8,
+    "nota3": null,
+    "nota4": 4.2,
+    "faltas": 9
+  },
+  {
+    "id": 972,
+    "nome": "Claudianus",
+    "sobrenome": "Dimitrie",
+    "nota1": 1.6,
+    "nota2": 2.5,
+    "nota3": 7,
+    "nota4": null,
+    "faltas": 12
+  },
+  {
+    "id": 973,
+    "nome": "Sandro",
+    "sobrenome": "Malby",
+    "nota1": 5.2,
+    "nota2": 1.6,
+    "nota3": 7.1,
+    "nota4": 5.5,
+    "faltas": 1
+  },
+  {
+    "id": 974,
+    "nome": "Shirlene",
+    "sobrenome": "Braniff",
+    "nota1": 5.8,
+    "nota2": 6.1,
+    "nota3": 4.4,
+    "nota4": 8.1,
+    "faltas": 13
+  },
+  {
+    "id": 975,
+    "nome": "Ninon",
+    "sobrenome": "enzley",
+    "nota1": 4.6,
+    "nota2": 7.1,
+    "nota3": 5.8,
+    "nota4": 4.6,
+    "faltas": 3
+  },
+  {
+    "id": 976,
+    "nome": "Diarmid",
+    "sobrenome": "Drexel",
+    "nota1": 5.8,
+    "nota2": 3.2,
+    "nota3": 4,
+    "nota4": 3.6,
+    "faltas": 19
+  },
+  {
+    "id": 977,
+    "nome": "Tomas",
+    "sobrenome": "Ledamun",
+    "nota1": 3,
+    "nota2": 2.8,
+    "nota3": 7.3,
+    "nota4": 4.3,
+    "faltas": 9
+  },
+  {
+    "id": 978,
+    "nome": "Brenna",
+    "sobrenome": "Pulford",
+    "nota1": 1.2,
+    "nota2": 2.4,
+    "nota3": null,
+    "nota4": 6.6,
+    "faltas": 8
+  },
+  {
+    "id": 979,
+    "nome": "Binnie",
+    "sobrenome": "Dwyr",
+    "nota1": 8.7,
+    "nota2": 2,
+    "nota3": 2.2,
+    "nota4": 4.1,
+    "faltas": 8
+  },
+  {
+    "id": 980,
+    "nome": "Dionis",
+    "sobrenome": "Mylan",
+    "nota1": 3.8,
+    "nota2": 2.8,
+    "nota3": 1.2,
+    "nota4": 1.9,
+    "faltas": 3
+  },
+  {
+    "id": 981,
+    "nome": "Chelsey",
+    "sobrenome": "De Angelo",
+    "nota1": 8.8,
+    "nota2": 5.7,
+    "nota3": 4.1,
+    "nota4": 6.3,
+    "faltas": 11
+  },
+  {
+    "id": 982,
+    "nome": "Naoma",
+    "sobrenome": "Brolechan",
+    "nota1": 8,
+    "nota2": 5.1,
+    "nota3": 8.9,
+    "nota4": 6,
+    "faltas": 19
+  },
+  {
+    "id": 983,
+    "nome": "Maurita",
+    "sobrenome": "Pennick",
+    "nota1": 5.9,
+    "nota2": 3.9,
+    "nota3": 1.7,
+    "nota4": 7,
+    "faltas": 2
+  },
+  {
+    "id": 984,
+    "nome": "Kass",
+    "sobrenome": "Husher",
+    "nota1": 9.5,
+    "nota2": 3.5,
+    "nota3": 1.8,
+    "nota4": 7.6,
+    "faltas": 14
+  },
+  {
+    "id": 985,
+    "nome": "Sayers",
+    "sobrenome": "Francillo",
+    "nota1": 3.5,
+    "nota2": 8.6,
+    "nota3": 8.9,
+    "nota4": 7.4,
+    "faltas": 1
+  },
+  {
+    "id": 986,
+    "nome": "Kippar",
+    "sobrenome": "Falks",
+    "nota1": 5.5,
+    "nota2": 6.6,
+    "nota3": 7.1,
+    "nota4": 4,
+    "faltas": 10
+  },
+  {
+    "id": 987,
+    "nome": "Fernandina",
+    "sobrenome": "Manicomb",
+    "nota1": 4.8,
+    "nota2": 3.3,
+    "nota3": 6.8,
+    "nota4": 8.4,
+    "faltas": 20
+  },
+  {
+    "id": 988,
+    "nome": "Caleb",
+    "sobrenome": "Reschke",
+    "nota1": 5.4,
+    "nota2": 5.2,
+    "nota3": 3.3,
+    "nota4": 1.3,
+    "faltas": 6
+  },
+  {
+    "id": 989,
+    "nome": "Kore",
+    "sobrenome": "Ottawell",
+    "nota1": 5,
+    "nota2": 7.1,
+    "nota3": 1.6,
+    "nota4": 2.6,
+    "faltas": 13
+  },
+  {
+    "id": 990,
+    "nome": "Elyssa",
+    "sobrenome": "Peller",
+    "nota1": 8.3,
+    "nota2": 5.7,
+    "nota3": 3.7,
+    "nota4": 8.1,
+    "faltas": 2
+  },
+  {
+    "id": 991,
+    "nome": "Arch",
+    "sobrenome": "Charville",
+    "nota1": 4.5,
+    "nota2": 6.8,
+    "nota3": 2.6,
+    "nota4": 9.9,
+    "faltas": 3
+  },
+  {
+    "id": 992,
+    "nome": "Wayland",
+    "sobrenome": "Hentzer",
+    "nota1": 4.5,
+    "nota2": 2.7,
+    "nota3": 4.2,
+    "nota4": 8,
+    "faltas": 3
+  },
+  {
+    "id": 993,
+    "nome": "Oralla",
+    "sobrenome": "Carlyon",
+    "nota1": 7.3,
+    "nota2": 7.8,
+    "nota3": 1.9,
+    "nota4": 2.9,
+    "faltas": 13
+  },
+  {
+    "id": 994,
+    "nome": "Fairleigh",
+    "sobrenome": "Longden",
+    "nota1": 4.8,
+    "nota2": 3.9,
+    "nota3": 3.1,
+    "nota4": 3.1,
+    "faltas": 1
+  },
+  {
+    "id": 995,
+    "nome": "Anne",
+    "sobrenome": "Ivakhno",
+    "nota1": 4.1,
+    "nota2": 4.3,
+    "nota3": null,
+    "nota4": 6.2,
+    "faltas": 1
+  },
+  {
+    "id": 996,
+    "nome": "Ingram",
+    "sobrenome": "Balsellie",
+    "nota1": 5.8,
+    "nota2": 7.3,
+    "nota3": 1.7,
+    "nota4": 8.7,
+    "faltas": 14
+  },
+  {
+    "id": 997,
+    "nome": "Clotilda",
+    "sobrenome": "Luton",
+    "nota1": 8.9,
+    "nota2": 1.5,
+    "nota3": 6.6,
+    "nota4": 3.2,
+    "faltas": 11
+  },
+  {
+    "id": 998,
+    "nome": "Sylvan",
+    "sobrenome": "Kingsworth",
+    "nota1": 7.6,
+    "nota2": 5.3,
+    "nota3": 5.7,
+    "nota4": 5.8,
+    "faltas": 12
+  },
+  {
+    "id": 999,
+    "nome": "Sean",
+    "sobrenome": "Scullard",
+    "nota1": 2,
+    "nota2": 8.9,
+    "nota3": 7.1,
+    "nota4": 6.8,
+    "faltas": 4
+  },
+  {
+    "id": 1000,
+    "nome": "Fax",
+    "sobrenome": "Tunbridge",
+    "nota1": 1.3,
+    "nota2": 9.4,
+    "nota3": 7.1,
+    "nota4": 9.3,
+    "faltas": 14
+  }
+]
